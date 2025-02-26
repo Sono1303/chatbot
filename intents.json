@@ -1,0 +1,246 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+      "responses": ["Hi there, how can I help?"],
+      "context_set": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+      "responses": ["Goodbye!"],
+      "context_set": ""
+    },
+    {
+      "tag": "how",
+      "patterns": ["How are you?", "How is your day?", "How do you feel?", "Are you good?"],
+      "responses": ["I am fine, thanks for asking!"],
+      "context_set": ""
+    },
+    {
+      "tag": "thank",
+      "patterns": ["Thank you!", "Great job!", "Lovely!", "You are the best"],
+      "responses": ["You're welcome, that's my pleasure"],
+      "context_set": ""
+    },
+    {
+      "tag": "suggest_dish",
+      "patterns": [
+        "What should I eat today?",
+        "Can you suggest a dish?",
+        "I don't know what to eat, help me!",
+        "Any food recommendations?",
+        "Suggest me a meal",
+        "What’s for dinner?",
+        "What’s for lunch?",
+        "I’m hungry, what should I eat?"
+      ],
+      "responses": ["Tell me about what you want to eat or what ingredients you have"],
+      "context_set": ""
+    },
+    {
+      "tag": "pho_bo",
+      "patterns": ["Beef bones", "Beef brisket", "Beef sirloin", "Rice noodles", "Star anise", "Cinnamon", "Cloves", "Ginger", "Onion", "Fish sauce"],
+      "responses": ["You can make a delicious bowl of Pho Bo with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "pho_ga",
+      "patterns": ["Chicken bones", "Chicken breast", "Chicken thighs", "Rice noodles", "Star anise", "Cinnamon", "Ginger", "Onion", "Fish sauce"],
+      "responses": ["You can make a comforting bowl of Pho Ga with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "pho_chay",
+      "patterns": ["Mushroom broth", "Tofu", "Carrots", "Daikon radish", "Rice noodles", "Star anise", "Cinnamon", "Ginger", "Onion", "Soy sauce"],
+      "responses": ["You can prepare a healthy and delicious Pho Chay with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "pho_hai_san",
+      "patterns": ["Shrimp", "Squid", "Fish fillet", "Rice noodles", "Ginger", "Onion", "Star anise", "Fish sauce", "Lemongrass"],
+      "responses": ["You can make a unique and delicious Pho Hai San with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_pho_bo",
+      "patterns": ["How do I make beef pho?", "What is the recipe for pho bo?", "Can you tell me how to cook beef pho?", "How to prepare Vietnamese beef pho?", "What are the steps to make pho bo?", "How to cook authentic beef pho?"],
+      "responses": ["Here’s how you can make a bowl of Pho Bo"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_pho_ga",
+      "patterns": ["How do I make chicken pho?", "What is the recipe for pho ga?", "Can you tell me how to cook chicken pho?", "How to prepare Vietnamese chicken pho?", "What are the steps to make pho ga?", "How to cook authentic chicken pho?"],
+      "responses": ["Here’s how you can make a bowl of Pho Ga"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_pho_chay",
+      "patterns": ["How do I make vegetarian pho?", "What is the recipe for pho chay?", "Can you tell me how to cook vegetarian pho?", "How to prepare Vietnamese vegetarian pho?", "What are the steps to make pho chay?", "How to cook authentic vegetarian pho?"],
+      "responses": ["Here’s how you can make a bowl of Pho Chay"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_pho_hai_san",
+      "patterns": ["How do I make seafood pho?", "What is the recipe for pho hai san?", "Can you tell me how to cook seafood pho?", "How to prepare Vietnamese seafood pho?", "What are the steps to make pho hai san?", "How to cook authentic seafood pho?"],
+      "responses": ["Here’s how you can make a bowl of Pho Hai San"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_bo_hue",
+      "patterns": ["Beef shank", "Pork bones", "Lemongrass", "Shrimp paste", "Chili oil", "Rice vermicelli", "Banana blossom", "Onion", "Fish sauce"],
+      "responses": ["With these ingredients, you can make a delicious bowl of Bun Bo Hue!"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_bun_bo_hue",
+      "patterns": ["How do I make Bun Bo Hue?", "What is the recipe for Bun Bo Hue?", "Can you tell me how to cook Bun Bo Hue?", "How to prepare Vietnamese Bun Bo Hue?", "What are the steps to make Bun Bo Hue?", "How to cook authentic Bun Bo Hue?"],
+      "responses": ["Here’s how you can make a bowl of Bun Bo Hue"],
+      "context_set": ""
+    },
+    {
+      "tag": "banh_cuon",
+      "patterns": ["Rice flour", "Ground pork", "Wood ear mushrooms", "Shallots", "Fish sauce", "Bean sprouts", "Cucumber", "Vietnamese sausage"],
+      "responses": ["With these ingredients, you can make delicious Banh Cuon!"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_banh_cuon",
+      "patterns": ["How do I make Banh Cuon?", "What is the recipe for Banh Cuon?", "Can you tell me how to cook Banh Cuon?", "How to prepare Vietnamese Banh Cuon?", "What are the steps to make Banh Cuon?", "How to cook authentic Banh Cuon?"],
+      "responses": ["Here’s how you can make a plate of Banh Cuon"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_rieu",
+      "patterns": ["Crab meat", "Tomatoes", "Tofu", "Eggs", "Rice vermicelli", "Shrimp paste", "Pork broth", "Annatto oil", "Fish sauce"],
+      "responses": ["You can prepare a rich and tangy Bun Rieu with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_cha",
+      "patterns": ["Ground pork", "Pork belly", "Fish sauce", "Sugar", "Garlic", "Shallots", "Rice vermicelli", "Pickled carrots", "Lettuce"],
+      "responses": ["With these ingredients, you can make the famous Bun Cha from Hanoi!"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_thit_nuong",
+      "patterns": ["Pork shoulder", "Lemongrass", "Garlic", "Fish sauce", "Sugar", "Rice vermicelli", "Peanuts", "Pickled daikon", "Cucumber"],
+      "responses": ["You can make a tasty bowl of Bun Thit Nuong with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_ca",
+      "patterns": ["Fish fillet", "Tomatoes", "Dill", "Turmeric", "Fish sauce", "Rice vermicelli", "Pineapple", "Shallots", "Garlic"],
+      "responses": ["You can prepare a delicious bowl of Bun Ca with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_mam",
+      "patterns": ["Fermented fish paste", "Shrimp", "Pork belly", "Eggplant", "Rice vermicelli", "Garlic", "Lemongrass", "Chili", "Fish sauce"],
+      "responses": ["With these ingredients, you can make a flavorful bowl of Bun Mam!"],
+      "context_set": ""
+    },
+    {
+      "tag": "bun_nem",
+      "patterns": ["Ground pork", "Shrimp", "Rice paper", "Garlic", "Glass noodles", "Rice vermicelli", "Pickled vegetables", "Fish sauce", "Lettuce"],
+      "responses": ["You can make a refreshing bowl of Bun Nem with these ingredients!"],
+      "context_set": ""
+    },
+    {
+      "tag": "thit_lon_xao_chua_ngot",
+      "patterns": ["Pork shoulder", "Pineapple", "Bell peppers", "Garlic", "Fish sauce", "Sugar", "Vinegar", "Cornstarch"],
+      "responses": ["With these ingredients, you can make a tasty Thit Lon Xao Chua Ngot!"],
+      "context_set": ""
+    },
+    {
+      "tag": "long_heo_luoc",
+      "patterns": ["Pork intestines", "Pork liver", "Pork stomach", "Fish sauce", "Salt", "Ginger", "Garlic"],
+      "responses": ["With these ingredients, you can prepare a delicious platter of Long Heo Luoc!"],
+      "context_set": ""
+    },
+    {
+      "tag": "gio_heo_ham_mang",
+      "patterns": ["Pork trotters", "Bamboo shoots", "Fish sauce", "Garlic", "Ginger", "Black pepper", "Shallots"],
+      "responses": ["With these ingredients, you can make a rich and comforting Gio Heo Ham Mang!"],
+      "context_set": ""
+    },
+    {
+      "tag": "thit_heo_quay",
+      "patterns": ["Pork belly", "Salt", "Five-spice powder", "Garlic", "Vinegar", "Soy sauce", "Sugar", "Black pepper"],
+      "responses": ["With these ingredients, you can make crispy and flavorful Thit Heo Quay!"],
+      "context_set": ""
+    },
+    {
+      "tag": "thit_kho_tau",
+      "patterns": ["Pork belly", "Coconut water", "Fish sauce", "Sugar", "Garlic", "Shallots", "Hard-boiled eggs", "Black pepper"],
+      "responses": ["With these ingredients, you can make a delicious pot of Thit Kho Tau!"],
+      "context_set": ""
+    },
+    {
+      "tag": "ga_kho_gung",
+      "patterns": ["Chicken", "Ginger", "Fish sauce", "Sugar", "Garlic", "Black pepper", "Shallots"],
+      "responses": ["With these ingredients, you can make a delicious pot of Ga Kho Gung!"],
+      "context_set": ""
+    },
+    {
+      "tag": "trung_chien_ca_chua",
+      "patterns": ["Eggs", "Tomatoes", "Fish sauce", "Sugar", "Garlic", "Shallots", "Black pepper"],
+      "responses": ["With these ingredients, you can prepare a simple yet delicious Trung Chien Ca Chua!"],
+      "context_set": ""
+    },
+    {
+      "tag": "dua_muoi",
+      "patterns": ["Cabbage", "Carrots", "Salt", "Sugar", "Vinegar", "Garlic", "Chili"],
+      "responses": ["With these ingredients, you can make a crunchy and tangy Dua Muoi!"],
+      "context_set": ""
+    },
+    {
+      "tag": "canh_chua_ca",
+      "patterns": ["Fish", "Pineapple", "Tomatoes", "Tamarind", "Fish sauce", "Garlic", "Okra", "Bean sprouts"],
+      "responses": ["With these ingredients, you can make a delicious bowl of Canh Chua Ca!"],
+      "context_set": ""
+    },
+    {
+      "tag": "rau_muong_xao_toi",
+      "patterns": ["Water spinach", "Garlic", "Fish sauce", "Salt", "Sugar", "Oil"],
+      "responses": ["With these ingredients, you can prepare a simple and tasty Rau Muong Xao Toi!"],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_ga_kho_gung",
+      "patterns": ["How do I make Ga Kho Gung?", "What is the recipe for Ga Kho Gung?", "Can you tell me how to cook Ga Kho Gung?"],
+      "responses": ["To make Ga Kho Gung, marinate chicken with fish sauce, sugar, and black pepper. Saute garlic, shallots, and ginger, then add chicken and cook until golden brown. Add water and simmer until the sauce thickens."],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_trung_chien_ca_chua",
+      "patterns": ["How do I make Trung Chien Ca Chua?", "What is the recipe for Trung Chien Ca Chua?", "Can you tell me how to cook Trung Chien Ca Chua?"],
+      "responses": ["To make Trung Chien Ca Chua, beat eggs with fish sauce and black pepper. Sauté garlic and shallots, add tomatoes, and cook until soft. Pour in the eggs and cook until set."],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_dua_muoi",
+      "patterns": ["How do I make Dua Muoi?", "What is the recipe for Dua Muoi?", "Can you tell me how to prepare Dua Muoi?"],
+      "responses": ["To make Dua Muoi, slice cabbage and carrots, then mix with salt and let sit for 30 minutes. Rinse, then mix with sugar, vinegar, garlic, and chili. Store in a jar and let ferment for a day before serving."],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_canh_chua_ca",
+      "patterns": ["How do I make Canh Chua Ca?", "What is the recipe for Canh Chua Ca?", "Can you tell me how to cook Canh Chua Ca?"],
+      "responses": ["To make Canh Chua Ca, boil fish with tamarind, pineapple, and tomatoes. Add fish sauce, garlic, okra, and bean sprouts. Simmer until fish is cooked and serve hot."],
+      "context_set": ""
+    },
+    {
+      "tag": "recipe_rau_muong_xao_toi",
+      "patterns": ["How do I make Rau Muong Xao Toi?", "What is the recipe for Rau Muong Xao Toi?", "Can you tell me how to cook Rau Muong Xao Toi?"],
+      "responses": ["To make Rau Muong Xao Toi, blanch water spinach briefly, then stir-fry with garlic, fish sauce, salt, and sugar. Cook quickly on high heat and serve immediately."],
+      "context_set": ""
+    }
+  ]
+}
+
+
+
+
+
