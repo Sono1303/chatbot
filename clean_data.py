@@ -11,6 +11,9 @@ for item in data['intents']:
     else:
         del item
 
+print(len(data['intents']))
+print(len(cleaned_data))
+
 cleaned_json = {
     "intents": cleaned_data
 }
