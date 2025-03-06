@@ -1,246 +1,2832 @@
 {
-  "intents": [
-    {
-      "tag": "greeting",
-      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
-      "responses": ["Hi there, how can I help?"],
-      "context_set": ""
-    },
-    {
-      "tag": "goodbye",
-      "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
-      "responses": ["Goodbye!"],
-      "context_set": ""
-    },
-    {
-      "tag": "how",
-      "patterns": ["How are you?", "How is your day?", "How do you feel?", "Are you good?"],
-      "responses": ["I am fine, thanks for asking!"],
-      "context_set": ""
-    },
-    {
-      "tag": "thank",
-      "patterns": ["Thank you!", "Great job!", "Lovely!", "You are the best"],
-      "responses": ["You're welcome, that's my pleasure"],
-      "context_set": ""
-    },
-    {
-      "tag": "suggest_dish",
-      "patterns": [
-        "What should I eat today?",
-        "Can you suggest a dish?",
-        "I don't know what to eat, help me!",
-        "Any food recommendations?",
-        "Suggest me a meal",
-        "What’s for dinner?",
-        "What’s for lunch?",
-        "I’m hungry, what should I eat?"
-      ],
-      "responses": ["Tell me about what you want to eat or what ingredients you have"],
-      "context_set": ""
-    },
-    {
-      "tag": "pho_bo",
-      "patterns": ["Beef bones", "Beef brisket", "Beef sirloin", "Rice noodles", "Star anise", "Cinnamon", "Cloves", "Ginger", "Onion", "Fish sauce"],
-      "responses": ["You can make a delicious bowl of Pho Bo with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "pho_ga",
-      "patterns": ["Chicken bones", "Chicken breast", "Chicken thighs", "Rice noodles", "Star anise", "Cinnamon", "Ginger", "Onion", "Fish sauce"],
-      "responses": ["You can make a comforting bowl of Pho Ga with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "pho_chay",
-      "patterns": ["Mushroom broth", "Tofu", "Carrots", "Daikon radish", "Rice noodles", "Star anise", "Cinnamon", "Ginger", "Onion", "Soy sauce"],
-      "responses": ["You can prepare a healthy and delicious Pho Chay with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "pho_hai_san",
-      "patterns": ["Shrimp", "Squid", "Fish fillet", "Rice noodles", "Ginger", "Onion", "Star anise", "Fish sauce", "Lemongrass"],
-      "responses": ["You can make a unique and delicious Pho Hai San with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_pho_bo",
-      "patterns": ["How do I make beef pho?", "What is the recipe for pho bo?", "Can you tell me how to cook beef pho?", "How to prepare Vietnamese beef pho?", "What are the steps to make pho bo?", "How to cook authentic beef pho?"],
-      "responses": ["Here’s how you can make a bowl of Pho Bo"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_pho_ga",
-      "patterns": ["How do I make chicken pho?", "What is the recipe for pho ga?", "Can you tell me how to cook chicken pho?", "How to prepare Vietnamese chicken pho?", "What are the steps to make pho ga?", "How to cook authentic chicken pho?"],
-      "responses": ["Here’s how you can make a bowl of Pho Ga"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_pho_chay",
-      "patterns": ["How do I make vegetarian pho?", "What is the recipe for pho chay?", "Can you tell me how to cook vegetarian pho?", "How to prepare Vietnamese vegetarian pho?", "What are the steps to make pho chay?", "How to cook authentic vegetarian pho?"],
-      "responses": ["Here’s how you can make a bowl of Pho Chay"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_pho_hai_san",
-      "patterns": ["How do I make seafood pho?", "What is the recipe for pho hai san?", "Can you tell me how to cook seafood pho?", "How to prepare Vietnamese seafood pho?", "What are the steps to make pho hai san?", "How to cook authentic seafood pho?"],
-      "responses": ["Here’s how you can make a bowl of Pho Hai San"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_bo_hue",
-      "patterns": ["Beef shank", "Pork bones", "Lemongrass", "Shrimp paste", "Chili oil", "Rice vermicelli", "Banana blossom", "Onion", "Fish sauce"],
-      "responses": ["With these ingredients, you can make a delicious bowl of Bun Bo Hue!"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_bun_bo_hue",
-      "patterns": ["How do I make Bun Bo Hue?", "What is the recipe for Bun Bo Hue?", "Can you tell me how to cook Bun Bo Hue?", "How to prepare Vietnamese Bun Bo Hue?", "What are the steps to make Bun Bo Hue?", "How to cook authentic Bun Bo Hue?"],
-      "responses": ["Here’s how you can make a bowl of Bun Bo Hue"],
-      "context_set": ""
-    },
-    {
-      "tag": "banh_cuon",
-      "patterns": ["Rice flour", "Ground pork", "Wood ear mushrooms", "Shallots", "Fish sauce", "Bean sprouts", "Cucumber", "Vietnamese sausage"],
-      "responses": ["With these ingredients, you can make delicious Banh Cuon!"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_banh_cuon",
-      "patterns": ["How do I make Banh Cuon?", "What is the recipe for Banh Cuon?", "Can you tell me how to cook Banh Cuon?", "How to prepare Vietnamese Banh Cuon?", "What are the steps to make Banh Cuon?", "How to cook authentic Banh Cuon?"],
-      "responses": ["Here’s how you can make a plate of Banh Cuon"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_rieu",
-      "patterns": ["Crab meat", "Tomatoes", "Tofu", "Eggs", "Rice vermicelli", "Shrimp paste", "Pork broth", "Annatto oil", "Fish sauce"],
-      "responses": ["You can prepare a rich and tangy Bun Rieu with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_cha",
-      "patterns": ["Ground pork", "Pork belly", "Fish sauce", "Sugar", "Garlic", "Shallots", "Rice vermicelli", "Pickled carrots", "Lettuce"],
-      "responses": ["With these ingredients, you can make the famous Bun Cha from Hanoi!"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_thit_nuong",
-      "patterns": ["Pork shoulder", "Lemongrass", "Garlic", "Fish sauce", "Sugar", "Rice vermicelli", "Peanuts", "Pickled daikon", "Cucumber"],
-      "responses": ["You can make a tasty bowl of Bun Thit Nuong with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_ca",
-      "patterns": ["Fish fillet", "Tomatoes", "Dill", "Turmeric", "Fish sauce", "Rice vermicelli", "Pineapple", "Shallots", "Garlic"],
-      "responses": ["You can prepare a delicious bowl of Bun Ca with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_mam",
-      "patterns": ["Fermented fish paste", "Shrimp", "Pork belly", "Eggplant", "Rice vermicelli", "Garlic", "Lemongrass", "Chili", "Fish sauce"],
-      "responses": ["With these ingredients, you can make a flavorful bowl of Bun Mam!"],
-      "context_set": ""
-    },
-    {
-      "tag": "bun_nem",
-      "patterns": ["Ground pork", "Shrimp", "Rice paper", "Garlic", "Glass noodles", "Rice vermicelli", "Pickled vegetables", "Fish sauce", "Lettuce"],
-      "responses": ["You can make a refreshing bowl of Bun Nem with these ingredients!"],
-      "context_set": ""
-    },
-    {
-      "tag": "thit_lon_xao_chua_ngot",
-      "patterns": ["Pork shoulder", "Pineapple", "Bell peppers", "Garlic", "Fish sauce", "Sugar", "Vinegar", "Cornstarch"],
-      "responses": ["With these ingredients, you can make a tasty Thit Lon Xao Chua Ngot!"],
-      "context_set": ""
-    },
-    {
-      "tag": "long_heo_luoc",
-      "patterns": ["Pork intestines", "Pork liver", "Pork stomach", "Fish sauce", "Salt", "Ginger", "Garlic"],
-      "responses": ["With these ingredients, you can prepare a delicious platter of Long Heo Luoc!"],
-      "context_set": ""
-    },
-    {
-      "tag": "gio_heo_ham_mang",
-      "patterns": ["Pork trotters", "Bamboo shoots", "Fish sauce", "Garlic", "Ginger", "Black pepper", "Shallots"],
-      "responses": ["With these ingredients, you can make a rich and comforting Gio Heo Ham Mang!"],
-      "context_set": ""
-    },
-    {
-      "tag": "thit_heo_quay",
-      "patterns": ["Pork belly", "Salt", "Five-spice powder", "Garlic", "Vinegar", "Soy sauce", "Sugar", "Black pepper"],
-      "responses": ["With these ingredients, you can make crispy and flavorful Thit Heo Quay!"],
-      "context_set": ""
-    },
-    {
-      "tag": "thit_kho_tau",
-      "patterns": ["Pork belly", "Coconut water", "Fish sauce", "Sugar", "Garlic", "Shallots", "Hard-boiled eggs", "Black pepper"],
-      "responses": ["With these ingredients, you can make a delicious pot of Thit Kho Tau!"],
-      "context_set": ""
-    },
-    {
-      "tag": "ga_kho_gung",
-      "patterns": ["Chicken", "Ginger", "Fish sauce", "Sugar", "Garlic", "Black pepper", "Shallots"],
-      "responses": ["With these ingredients, you can make a delicious pot of Ga Kho Gung!"],
-      "context_set": ""
-    },
-    {
-      "tag": "trung_chien_ca_chua",
-      "patterns": ["Eggs", "Tomatoes", "Fish sauce", "Sugar", "Garlic", "Shallots", "Black pepper"],
-      "responses": ["With these ingredients, you can prepare a simple yet delicious Trung Chien Ca Chua!"],
-      "context_set": ""
-    },
-    {
-      "tag": "dua_muoi",
-      "patterns": ["Cabbage", "Carrots", "Salt", "Sugar", "Vinegar", "Garlic", "Chili"],
-      "responses": ["With these ingredients, you can make a crunchy and tangy Dua Muoi!"],
-      "context_set": ""
-    },
-    {
-      "tag": "canh_chua_ca",
-      "patterns": ["Fish", "Pineapple", "Tomatoes", "Tamarind", "Fish sauce", "Garlic", "Okra", "Bean sprouts"],
-      "responses": ["With these ingredients, you can make a delicious bowl of Canh Chua Ca!"],
-      "context_set": ""
-    },
-    {
-      "tag": "rau_muong_xao_toi",
-      "patterns": ["Water spinach", "Garlic", "Fish sauce", "Salt", "Sugar", "Oil"],
-      "responses": ["With these ingredients, you can prepare a simple and tasty Rau Muong Xao Toi!"],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_ga_kho_gung",
-      "patterns": ["How do I make Ga Kho Gung?", "What is the recipe for Ga Kho Gung?", "Can you tell me how to cook Ga Kho Gung?"],
-      "responses": ["To make Ga Kho Gung, marinate chicken with fish sauce, sugar, and black pepper. Saute garlic, shallots, and ginger, then add chicken and cook until golden brown. Add water and simmer until the sauce thickens."],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_trung_chien_ca_chua",
-      "patterns": ["How do I make Trung Chien Ca Chua?", "What is the recipe for Trung Chien Ca Chua?", "Can you tell me how to cook Trung Chien Ca Chua?"],
-      "responses": ["To make Trung Chien Ca Chua, beat eggs with fish sauce and black pepper. Sauté garlic and shallots, add tomatoes, and cook until soft. Pour in the eggs and cook until set."],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_dua_muoi",
-      "patterns": ["How do I make Dua Muoi?", "What is the recipe for Dua Muoi?", "Can you tell me how to prepare Dua Muoi?"],
-      "responses": ["To make Dua Muoi, slice cabbage and carrots, then mix with salt and let sit for 30 minutes. Rinse, then mix with sugar, vinegar, garlic, and chili. Store in a jar and let ferment for a day before serving."],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_canh_chua_ca",
-      "patterns": ["How do I make Canh Chua Ca?", "What is the recipe for Canh Chua Ca?", "Can you tell me how to cook Canh Chua Ca?"],
-      "responses": ["To make Canh Chua Ca, boil fish with tamarind, pineapple, and tomatoes. Add fish sauce, garlic, okra, and bean sprouts. Simmer until fish is cooked and serve hot."],
-      "context_set": ""
-    },
-    {
-      "tag": "recipe_rau_muong_xao_toi",
-      "patterns": ["How do I make Rau Muong Xao Toi?", "What is the recipe for Rau Muong Xao Toi?", "Can you tell me how to cook Rau Muong Xao Toi?"],
-      "responses": ["To make Rau Muong Xao Toi, blanch water spinach briefly, then stir-fry with garlic, fish sauce, salt, and sugar. Cook quickly on high heat and serve immediately."],
-      "context_set": ""
-    }
-  ]
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "Whats up",
+                "Hey",
+                "greetings"
+            ],
+            "responses": [
+                "Hi there, how can I help?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "cya",
+                "See you later",
+                "Goodbye",
+                "I am Leaving",
+                "Have a Good day",
+                "bye",
+                "cao",
+                "see ya"
+            ],
+            "responses": [
+                "Goodbye!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "how",
+            "patterns": [
+                "How are you?",
+                "How is your day?",
+                "How do you feel?",
+                "Are you good?"
+            ],
+            "responses": [
+                "I am fine, thanks for asking!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thank",
+            "patterns": [
+                "Thank you!",
+                "Great job!",
+                "Lovely!",
+                "You are the best"
+            ],
+            "responses": [
+                "You're welcome, that's my pleasure"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "suggest_dish",
+            "patterns": [
+                "What should I eat today?",
+                "Can you suggest a dish?",
+                "I don't know what to eat, help me!",
+                "Any food recommendations?",
+                "Suggest me a meal",
+                "What's for dinner?",
+                "What's for lunch?",
+                "I'm hungry, what should I eat?"
+            ],
+            "responses": [
+                "Tell me what you want to eat or what ingredients you have"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "pho_bo",
+            "patterns": [
+                "Beef bones",
+                "Beef brisket",
+                "Beef sirloin",
+                "Rice noodles",
+                "Star anise",
+                "Cinnamon",
+                "Cloves",
+                "Ginger",
+                "Onion",
+                "Fish sauce"
+            ],
+            "responses": [
+                "You can make a delicious bowl of Pho Bo with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "pho_ga",
+            "patterns": [
+                "Chicken bones",
+                "Chicken breast",
+                "Chicken thighs",
+                "Rice noodles",
+                "Star anise",
+                "Cinnamon",
+                "Ginger",
+                "Onion",
+                "Fish sauce"
+            ],
+            "responses": [
+                "You can make a comforting bowl of Pho Ga with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "pho_chay",
+            "patterns": [
+                "Mushroom broth",
+                "Tofu",
+                "Carrots",
+                "Daikon radish",
+                "Rice noodles",
+                "Star anise",
+                "Cinnamon",
+                "Ginger",
+                "Onion",
+                "Soy sauce"
+            ],
+            "responses": [
+                "You can prepare a healthy and delicious Pho Chay with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "pho_hai_san",
+            "patterns": [
+                "Shrimp",
+                "Squid",
+                "Fish fillet",
+                "Rice noodles",
+                "Ginger",
+                "Onion",
+                "Star anise",
+                "Fish sauce",
+                "Lemongrass"
+            ],
+            "responses": [
+                "You can make a unique and delicious side of Pho Hai San with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_pho_bo",
+            "patterns": [
+                "How do I make beef pho?",
+                "What is the recipe for pho bo?",
+                "Can you tell me how to cook beef pho?",
+                "How to prepare Vietnamese beef pho?",
+                "What are the steps to make pho bo?",
+                "How to cook authentic beef pho?"
+            ],
+            "responses": [
+                "Here's how you can make a bowl of Pho Bo"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_pho_ga",
+            "patterns": [
+                "How do I make chicken pho?",
+                "What is the recipe for pho ga?",
+                "Can you tell me how to cook chicken pho?",
+                "How to prepare Vietnamese chicken pho?",
+                "What are the steps to make pho ga?",
+                "How to cook authentic chicken pho?"
+            ],
+            "responses": [
+                "Here's how you can make a bowl of Pho Ga"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_pho_chay",
+            "patterns": [
+                "How do I make vegetarian pho?",
+                "What is the recipe for pho chay?",
+                "Can you tell me how to cook vegetarian pho?",
+                "How to prepare Vietnamese vegetarian pho?",
+                "What are the steps to make pho chay?",
+                "How to cook authentic vegetarian pho?"
+            ],
+            "responses": [
+                "Here's how you can make a bowl of Pho Chay"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_pho_hai_san",
+            "patterns": [
+                "How do I make seafood pho?",
+                "What is the recipe for pho hai san?",
+                "Can you tell me how to cook seafood pho?",
+                "How to prepare Vietnamese seafood pho?",
+                "What are the steps to make pho hai san?",
+                "How to cook authentic seafood pho?"
+            ],
+            "responses": [
+                "Here's how you can make a bowl of Pho Hai San"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_bo_hue",
+            "patterns": [
+                "Beef shank",
+                "Pork bones",
+                "Lemongrass",
+                "Shrimp paste",
+                "Chili oil",
+                "Rice vermicelli",
+                "Banana blossom",
+                "Onion",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious bowl of Bun Bo Hue!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_bo_hue",
+            "patterns": [
+                "How do I make Bun Bo Hue?",
+                "What is the recipe for Bun Bo Hue?",
+                "Can you tell me how to cook Bun Bo Hue?",
+                "How to prepare Vietnamese Bun Bo Hue?",
+                "What are the steps to make Bun Bo Hue?",
+                "How to cook authentic Bun Bo Hue?"
+            ],
+            "responses": [
+                "Here's how you can make a bowl of Bun Bo Hue"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_cuon",
+            "patterns": [
+                "Rice flour",
+                "Ground pork",
+                "Wood ear mushrooms",
+                "Shallots",
+                "Fish sauce",
+                "Bean sprouts",
+                "Cucumber",
+                "Vietnamese sausage"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Banh Cuon!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_cuon",
+            "patterns": [
+                "How do I make Banh Cuon?",
+                "What is the recipe for Banh Cuon?",
+                "Can you tell me how to cook Banh Cuon?",
+                "How to prepare Vietnamese Banh Cuon?",
+                "What are the steps to make Banh Cuon?",
+                "How to cook authentic Banh Cuon?"
+            ],
+            "responses": [
+                "Here's how you can make a plate of Banh Cuon"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_rieu",
+            "patterns": [
+                "Crab meat",
+                "Tomatoes",
+                "Tofu",
+                "Eggs",
+                "Rice vermicelli",
+                "Shrimp paste",
+                "Pork broth",
+                "Annatto oil",
+                "Fish sauce"
+            ],
+            "responses": [
+                "You can prepare a rich and tangy Bun Rieu with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_cha",
+            "patterns": [
+                "Ground pork",
+                "Pork belly",
+                "Fish sauce",
+                "Sugar",
+                "Garlic",
+                "Shallots",
+                "Rice vermicelli",
+                "Pickled carrots",
+                "Lettuce"
+            ],
+            "responses": [
+                "With these ingredients, you can make the famous Bun Cha from Hanoi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_thit_nuong",
+            "patterns": [
+                "Pork shoulder",
+                "Lemongrass",
+                "Garlic",
+                "Fish sauce",
+                "Sugar",
+                "Rice vermicelli",
+                "Peanuts",
+                "Pickled daikon",
+                "Cucumber"
+            ],
+            "responses": [
+                "You can make a tasty bowl of Bun Thit Nuong with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_ca",
+            "patterns": [
+                "Fish fillet",
+                "Tomatoes",
+                "Dill",
+                "Turmeric",
+                "Fish sauce",
+                "Rice vermicelli",
+                "Pineapple",
+                "Shallots",
+                "Garlic"
+            ],
+            "responses": [
+                "You can prepare a delicious bowl of Bun Ca with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_mam",
+            "patterns": [
+                "Fermented fish paste",
+                "Shrimp",
+                "Pork belly",
+                "Eggplant",
+                "Rice vermicelli",
+                "Garlic",
+                "Lemongrass",
+                "Chili",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a flavorful bowl of Bun Mam!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bun_nem",
+            "patterns": [
+                "Ground pork",
+                "Shrimp",
+                "Rice paper",
+                "Garlic",
+                "Glass noodles",
+                "Rice vermicelli",
+                "Pickled vegetables",
+                "Fish sauce",
+                "Lettuce"
+            ],
+            "responses": [
+                "You can make a refreshing bowl of Bun Nem with these ingredients!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thit_lon_xao_chua_ngot",
+            "patterns": [
+                "Pork shoulder",
+                "Pineapple",
+                "Bell peppers",
+                "Garlic",
+                "Fish sauce",
+                "Sugar",
+                "Vinegar",
+                "Cornstarch"
+            ],
+            "responses": [
+                "With these ingredients, you can make a tasty Thit Lon Xao Chua Ngot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "long_heo_luoc",
+            "patterns": [
+                "Pork intestines",
+                "Pork liver",
+                "Pork stomach",
+                "Fish sauce",
+                "Salt",
+                "Ginger",
+                "Garlic"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare a delicious platter of Long Heo Luoc!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "gio_heo_ham_mang",
+            "patterns": [
+                "Pork trotters",
+                "Bamboo shoots",
+                "Fish sauce",
+                "Garlic",
+                "Ginger",
+                "Black pepper",
+                "Shallots"
+            ],
+            "responses": [
+                "With these ingredients, you can make a rich and comforting Gio Heo Ham Mang!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thit_heo_quay",
+            "patterns": [
+                "Pork belly",
+                "Salt",
+                "Five-spice powder",
+                "Garlic",
+                "Vinegar",
+                "Soy sauce",
+                "Sugar",
+                "Black pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy and flavorful Thit Heo Quay!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thit_kho_tau",
+            "patterns": [
+                "Pork belly",
+                "Coconut water",
+                "Fish sauce",
+                "Sugar",
+                "Garlic",
+                "Shallots",
+                "Hard-boiled eggs",
+                "Black pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious pot of Thit Kho Tau!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "ga_kho_gung",
+            "patterns": [
+                "Chicken",
+                "Ginger",
+                "Fish sauce",
+                "Sugar",
+                "Garlic",
+                "Black pepper",
+                "Shallots"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious pot of Ga Kho Gung!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "trung_chien_ca_chua",
+            "patterns": [
+                "Eggs",
+                "Tomatoes",
+                "Fish sauce",
+                "Sugar",
+                "Garlic",
+                "Shallots",
+                "Black pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare a simple yet delicious Trung Chien Ca Chua!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "dua_muoi",
+            "patterns": [
+                "Cabbage",
+                "Carrots",
+                "Salt",
+                "Sugar",
+                "Vinegar",
+                "Garlic",
+                "Chili"
+            ],
+            "responses": [
+                "With these ingredients, you can make a crunchy and tangy Dua Muoi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "canh_chua_ca",
+            "patterns": [
+                "Fish",
+                "Pineapple",
+                "Tomatoes",
+                "Tamarind",
+                "Fish sauce",
+                "Garlic",
+                "Okra",
+                "Bean sprouts"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious bowl of Canh Chua Ca!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "rau_muong_xao_toi",
+            "patterns": [
+                "Water spinach",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Sugar",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare a simple and tasty Rau Muong Xao Toi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ga_kho_gung",
+            "patterns": [
+                "How do I make Ga Kho Gung?",
+                "What is the recipe for Ga Kho Gung?",
+                "Can you tell me how to cook Ga Kho Gung?"
+            ],
+            "responses": [
+                "To make Ga Kho Gung, marinate chicken with fish sauce, sugar, and black pepper. Saute garlic, shallots, and ginger, then add chicken and cook until golden brown. Add water and simmer until the sauce thickens."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trung_chien_ca_chua",
+            "patterns": [
+                "How do I make Trung Chien Ca Chua?",
+                "What is the recipe for Trung Chien Ca Chua?",
+                "Can you tell me how to cook Trung Chien Ca Chua?"
+            ],
+            "responses": [
+                "To make Trung Chien Ca Chua, beat eggs with fish sauce and black pepper. Saute garlic and shallots, add tomatoes, and cook until soft. Pour in the eggs and cook until set."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_dua_muoi",
+            "patterns": [
+                "How do I make Dua Muoi?",
+                "What is the recipe for Dua Muoi?",
+                "Can you tell me how to prepare Dua Muoi?"
+            ],
+            "responses": [
+                "To make Dua Muoi, slice cabbage and carrots, then mix with salt and let sit for 30 minutes. Rinse, then mix with sugar, vinegar, garlic, and chili. Store in a jar and let ferment for a day before serving."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_canh_chua_ca",
+            "patterns": [
+                "How do I make Canh Chua Ca?",
+                "What is the recipe for Canh Chua Ca?",
+                "Can you tell me how to cook Canh Chua Ca?"
+            ],
+            "responses": [
+                "To make Canh Chua Ca, boil fish with tamarind, pineapple, and tomatoes. Add fish sauce, garlic, okra, and bean sprouts. Simmer until fish is cooked and serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_rau_muong_xao_toi",
+            "patterns": [
+                "How do I make Rau Muong Xao Toi?",
+                "What is the recipe for Rau Muong Xao Toi?",
+                "Can you tell me how to cook Rau Muong Xao Toi?"
+            ],
+            "responses": [
+                "To make Rau Muong Xao Toi, blanch water spinach briefly, then stir-fry with garlic, fish sauce, salt, and sugar. Cook quickly on high heat and serve immediately."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_thit_lon_xao_chua_ngot",
+            "patterns": [
+                "How do I make Thit Lon Xao Chua Ngot?",
+                "What is the recipe for Thit Lon Xao Chua Ngot?",
+                "Can you tell me how to cook Thit Lon Xao Chua Ngot?"
+            ],
+            "responses": [
+                "To make Thit Lon Xao Chua Ngot, stir-fry pork with garlic, then add pineapple, bell peppers, fish sauce, sugar, and vinegar. Thicken with cornstarch and serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_long_heo_luoc",
+            "patterns": [
+                "How do I make Long Heo Luoc?",
+                "What is the recipe for Long Heo Luoc?",
+                "Can you tell me how to cook Long Heo Luoc?"
+            ],
+            "responses": [
+                "To make Long Heo Luoc, clean and boil pork intestines, liver, and stomach with salt, ginger, and garlic. Slice and serve with fish sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_gio_heo_ham_mang",
+            "patterns": [
+                "How do I make Gio Heo Ham Mang?",
+                "What is the recipe for Gio Heo Ham Mang?",
+                "Can you tell me how to cook Gio Heo Ham Mang?"
+            ],
+            "responses": [
+                "To make Gio Heo Ham Mang, simmer pork trotters with bamboo shoots, garlic, ginger, and fish sauce until tender."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_thit_heo_quay",
+            "patterns": [
+                "How do I make Thit Heo Quay?",
+                "What is the recipe for Thit Heo Quay?",
+                "Can you tell me how to cook Thit Heo Quay?"
+            ],
+            "responses": [
+                "To make Thit Heo Quay, marinate pork belly with salt, five-spice powder, and garlic. Roast until the skin is crispy, then serve sliced."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_thit_kho_tau",
+            "patterns": [
+                "How do I make Thit Kho Tau?",
+                "What is the recipe for Thit Kho Tau?",
+                "Can you tell me how to cook Thit Kho Tau?"
+            ],
+            "responses": [
+                "To make Thit Kho Tau, braise pork belly with coconut water, fish sauce, sugar, garlic, shallots, and hard-boiled eggs until tender."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_goi_cuon",
+            "patterns": [
+                "How do I make Goi Cuon?",
+                "What is the recipe for Goi Cuon?",
+                "Can you tell me how to prepare Goi Cuon?"
+            ],
+            "responses": [
+                "To make Goi Cuon, soak rice paper briefly in water, then fill with shrimp, pork, vermicelli, and herbs. Roll tightly and serve with hoisin peanut sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_com_tam",
+            "patterns": [
+                "How do I make Com Tam?",
+                "What is the recipe for Com Tam?",
+                "Can you tell me how to cook Com Tam?"
+            ],
+            "responses": [
+                "To make Com Tam, grill marinated pork chops, serve with broken rice, pickled vegetables, and a fried egg. Drizzle with fish sauce dressing before serving."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_xeo",
+            "patterns": [
+                "How do I make Banh Xeo?",
+                "What is the recipe for Banh Xeo?",
+                "Can you tell me how to cook Banh Xeo?"
+            ],
+            "responses": [
+                "To make Banh Xeo, mix rice flour, turmeric, and coconut milk into a batter. Cook with shrimp, pork, and bean sprouts in a hot pan until crispy. Serve with fresh herbs and dipping sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_mi_quang",
+            "patterns": [
+                "How do I make Mi Quang?",
+                "What is the recipe for Mi Quang?",
+                "Can you tell me how to cook Mi Quang?"
+            ],
+            "responses": [
+                "To make Mi Quang, cook rice noodles and serve with turmeric-infused broth, shrimp, pork, peanuts, and fresh herbs. Garnish with sesame rice crackers."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bo_luc_lac",
+            "patterns": [
+                "How do I make Bo Luc Lac?",
+                "What is the recipe for Bo Luc Lac?",
+                "Can you tell me how to cook Bo Luc Lac?"
+            ],
+            "responses": [
+                "To make Bo Luc Lac, marinate beef cubes in soy sauce and garlic, then quickly sear in a hot pan. Serve with a salad and dipping sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_cha",
+            "patterns": [
+                "How do I make Bun Cha?",
+                "What is the recipe for Bun Cha?",
+                "Can you tell me how to cook Bun Cha?"
+            ],
+            "responses": [
+                "To make Bun Cha, grill marinated pork patties and pork belly, then serve with vermicelli noodles, fresh herbs, and a tangy dipping sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_thit_nuong",
+            "patterns": [
+                "How do I make Bun Thit Nuong?",
+                "What is the recipe for Bun Thit Nuong?",
+                "Can you tell me how to cook Bun Thit Nuong?"
+            ],
+            "responses": [
+                "To make Bun Thit Nuong, grill lemongrass-marinated pork and serve over vermicelli noodles with fresh herbs, pickled vegetables, and fish sauce dressing."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_ca",
+            "patterns": [
+                "How do I make Bun Ca?",
+                "What is the recipe for Bun Ca?",
+                "Can you tell me how to cook Bun Ca?"
+            ],
+            "responses": [
+                "To make Bun Ca, fry fish fillets until crispy, then serve with vermicelli noodles in a light, tangy broth with fresh dill and tomatoes."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_mam",
+            "patterns": [
+                "How do I make Bun Mam?",
+                "What is the recipe for Bun Mam?",
+                "Can you tell me how to cook Bun Mam?"
+            ],
+            "responses": [
+                "To make Bun Mam, prepare a rich broth using fermented fish paste, then serve with vermicelli noodles, seafood, pork belly, and fresh vegetables."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_nem",
+            "patterns": [
+                "How do I make Bun Nem?",
+                "What is the recipe for Bun Nem?",
+                "Can you tell me how to cook Bun Nem?"
+            ],
+            "responses": [
+                "To make Bun Nem, deep-fry spring rolls (nem) and serve over vermicelli noodles with fresh herbs, pickled vegetables, and fish sauce dip."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_rieu",
+            "patterns": [
+                "How do I make Bun Rieu?",
+                "What is the recipe for Bun Rieu?",
+                "Can you tell me how to cook Bun Rieu?"
+            ],
+            "responses": [
+                "To make Bun Rieu, prepare a crab and tomato broth, add fried tofu, and serve with vermicelli noodles, fresh herbs, and shrimp paste."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "com_chien_trung",
+            "patterns": [
+                "Rice",
+                "Eggs",
+                "Garlic",
+                "Soy sauce",
+                "Green onions",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious plate of Com Chien Trung!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_com_chien_trung",
+            "patterns": [
+                "How do I make Com Chien Trung?",
+                "What is the recipe for Com Chien Trung?"
+            ],
+            "responses": [
+                "To make Com Chien Trung, scramble eggs and set aside. Stir-fry garlic, add rice, and mix with eggs, soy sauce, salt, and pepper. Garnish with green onions and serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "canh_bi_do_nau_tom",
+            "patterns": [
+                "Pumpkin",
+                "Shrimp",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper",
+                "Water"
+            ],
+            "responses": [
+                "With these ingredients, you can make a warm bowl of Canh Bi Do Nau Tom!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_canh_bi_do_nau_tom",
+            "patterns": [
+                "How do I make Canh Bi Do Nau Tom?",
+                "What is the recipe for Canh Bi Do Nau Tom?"
+            ],
+            "responses": [
+                "To make Canh Bi Do Nau Tom, saute garlic, add shrimp, then pour water and bring to a boil. Add pumpkin, season with fish sauce, salt, and pepper. Simmer until soft and serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "dau_hu_sot_ca_chua",
+            "patterns": [
+                "Tofu",
+                "Tomatoes",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Sugar",
+                "Green onions"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious plate of Dau Hu Sot Ca Chua!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_dau_hu_sot_ca_chua",
+            "patterns": [
+                "How do I make Dau Hu Sot Ca Chua?",
+                "What is the recipe for Dau Hu Sot Ca Chua?"
+            ],
+            "responses": [
+                "To make Dau Hu Sot Ca Chua, fry tofu until golden. Saut\u00c3\u00a9 garlic, add tomatoes, season with fish sauce, salt, and sugar. Simmer, then add tofu and cook until flavors blend. Garnish with green onions and serve."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "trung_cuon",
+            "patterns": [
+                "Eggs",
+                "Milk",
+                "Salt",
+                "Pepper",
+                "Butter"
+            ],
+            "responses": [
+                "With these ingredients, you can make a tasty Trung Cuon!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trung_cuon",
+            "patterns": [
+                "How do I make Trung Cuon?",
+                "What is the recipe for Trung Cuon?"
+            ],
+            "responses": [
+                "To make Trung Cuon, beat eggs with milk, salt, and pepper. Cook thin layers in a pan, rolling them up as they cook. Slice and serve warm."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "ca_chien_nuoc_mam",
+            "patterns": [
+                "Fish",
+                "Fish sauce",
+                "Garlic",
+                "Sugar",
+                "Salt",
+                "Pepper",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy and flavorful Ca Chien Nuoc Mam!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ca_chien_nuoc_mam",
+            "patterns": [
+                "How do I make Ca Chien Nuoc Mam?",
+                "What is the recipe for Ca Chien Nuoc Mam?"
+            ],
+            "responses": [
+                "To make Ca Chien Nuoc Mam, season fish with salt and pepper, then fry until crispy. In a separate pan, mix fish sauce, garlic, and sugar to make a glaze. Pour over fish and serve immediately."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "sup_khoai_tay",
+            "patterns": [
+                "Potatoes",
+                "Milk",
+                "Butter",
+                "Salt",
+                "Pepper",
+                "Chicken broth"
+            ],
+            "responses": [
+                "With these ingredients, you can make a creamy bowl of Sup Khoai Tay!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_sup_khoai_tay",
+            "patterns": [
+                "How do I make Sup Khoai Tay?",
+                "What is the recipe for Sup Khoai Tay?"
+            ],
+            "responses": [
+                "To make Sup Khoai Tay, boil potatoes until soft, mash with milk and butter, then blend with chicken broth. Season with salt and pepper and serve warm."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "bo_kho",
+            "patterns": [
+                "Beef",
+                "Carrots",
+                "Garlic",
+                "Five-spice powder",
+                "Coconut water",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a rich bowl of Bo Kho!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bo_kho",
+            "patterns": [
+                "How do I make Bo Kho?",
+                "What is the recipe for Bo Kho?"
+            ],
+            "responses": [
+                "To make Bo Kho, marinate beef with five-spice powder, fish sauce, and garlic. Saute with carrots, add coconut water, and simmer until tender. Serve hot with bread or noodles."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "cha_gio",
+            "patterns": [
+                "Ground pork",
+                "Shrimp",
+                "Rice paper",
+                "Carrots",
+                "Onions",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy and delicious Cha Gio!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_cha_gio",
+            "patterns": [
+                "How do I make Cha Gio?",
+                "What is the recipe for Cha Gio?"
+            ],
+            "responses": [
+                "To make Cha Gio, mix ground pork, shrimp, carrots, and onions. Wrap in rice paper and fry until golden. Serve with fish sauce dip."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "rau_cai_xao_toi",
+            "patterns": [
+                "Mustard greens",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Oil",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a flavorful plate of Rau Cai Xao Toi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_rau_cai_xao_toi",
+            "patterns": [
+                "How do I make Rau Cai Xao Toi?",
+                "What is the recipe for Rau Cai Xao Toi?"
+            ],
+            "responses": [
+                "To make Rau Cai Xao Toi, heat oil, saute garlic, then add mustard greens. Stir-fry with fish sauce, salt, and pepper until tender and serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goi_du_du",
+            "patterns": [
+                "Green papaya",
+                "Carrots",
+                "Shrimp",
+                "Peanuts",
+                "Fish sauce",
+                "Lime",
+                "Chili"
+            ],
+            "responses": [
+                "With these ingredients, you can make a refreshing Goi Du Du!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_goi_du_du",
+            "patterns": [
+                "How do I make Goi Du Du?",
+                "What is the recipe for Goi Du Du?"
+            ],
+            "responses": [
+                "To make Goi Du Du, julienne green papaya and carrots, mix with shrimp, and toss with fish sauce, lime juice, and chili. Garnish with peanuts and serve fresh."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "suon_xao_chua_ngot",
+            "patterns": [
+                "Pork ribs",
+                "Vinegar",
+                "Sugar",
+                "Fish sauce",
+                "Garlic",
+                "Onion",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a tasty plate of Suon Xao Chua Ngot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_suon_xao_chua_ngot",
+            "patterns": [
+                "How do I make Suon Xao Chua Ngot?",
+                "What is the recipe for Suon Xao Chua Ngot?"
+            ],
+            "responses": [
+                "To make Suon Xao Chua Ngot, marinate pork ribs with salt and pepper. Fry until golden, then stir-fry with garlic, vinegar, sugar, and fish sauce until the sauce thickens. Serve hot."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "thit_hop_viet_minh",
+            "patterns": [
+                "Canned pork",
+                "Salt",
+                "Pepper",
+                "Garlic",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare Thit Hop Viet Minh!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_thit_hop_viet_minh",
+            "patterns": [
+                "How do I make Thit Hop Viet Minh?",
+                "What is the recipe for Thit Hop Viet Minh?"
+            ],
+            "responses": [
+                "To make Thit Hop Viet Minh, heat oil, saute garlic, then add canned pork. Stir-fry with salt and pepper until heated through. Serve with rice or bread."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_mi",
+            "patterns": [
+                "Baguette",
+                "Pork",
+                "Cucumber",
+                "Pickled carrots",
+                "Cilantro",
+                "P\u00c3\u00a2t\u00c3\u00a9",
+                "Chili sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious Banh Mi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_mi",
+            "patterns": [
+                "How do I make Banh Mi?",
+                "What is the recipe for Banh Mi?"
+            ],
+            "responses": [
+                "To make Banh Mi, slice a baguette, spread p\u00c3\u00a2t\u00c3\u00a9, add grilled pork, cucumber, pickled carrots, cilantro, and chili sauce. Serve fresh!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "quay_dui_ga",
+            "patterns": [
+                "Flour",
+                "Yeast",
+                "Salt",
+                "Sugar",
+                "Water",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Quay Dui Ga!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_quay_dui_ga",
+            "patterns": [
+                "How do I make Quay Dui Ga?",
+                "What is the recipe for Quay Dui Ga?"
+            ],
+            "responses": [
+                "To make Quay Dui Ga, mix flour, yeast, sugar, and salt. Knead the dough, let it rise, then shape and fry until golden brown."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_trang",
+            "patterns": [
+                "Rice flour",
+                "Water",
+                "Salt"
+            ],
+            "responses": [
+                "With these ingredients, you can make Banh Trang!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_trang",
+            "patterns": [
+                "How do I make Banh Trang?",
+                "What is the recipe for Banh Trang?"
+            ],
+            "responses": [
+                "To make Banh Trang, mix rice flour, water, and salt into a thin batter. Spread onto a cloth over steam until cooked."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_xeo",
+            "patterns": [
+                "Rice flour",
+                "Turmeric",
+                "Coconut milk",
+                "Pork",
+                "Shrimp",
+                "Bean sprouts"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Banh Xeo!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_goi",
+            "patterns": [
+                "Flour",
+                "Pork",
+                "Mushrooms",
+                "Eggs",
+                "Glass noodles",
+                "Onion"
+            ],
+            "responses": [
+                "With these ingredients, you can make tasty Banh Goi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_goi",
+            "patterns": [
+                "How do I make Banh Goi?",
+                "What is the recipe for Banh Goi?"
+            ],
+            "responses": [
+                "To make Banh Goi, mix flour into a dough, fill with pork, mushrooms, eggs, and noodles. Fold and fry until golden."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_chuoi_chien",
+            "patterns": [
+                "Banana",
+                "Flour",
+                "Sugar",
+                "Water",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Banh Chuoi Chien!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_chuoi_chien",
+            "patterns": [
+                "How do I make Banh Chuoi Chien?",
+                "What is the recipe for Banh Chuoi Chien?"
+            ],
+            "responses": [
+                "To make Banh Chuoi Chien, coat banana slices in batter made from flour, sugar, and water. Deep-fry until crispy."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_ngo_chien",
+            "patterns": [
+                "Corn",
+                "Flour",
+                "Sugar",
+                "Salt",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Banh Ngo Chien!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_ngo_chien",
+            "patterns": [
+                "How do I make Banh Ngo Chien?",
+                "What is the recipe for Banh Ngo Chien?"
+            ],
+            "responses": [
+                "To make Banh Ngo Chien, mix corn with flour, sugar, and salt. Form into small patties and fry until golden brown."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "ech_xao_sa_ot",
+            "patterns": [
+                "Frog",
+                "Lemongrass",
+                "Chili",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a spicy and aromatic Ech Xao Sa Ot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ech_xao_sa_ot",
+            "patterns": [
+                "How do I make Ech Xao Sa Ot?",
+                "What is the recipe for Ech Xao Sa Ot?"
+            ],
+            "responses": [
+                "To make Ech Xao Sa Ot, marinate frog meat with salt, pepper, and fish sauce. Stir-fry with garlic, lemongrass, and chili until golden and fragrant. Serve hot."
+            ]
+        },
+        {
+            "tag": "ech_chien_bo",
+            "patterns": [
+                "Frog",
+                "Butter",
+                "Garlic",
+                "Salt",
+                "Pepper",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious plate of Ech Chien Bo!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ech_chien_bo",
+            "patterns": [
+                "How do I make Ech Chien Bo?",
+                "What is the recipe for Ech Chien Bo?"
+            ],
+            "responses": [
+                "To make Ech Chien Bo, season frog meat with salt and pepper, then fry in butter and garlic until golden brown. Serve hot."
+            ]
+        },
+        {
+            "tag": "lau_ech",
+            "patterns": [
+                "Frog",
+                "Hot pot",
+                "Garlic",
+                "Onion",
+                "Vegetables",
+                "Spices"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare a delicious Lau Ech!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_ech",
+            "patterns": [
+                "How do I make Lau Ech?",
+                "What is the recipe for Lau Ech?"
+            ],
+            "responses": [
+                "To make Lau Ech, prepare a flavorful broth with garlic, onion, and spices. Add frog meat and vegetables, then simmer until fully cooked. Serve hot with noodles or rice."
+            ]
+        },
+        {
+            "tag": "ruoc_thit_heo",
+            "patterns": [
+                "Pork",
+                "Salt",
+                "Sugar",
+                "Fish sauce",
+                "Garlic"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful Ruoc Thit Heo!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ruoc_thit_heo",
+            "patterns": [
+                "How do I make Ruoc Thit Heo?",
+                "What is the recipe for Ruoc Thit Heo?"
+            ],
+            "responses": [
+                "To make Ruoc Thit Heo, boil pork until tender, shred finely, then stir-fry with salt, sugar, fish sauce, and garlic until dry and fluffy."
+            ]
+        },
+        {
+            "tag": "ruoc_ca_hoi",
+            "patterns": [
+                "Salmon",
+                "Salt",
+                "Sugar",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make nutritious Ruoc Ca Hoi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ruoc_ca_hoi",
+            "patterns": [
+                "How do I make Ruoc Ca Hoi?",
+                "What is the recipe for Ruoc Ca Hoi?"
+            ],
+            "responses": [
+                "To make Ruoc Ca Hoi, steam salmon until cooked, mash finely, then dry-roast with salt, sugar, and fish sauce until light and fluffy."
+            ]
+        },
+        {
+            "tag": "ruoc_tom",
+            "patterns": [
+                "Shrimp",
+                "Salt",
+                "Sugar",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Ruoc Tom!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ruoc_tom",
+            "patterns": [
+                "How do I make Ruoc Tom?",
+                "What is the recipe for Ruoc Tom?"
+            ],
+            "responses": [
+                "To make Ruoc Tom, boil shrimp, peel, blend finely, then stir-fry with salt, sugar, and fish sauce until dry and aromatic."
+            ]
+        },
+        {
+            "tag": "ga_xao_sa_ot",
+            "patterns": [
+                "Chicken",
+                "Lemongrass",
+                "Chili",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a spicy and delicious Ga Xao Sa Ot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ga_xao_sa_ot",
+            "patterns": [
+                "How do I make Ga Xao Sa Ot?",
+                "What is the recipe for Ga Xao Sa Ot?"
+            ],
+            "responses": [
+                "To make Ga Xao Sa Ot, marinate chicken with salt, pepper, and fish sauce. Stir-fry with garlic, lemongrass, and chili until golden and fragrant. Serve hot."
+            ]
+        },
+        {
+            "tag": "ga_chien_nuoc_mam",
+            "patterns": [
+                "Chicken",
+                "Fish sauce",
+                "Garlic",
+                "Sugar",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy and flavorful Ga Chien Nuoc Mam!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ga_chien_nuoc_mam",
+            "patterns": [
+                "How do I make Ga Chien Nuoc Mam?",
+                "What is the recipe for Ga Chien Nuoc Mam?"
+            ],
+            "responses": [
+                "To make Ga Chien Nuoc Mam, marinate chicken with salt and pepper, then fry until golden. Toss in a sauce made of fish sauce, garlic, and sugar until well-coated."
+            ]
+        },
+        {
+            "tag": "lau_ga_la_giang",
+            "patterns": [
+                "Chicken",
+                "La Giang leaves",
+                "Garlic",
+                "Onion",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious Lau Ga La Giang!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_ga_la_giang",
+            "patterns": [
+                "How do I make Lau Ga La Giang?",
+                "What is the recipe for Lau Ga La Giang?"
+            ],
+            "responses": [
+                "To make Lau Ga La Giang, prepare a flavorful broth with garlic, onion, and fish sauce. Add chicken and La Giang leaves, then simmer until fully cooked. Serve hot with vegetables and noodles."
+            ]
+        },
+        {
+            "tag": "vit_quay_mat_ong",
+            "patterns": [
+                "Duck",
+                "Honey",
+                "Soy sauce",
+                "Garlic",
+                "Salt",
+                "Pepper",
+                "Five-spice powder"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Vit Quay Mat Ong!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_vit_quay_mat_ong",
+            "patterns": [
+                "How do I make Vit Quay Mat Ong?",
+                "What is the recipe for Vit Quay Mat Ong?"
+            ],
+            "responses": [
+                "To make Vit Quay Mat Ong, marinate duck with honey, soy sauce, garlic, five-spice powder, salt, and pepper. Roast until crispy and golden brown."
+            ]
+        },
+        {
+            "tag": "vit_kho_gung",
+            "patterns": [
+                "Duck",
+                "Ginger",
+                "Fish sauce",
+                "Garlic",
+                "Salt",
+                "Sugar",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful Vit Kho Gung!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_vit_kho_gung",
+            "patterns": [
+                "How do I make Vit Kho Gung?",
+                "What is the recipe for Vit Kho Gung?"
+            ],
+            "responses": [
+                "To make Vit Kho Gung, stir-fry ginger and garlic, add duck pieces, season with fish sauce, salt, sugar, and pepper. Simmer until the sauce thickens."
+            ]
+        },
+        {
+            "tag": "lau_vit_nau_chao",
+            "patterns": [
+                "Duck",
+                "Fermented tofu",
+                "Garlic",
+                "Shallots",
+                "Coconut water",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can prepare a rich and hearty Lau Vit Nau Chao!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_vit_nau_chao",
+            "patterns": [
+                "How do I make Lau Vit Nau Chao?",
+                "What is the recipe for Lau Vit Nau Chao?"
+            ],
+            "responses": [
+                "To make Lau Vit Nau Chao, marinate duck with fermented tofu, shallots, and garlic. Cook in coconut water, season with salt and pepper, and serve hot with fresh vegetables and noodles."
+            ]
+        },
+        {
+            "tag": "ngan_xao_mang",
+            "patterns": [
+                "Goose",
+                "Bamboo shoots",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a flavorful plate of Ngan Xao Mang!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ngan_xao_mang",
+            "patterns": [
+                "How do I make Ngan Xao Mang?",
+                "What is the recipe for Ngan Xao Mang?"
+            ],
+            "responses": [
+                "To make Ngan Xao Mang, stir-fry garlic, add goose meat and bamboo shoots, season with fish sauce, salt, and pepper. Cook until tender and serve hot."
+            ]
+        },
+        {
+            "tag": "lau_ngan_nau_rieu",
+            "patterns": [
+                "Goose",
+                "Tomatoes",
+                "Fermented tofu",
+                "Garlic",
+                "Shallots",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious Lau Ngan Nau Rieu!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_ngan_nau_rieu",
+            "patterns": [
+                "How do I make Lau Ngan Nau Rieu?",
+                "What is the recipe for Lau Ngan Nau Rieu?"
+            ],
+            "responses": [
+                "To make Lau Ngan Nau Rieu, cook goose meat with tomatoes, fermented tofu, garlic, and shallots. Season with salt and pepper, then simmer until tender. Serve hot with fresh herbs and noodles."
+            ]
+        },
+        {
+            "tag": "ca_kho_to",
+            "patterns": [
+                "Fish",
+                "Caramel sauce",
+                "Fish sauce",
+                "Garlic",
+                "Chili",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a flavorful Ca Kho To!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ca_kho_to",
+            "patterns": [
+                "How do I make Ca Kho To?",
+                "What is the recipe for Ca Kho To?"
+            ],
+            "responses": [
+                "To make Ca Kho To, marinate fish with fish sauce, salt, and pepper. Caramelize sugar, add garlic and chili, then braise fish until tender in the sauce."
+            ]
+        },
+        {
+            "tag": "ca_chien_gion",
+            "patterns": [
+                "Fish",
+                "Salt",
+                "Pepper",
+                "Flour",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Ca Chien Gion!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ca_chien_gion",
+            "patterns": [
+                "How do I make Ca Chien Gion?",
+                "What is the recipe for Ca Chien Gion?"
+            ],
+            "responses": [
+                "To make Ca Chien Gion, season fish with salt and pepper, coat with flour, and deep-fry until crispy and golden brown."
+            ]
+        },
+        {
+            "tag": "de_xao_lan",
+            "patterns": [
+                "Goat meat",
+                "Coconut milk",
+                "Lemongrass",
+                "Garlic",
+                "Curry powder",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful De Xao Lan!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_de_xao_lan",
+            "patterns": [
+                "How do I make De Xao Lan?",
+                "What is the recipe for De Xao Lan?"
+            ],
+            "responses": [
+                "To make De Xao Lan, marinate goat meat with curry powder, salt, and pepper. Stir-fry with garlic, lemongrass, then add coconut milk and simmer until tender."
+            ]
+        },
+        {
+            "tag": "lau_de",
+            "patterns": [
+                "Goat meat",
+                "Herbs",
+                "Lemongrass",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a hearty Lau De!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_de",
+            "patterns": [
+                "How do I make Lau De?",
+                "What is the recipe for Lau De?"
+            ],
+            "responses": [
+                "To make Lau De, simmer goat meat with lemongrass, garlic, and herbs. Season with fish sauce, salt, and pepper. Serve hot with fresh vegetables and dipping sauce."
+            ]
+        },
+        {
+            "tag": "trau_xao_la_lot",
+            "patterns": [
+                "Buffalo meat",
+                "Betel leaves",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Trau Xao La Lot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trau_xao_la_lot",
+            "patterns": [
+                "How do I make Trau Xao La Lot?",
+                "What is the recipe for Trau Xao La Lot?"
+            ],
+            "responses": [
+                "To make Trau Xao La Lot, slice buffalo meat thinly, stir-fry with garlic and betel leaves, then season with fish sauce, salt, and pepper."
+            ]
+        },
+        {
+            "tag": "trau_nuong_me",
+            "patterns": [
+                "Buffalo meat",
+                "Tamarind",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful Trau Nuong Me!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trau_nuong_me",
+            "patterns": [
+                "How do I make Trau Nuong Me?",
+                "What is the recipe for Trau Nuong Me?"
+            ],
+            "responses": [
+                "To make Trau Nuong Me, marinate buffalo meat with tamarind sauce, garlic, fish sauce, salt, and pepper. Grill over charcoal until cooked through."
+            ]
+        },
+        {
+            "tag": "lau_trau",
+            "patterns": [
+                "Buffalo meat",
+                "Lemongrass",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Pepper",
+                "Herbs"
+            ],
+            "responses": [
+                "With these ingredients, you can make a hearty Lau Trau!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_lau_trau",
+            "patterns": [
+                "How do I make Lau Trau?",
+                "What is the recipe for Lau Trau?"
+            ],
+            "responses": [
+                "To make Lau Trau, simmer buffalo meat with lemongrass, garlic, and herbs. Season with fish sauce, salt, and pepper. Serve hot with fresh vegetables and dipping sauce."
+            ]
+        },
+        {
+            "tag": "oc_xao_sate",
+            "patterns": [
+                "Snails",
+                "Chili sauce",
+                "Lemongrass",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Sugar"
+            ],
+            "responses": [
+                "With these ingredients, you can make a spicy Oc Xao Sate!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_oc_xao_sate",
+            "patterns": [
+                "How do I make Oc Xao Sate?",
+                "What is the recipe for Oc Xao Sate?"
+            ],
+            "responses": [
+                "To make Oc Xao Sate, stir-fry snails with garlic, lemongrass, and chili sauce. Season with fish sauce, salt, and sugar, then cook until fragrant."
+            ]
+        },
+        {
+            "tag": "oc_hap_sa",
+            "patterns": [
+                "Snails",
+                "Lemongrass",
+                "Ginger",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make aromatic Oc Hap Sa!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_oc_hap_sa",
+            "patterns": [
+                "How do I make Oc Hap Sa?",
+                "What is the recipe for Oc Hap Sa?"
+            ],
+            "responses": [
+                "To make Oc Hap Sa, steam snails with lemongrass and ginger. Season with fish sauce, salt, and pepper. Serve with dipping sauce."
+            ]
+        },
+        {
+            "tag": "oc_nuong_tieu_den",
+            "patterns": [
+                "Snails",
+                "Black pepper",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Butter"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Oc Nuong Tieu Den!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_oc_nuong_tieu_den",
+            "patterns": [
+                "How do I make Oc Nuong Tieu Den?",
+                "What is the recipe for Oc Nuong Tieu Den?"
+            ],
+            "responses": [
+                "To make Oc Nuong Tieu Den, grill snails with black pepper, garlic, fish sauce, salt, and butter until cooked through. Serve hot."
+            ]
+        },
+        {
+            "tag": "hau_nuong_mo_hanh",
+            "patterns": [
+                "Oysters",
+                "Scallions",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Butter"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Hau Nuong Mo Hanh!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_hau_nuong_mo_hanh",
+            "patterns": [
+                "How do I make Hau Nuong Mo Hanh?",
+                "What is the recipe for Hau Nuong Mo Hanh?"
+            ],
+            "responses": [
+                "To make Hau Nuong Mo Hanh, grill oysters with garlic, fish sauce, scallions, salt, and butter until cooked through. Serve hot."
+            ]
+        },
+        {
+            "tag": "hau_chien_gion",
+            "patterns": [
+                "Oysters",
+                "Flour",
+                "Eggs",
+                "Salt",
+                "Pepper",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Hau Chien Gion!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_hau_chien_gion",
+            "patterns": [
+                "How do I make Hau Chien Gion?",
+                "What is the recipe for Hau Chien Gion?"
+            ],
+            "responses": [
+                "To make Hau Chien Gion, coat oysters in flour and beaten eggs, then deep-fry until golden brown. Serve hot with dipping sauce."
+            ]
+        },
+        {
+            "tag": "cua_rang_me",
+            "patterns": [
+                "Crab",
+                "Tamarind",
+                "Garlic",
+                "Sugar",
+                "Fish sauce",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful Cua Rang Me!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_cua_rang_me",
+            "patterns": [
+                "How do I make Cua Rang Me?",
+                "What is the recipe for Cua Rang Me?"
+            ],
+            "responses": [
+                "To make Cua Rang Me, stir-fry crab with garlic, then coat in a tamarind sauce mixed with sugar, fish sauce, salt, and pepper. Cook until thickened and serve hot."
+            ]
+        },
+        {
+            "tag": "cua_hap_bia",
+            "patterns": [
+                "Crab",
+                "Beer",
+                "Garlic",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Cua Hap Bia!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_cua_hap_bia",
+            "patterns": [
+                "How do I make Cua Hap Bia?",
+                "What is the recipe for Cua Hap Bia?"
+            ],
+            "responses": [
+                "To make Cua Hap Bia, steam crab with beer, garlic, salt, and pepper until cooked through. Serve hot with dipping sauce."
+            ]
+        },
+        {
+            "tag": "muc_xao_sa_te",
+            "patterns": [
+                "Squid",
+                "Chili sauce",
+                "Lemongrass",
+                "Garlic",
+                "Fish sauce",
+                "Salt",
+                "Sugar"
+            ],
+            "responses": [
+                "With these ingredients, you can make a spicy Muc Xao Sa Te!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_muc_xao_sa_te",
+            "patterns": [
+                "How do I make Muc Xao Sa Te?",
+                "What is the recipe for Muc Xao Sa Te?"
+            ],
+            "responses": [
+                "To make Muc Xao Sa Te, stir-fry squid with garlic, lemongrass, and chili sauce. Season with fish sauce, salt, and sugar, then cook until fragrant."
+            ]
+        },
+        {
+            "tag": "tom_nuong_muoi_ot",
+            "patterns": [
+                "Shrimp",
+                "Salt",
+                "Chili",
+                "Garlic",
+                "Lime",
+                "Butter"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Tom Nuong Muoi Ot!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_tom_nuong_muoi_ot",
+            "patterns": [
+                "How do I make Tom Nuong Muoi Ot?",
+                "What is the recipe for Tom Nuong Muoi Ot?"
+            ],
+            "responses": [
+                "To make Tom Nuong Muoi Ot, marinate shrimp with salt, chili, garlic, and lime juice. Grill over charcoal and brush with butter until cooked through."
+            ]
+        },
+        {
+            "tag": "mi_y_carbonara",
+            "patterns": [
+                "Spaghetti",
+                "Eggs",
+                "Bacon",
+                "Parmesan",
+                "Garlic",
+                "Salt",
+                "Pepper"
+            ],
+            "responses": [
+                "With these ingredients, you can make a creamy Pasta Carbonara!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_mi_y_carbonara",
+            "patterns": [
+                "How do I make Pasta Carbonara?",
+                "What is the recipe for Pasta Carbonara?"
+            ],
+            "responses": [
+                "To make Pasta Carbonara, cook spaghetti, fry bacon, and mix with beaten eggs, Parmesan, and garlic. Toss with pasta and serve hot."
+            ]
+        },
+        {
+            "tag": "bit_tet",
+            "patterns": [
+                "Beef",
+                "Salt",
+                "Pepper",
+                "Butter",
+                "Garlic",
+                "Rosemary"
+            ],
+            "responses": [
+                "With these ingredients, you can make a juicy Beef Steak!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bit_tet",
+            "patterns": [
+                "How do I make Beef Steak?",
+                "What is the recipe for Beef Steak?"
+            ],
+            "responses": [
+                "To make Beef Steak, season beef with salt and pepper, sear in butter with garlic and rosemary until desired doneness."
+            ]
+        },
+        {
+            "tag": "salad_caesar",
+            "patterns": [
+                "Lettuce",
+                "Croutons",
+                "Parmesan",
+                "Caesar dressing",
+                "Chicken",
+                "Garlic"
+            ],
+            "responses": [
+                "With these ingredients, you can make a fresh Caesar Salad!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_salad_caesar",
+            "patterns": [
+                "How do I make Caesar Salad?",
+                "What is the recipe for Caesar Salad?"
+            ],
+            "responses": [
+                "To make Caesar Salad, toss lettuce with Caesar dressing, croutons, Parmesan, and grilled chicken."
+            ]
+        },
+        {
+            "tag": "sushi",
+            "patterns": [
+                "Rice",
+                "Seaweed",
+                "Fish",
+                "Soy sauce",
+                "Wasabi",
+                "Vinegar"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Sushi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_sushi",
+            "patterns": [
+                "How do I make Sushi?",
+                "What is the recipe for Sushi?"
+            ],
+            "responses": [
+                "To make Sushi, season rice with vinegar, place on seaweed, add fish, then roll tightly and slice."
+            ]
+        },
+        {
+            "tag": "ramen",
+            "patterns": [
+                "Noodles",
+                "Broth",
+                "Pork",
+                "Egg",
+                "Soy sauce",
+                "Garlic"
+            ],
+            "responses": [
+                "With these ingredients, you can make a comforting bowl of Ramen!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_ramen",
+            "patterns": [
+                "How do I make Ramen?",
+                "What is the recipe for Ramen?"
+            ],
+            "responses": [
+                "To make Ramen, simmer broth, cook noodles, and top with pork, egg, and seasonings."
+            ]
+        },
+        {
+            "tag": "tempura",
+            "patterns": [
+                "Shrimp",
+                "Flour",
+                "Egg",
+                "Oil",
+                "Salt",
+                "Water"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Tempura!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_tempura",
+            "patterns": [
+                "How do I make Tempura?",
+                "What is the recipe for Tempura?"
+            ],
+            "responses": [
+                "To make Tempura, coat shrimp in a light batter of flour, egg, and water, then deep-fry until golden brown."
+            ]
+        },
+        {
+            "tag": "kimchi",
+            "patterns": [
+                "Cabbage",
+                "Chili powder",
+                "Garlic",
+                "Salt",
+                "Sugar",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make spicy and tangy Kimchi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_kimchi",
+            "patterns": [
+                "How do I make Kimchi?",
+                "What is the recipe for Kimchi?"
+            ],
+            "responses": [
+                "To make Kimchi, mix chopped cabbage with salt and let sit. Rinse, then mix with chili powder, garlic, sugar, and fish sauce. Let ferment for a few days."
+            ]
+        },
+        {
+            "tag": "bibimbap",
+            "patterns": [
+                "Rice",
+                "Beef",
+                "Egg",
+                "Vegetables",
+                "Soy sauce",
+                "Chili paste"
+            ],
+            "responses": [
+                "With these ingredients, you can make a colorful bowl of Bibimbap!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bibimbap",
+            "patterns": [
+                "How do I make Bibimbap?",
+                "What is the recipe for Bibimbap?"
+            ],
+            "responses": [
+                "To make Bibimbap, cook rice, top with sauteed vegetables, beef, and a fried egg. Serve with soy sauce and chili paste."
+            ]
+        },
+        {
+            "tag": "tteokbokki",
+            "patterns": [
+                "Rice cakes",
+                "Chili paste",
+                "Garlic",
+                "Fish cakes",
+                "Soy sauce",
+                "Sugar"
+            ],
+            "responses": [
+                "With these ingredients, you can make chewy and spicy Tteokbokki!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_tteokbokki",
+            "patterns": [
+                "How do I make Tteokbokki?",
+                "What is the recipe for Tteokbokki?"
+            ],
+            "responses": [
+                "To make Tteokbokki, stir-fry rice cakes with chili paste, garlic, fish cakes, soy sauce, and sugar until thick and saucy."
+            ]
+        },
+        {
+            "tag": "vit_quay_bac_kinh",
+            "patterns": [
+                "Duck",
+                "Hoisin sauce",
+                "Soy sauce",
+                "Garlic",
+                "Five-spice powder",
+                "Honey"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Vit Quay Bac Kinh!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_vit_quay_bac_kinh",
+            "patterns": [
+                "How do I make Vit Quay Bac Kinh?",
+                "What is the recipe for Vit Quay Bac Kinh?"
+            ],
+            "responses": [
+                "To make Vit Quay Bac Kinh, marinate duck with hoisin sauce, soy sauce, and five-spice powder, then roast until crispy."
+            ]
+        },
+        {
+            "tag": "sui_cao_chien",
+            "patterns": [
+                "Dumpling wrappers",
+                "Ground pork",
+                "Shrimp",
+                "Garlic",
+                "Soy sauce",
+                "Ginger"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy Sui Cao Chien!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_sui_cao_chien",
+            "patterns": [
+                "How do I make Sui Cao Chien?",
+                "What is the recipe for Sui Cao Chien?"
+            ],
+            "responses": [
+                "To make Sui Cao Chien, mix pork, shrimp, garlic, and seasonings, wrap in dumpling wrappers, then pan-fry until golden brown."
+            ]
+        },
+        {
+            "tag": "bun_dau_mam_tom",
+            "patterns": [
+                "Fried tofu",
+                "Fermented shrimp paste",
+                "Rice vermicelli",
+                "Herbs",
+                "Pork belly"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Bun Dau Mam Tom!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_bun_dau_mam_tom",
+            "patterns": [
+                "How do I make Bun Dau Mam Tom?",
+                "What is the recipe for Bun Dau Mam Tom?"
+            ],
+            "responses": [
+                "To make Bun Dau Mam TomTom, fry tofu until golden, boil pork belly until tender, and serve with rice vermicelli and fresh herbs. Mix fermented shrimp paste with lime and sugar as a dipping sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_beo",
+            "patterns": [
+                "Rice flour",
+                "Tapioca flour",
+                "Shrimp",
+                "Scallions",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Banh Beo!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_beo",
+            "patterns": [
+                "How do I make Banh Beo?",
+                "What is the recipe for Banh Beo?"
+            ],
+            "responses": [
+                "To make Banh Beeo, steam a batter made from rice flour and tapioca flour. Top with minced shrimp, scallions, and crispy pork rinds. Serve with fish sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "pizza_margherita",
+            "patterns": [
+                "Pizza dough",
+                "Tomato sauce",
+                "Mozzarella",
+                "Basil",
+                "Olive oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make a classic Pizza Margherita!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_pizza_margherita",
+            "patterns": [
+                "How do I make Pizza Margherita?",
+                "What is the recipe for Pizza Margherita?"
+            ],
+            "responses": [
+                "To make Pizza Margherita, spread tomato sauce on pizza dough, add mozzarella, and bake until crispy. Garnish with fresh basil and drizzle with olive oil."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_chung",
+            "patterns": [
+                "Glutinous rice",
+                "Pork",
+                "Mung beans",
+                "Banana leaves",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make traditional Banh Chung!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_chung",
+            "patterns": [
+                "How do I make Banh Chung?",
+                "What is the recipe for Banh Chuung?"
+            ],
+            "responses": [
+                "To make Banh Chung, soak glutinous rice, mung beans, and marinate pork. Wrap in banana leaves and boil for at least 8 hours until fully cooked."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_day",
+            "patterns": [
+                "Glutinous rice",
+                "Salt",
+                "Pork floss",
+                "Banana leaves"
+            ],
+            "responses": [
+                "With these ingredients, you can make soft and chewy Banh Day!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_day",
+            "patterns": [
+                "How do I make B\u00c3\u00a1nh D\u00c3\u00a0y?",
+                "What is the recipe for Banh Day?"
+            ],
+            "responses": [
+                "To make Banh Day, steam and pound glutinous rice until smooth. Shape into small round cakes and serve with pork floss or savory fillings."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_bot_loc",
+            "patterns": [
+                "Tapioca flour",
+                "Shrimp",
+                "Pork",
+                "Banana leaves",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make delicious Banh Bot Loc!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_bot_loc",
+            "patterns": [
+                "How do I make Banh Bot Loc?",
+                "What is the recipe for Banh Bot Loc?"
+            ],
+            "responses": [
+                "To make Banh Bot Loc, wrap shrimp and pork in a tapioca flour dough, steam in banana leaves, and serve with fish sauce."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "banh_troi",
+            "patterns": [
+                "Glutinous rice flour",
+                "Jaggery",
+                "Sesame seeds",
+                "Coconut flakes"
+            ],
+            "responses": [
+                "With these ingredients, you can make sweet and chewy Banh Troi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_troi",
+            "patterns": [
+                "How do I make Banh Troi?",
+                "What is the recipe for Banh Troi?"
+            ],
+            "responses": [
+                "To make Banh Troi, wrap jaggery in glutinous rice flour dough, boil until floating, and coat with sesame seeds and coconut flakes."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "nem_chua_ran",
+            "patterns": [
+                "Fermented pork",
+                "Garlic",
+                "Chili",
+                "Flour",
+                "Eggs"
+            ],
+            "responses": [
+                "With these ingredients, you can make crispy and delicious Nem Chua Ran!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_nem_chua_ran",
+            "patterns": [
+                "How do I make Nem Chua Ran?",
+                "What is the recipe for Nem Chua Ran?"
+            ],
+            "responses": [
+                "To make Nem Chua Ran, coat fermented pork in flour and eggs, then deep-fry until golden brown and crispy."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "trung_chien",
+            "patterns": [
+                "Eggs",
+                "Salt",
+                "Pepper",
+                "Oil"
+            ],
+            "responses": [
+                "With these ingredients, you can make simple and tasty Trung Chien!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trung_chien",
+            "patterns": [
+                "How do I make Trung Chien?",
+                "What is the recipe for Trung Chien?"
+            ],
+            "responses": [
+                "To make Trung Chien, beat eggs with salt and pepper, then fry in oil until golden."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "trung_luoc",
+            "patterns": [
+                "Eggs",
+                "Water",
+                "Salt"
+            ],
+            "responses": [
+                "With these ingredients, you can make simple and nutritious Trung Luoc!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_trung_luoc",
+            "patterns": [
+                "How do I make Trung Luoc?",
+                "What is the recipe for Trung Luoc?"
+            ],
+            "responses": [
+                "To make Trung Luoc, place eggs in boiling water with a pinch of salt. Boil for 7-10 minutes, then cool in ice water before peeling."
+            ]
+        },
+        {
+            "tag": "thit_nuong_ngu_vi",
+            "patterns": [
+                "Pork",
+                "Five-spice powder",
+                "Garlic",
+                "Fish sauce",
+                "Sugar"
+            ],
+            "responses": [
+                "With these ingredients, you can make flavorful Thit Nuong Ngu Vi!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_thit_nuong_ngu_vi",
+            "patterns": [
+                "How do I make Thit Nuong Ngu Vi?",
+                "What is the recipe for Thit Nuong Ngu Vi?"
+            ],
+            "responses": [
+                "To make Thit Nuong Ngu Vi, marinate pork with five-spice powder, garlic, fish sauce, and sugar. Grill until golden brown and serve with rice or vermicelli."
+            ]
+        },
+        {
+            "tag": "chao_luon",
+            "patterns": [
+                "Eel",
+                "Rice",
+                "Ginger",
+                "Fish sauce",
+                "Scallions"
+            ],
+            "responses": [
+                "With these ingredients, you can make a nutritious bowl of Chao Luon!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_chao_luon",
+            "patterns": [
+                "How do I make Chao Luon?",
+                "What is the recipe for Chao Luon?"
+            ],
+            "responses": [
+                "To make Chao Luon, clean and cook eel with ginger. Simmer rice into a porridge, add the cooked eel, season with fish sauce, and top with scallions before serving."
+            ]
+        },
+        {
+            "tag": "canh_kho_qua_nhoi_thit",
+            "patterns": [
+                "Bitter melon",
+                "Ground pork",
+                "Wood ear mushrooms",
+                "Fish sauce",
+                "Scallions"
+            ],
+            "responses": [
+                "With these ingredients, you can make a comforting bowl of Canh Kho Qua Nhoi Thit!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_canh_kho_qua_nhoi_thit",
+            "patterns": [
+                "How do I make Canh Kho Qua Nhoi Thit?",
+                "What is the recipe for Canh Kho Qua Nhoi Thit?"
+            ],
+            "responses": [
+                "To make Canh Kho Qua Nhoi Thit, stuff bitter melon with a mixture of ground pork and mushrooms, then simmer in a flavorful broth until tender."
+            ]
+        },
+        {
+            "tag": "banh_my_chao",
+            "patterns": [
+                "Baguette",
+                "Eggs",
+                "Pate",
+                "Sausage",
+                "Tomato sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a delicious Banh My Chao!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_my_chao",
+            "patterns": [
+                "How do I make Banh My Chao?",
+                "What is the recipe for Banh My Chao?"
+            ],
+            "responses": [
+                "To make Banh My Chao, fry eggs, sausage, and pate in a pan with tomato sauce. Serve hot with a crispy baguette."
+            ]
+        },
+        {
+            "tag": "mat_ca_ngu_dai_duong",
+            "patterns": [
+                "Tuna eye",
+                "Ginger",
+                "Herbs",
+                "Fish sauce",
+                "Broth"
+            ],
+            "responses": [
+                "With these ingredients, you can make a nutritious bowl of Mat Ca Ngu Dai Duong!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_mat_ca_ngu_dai_duong",
+            "patterns": [
+                "How do I make Mat Ca Ngu Dai Duong?",
+                "What is the recipe for Mat Ca Ngu Dai Duong?"
+            ],
+            "responses": [
+                "To make Mat Ca Ngu Dai Duong, simmer tuna eye in a rich broth with ginger and herbs. Season with fish sauce and serve hot."
+            ]
+        },
+        {
+            "tag": "nom_du_du",
+            "patterns": [
+                "Green papaya",
+                "Carrots",
+                "Peanuts",
+                "Fish sauce",
+                "Shrimp"
+            ],
+            "responses": [
+                "With these ingredients, you can make a refreshing plate of Nom Du Du!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_nom_du_du",
+            "patterns": [
+                "How do I make Nom Du Du?",
+                "What is the recipe for Nom Du Du?"
+            ],
+            "responses": [
+                "To make Nom Du Du, shred green papaya and carrots, toss with fish sauce, lime juice, and sugar. Garnish with peanuts and dried shrimp before serving."
+            ]
+        },
+        {
+            "tag": "nom_bo_kho",
+            "patterns": [
+                "Dried beef",
+                "Green papaya",
+                "Herbs",
+                "Fish sauce",
+                "Peanuts"
+            ],
+            "responses": [
+                "With these ingredients, you can make a tasty plate of Nom Bo Kho!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_nom_bo_kho",
+            "patterns": [
+                "How do I make Nom Bo Kho?",
+                "What is the recipe for Nom Bo Kho?"
+            ],
+            "responses": [
+                "To make Nom Bo Kho, slice dried beef thinly, mix with shredded green papaya and fresh herbs. Toss with fish sauce, lime juice, and top with crushed peanuts."
+            ]
+        },
+        {
+            "tag": "goi_ga",
+            "patterns": [
+                "Chicken",
+                "Cabbage",
+                "Carrots",
+                "Mint",
+                "Peanuts"
+            ],
+            "responses": [
+                "With these ingredients, you can make a fresh and tasty Goi Ga!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_goi_ga",
+            "patterns": [
+                "How do I make Goi Ga?",
+                "What is the recipe for Goi Ga?"
+            ],
+            "responses": [
+                "To make Goi Ga, shred boiled chicken, mix with thinly sliced cabbage and carrots, toss with fish sauce, lime juice, and top with mint and crushed peanuts."
+            ]
+        },
+        {
+            "tag": "canh_ca_chua_trung",
+            "patterns": [
+                "Tomatoes",
+                "Eggs",
+                "Scallions",
+                "Fish sauce",
+                "Garlic"
+            ],
+            "responses": [
+                "With these ingredients, you can make a simple and delicious Canh Ca Chua Trung!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_canh_ca_chua_trung",
+            "patterns": [
+                "How do I make Canh Ca Chua Trung?",
+                "What is the recipe for Canh Ca Chua Trung?"
+            ],
+            "responses": [
+                "To make Canh Ca Chua Trung, saute garlic and tomatoes until soft, add water and bring to a boil. Slowly pour in beaten eggs while stirring gently. Season with fish sauce and top with scallions before serving."
+            ]
+        },
+        {
+            "tag": "canh_sau",
+            "patterns": [
+                "Dracontomelon",
+                "Pork ribs",
+                "Tomatoes",
+                "Scallions",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a tangy and refreshing Canh Sau!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_canh_sau",
+            "patterns": [
+                "How do I make Canh Sau?",
+                "What is the recipe for Canh Sau?"
+            ],
+            "responses": [
+                "To make Canh Sau, boil pork ribs until tender, add dracontomelon and tomatoes, and season with fish sauce. Simmer until flavors blend and top with scallions before serving."
+            ]
+        },
+        {
+            "tag": "banh_gio",
+            "patterns": [
+                "Rice flour",
+                "Ground pork",
+                "Wood ear mushrooms",
+                "Banana leaves",
+                "Fish sauce"
+            ],
+            "responses": [
+                "With these ingredients, you can make a soft and delicious Banh Gio!"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "recipe_banh_gio",
+            "patterns": [
+                "How do I make Banh Gio?",
+                "What is the recipe for Banh Gio?"
+            ],
+            "responses": [
+                "To make Banh Gio, prepare a smooth rice flour batter, fill with a seasoned ground pork and wood ear mushroom mixture, wrap in banana leaves, and steam until firm."
+            ]
+        }
+    ]
 }
-
-
-
-
-
