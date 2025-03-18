@@ -6,6 +6,8 @@ exist_tag = []
 cleaned_data = []
 for item in data['intents']:
     if item['tag'] not in  exist_tag:
+        if type(item['tag']) is tuple:
+            exist_tag.append(item['tag'][0])
         exist_tag.append(item['tag'])
         cleaned_data.append(item)
     else:
