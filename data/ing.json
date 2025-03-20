@@ -1,0 +1,3136 @@
+[
+  {
+    "dish": "Burmese Samusa Soup",
+    "tag": "burmese_samusa_soup",
+    "patterns": ["burmese", "samusa soup", "samosa soup"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "chickpeas", "quantity": "100g" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "coriander powder", "quantity": "1 tsp" },
+      { "name": "cumin powder", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green chili", "quantity": "1 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "paprika", "quantity": "1 tsp" },
+      { "name": "potato samosas", "quantity": "4 pieces" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "vegetable broth", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Burmese Samosa Salad",
+    "tag": "burmese_samosa_salad",
+    "patterns": ["burmese", "samosa salad", "samosa thoke"],
+    "ingredients": [
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "chili powder", "quantity": "1/2 tsp" },
+      { "name": "coriander", "quantity": "2 sprigs" },
+      { "name": "cumin", "quantity": "1/2 tsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "samosas", "quantity": "2 pieces" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Burmese Tea Leaf Salad",
+    "tag": "burmese_tea_leaf_salad",
+    "patterns": ["burmese", "laphet thoke", "tea leaf salad"],
+    "ingredients": [
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "chili flakes", "quantity": "1/2 tsp" },
+      { "name": "crispy garlic", "quantity": "2 tbsp" },
+      { "name": "fish sauce", "quantity": "1/2 tbsp" },
+      { "name": "fried peas", "quantity": "2 tbsp" },
+      { "name": "green tea leaves", "quantity": "50g" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sesame seeds", "quantity": "1 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" }
+    ]
+  },
+  {
+    "dish": "Burmese Thick Noodle Salad",
+    "tag": "burmese_thick_noodle_salad",
+    "patterns": ["burmese", "nan gyi thoke", "thick noodle salad"],
+    "ingredients": [
+      { "name": "boiled egg", "quantity": "1 piece" },
+      { "name": "chili powder", "quantity": "1/2 tsp" },
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "coriander", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Burmese Shan Tofu Noodles",
+    "tag": "burmese_shan_tofu_noodles",
+    "patterns": ["burmese", "shan tofu noodles", "tofu noodles"],
+    "ingredients": [
+      { "name": "chili flakes", "quantity": "1/2 tsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sesame oil", "quantity": "1 tbsp" },
+      { "name": "shan tofu", "quantity": "200g" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Burmese Rice Noodle Fish Soup",
+    "tag": "burmese_rice_noodle_fish_soup",
+    "patterns": ["burmese", "mohinga", "rice noodle fish soup"],
+    "ingredients": [
+      { "name": "banana stem", "quantity": "100g" },
+      { "name": "chili powder", "quantity": "1/2 tsp" },
+      { "name": "coriander", "quantity": "2 sprigs" },
+      { "name": "fish", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Burmese Kyaw",
+    "tag": "burmese_kyaw",
+    "patterns": ["burmese", "kyaw", "burmese fritters"],
+    "ingredients": [
+      { "name": "baking soda", "quantity": "1/4 tsp" },
+      { "name": "chickpea flour", "quantity": "100g" },
+      { "name": "coriander", "quantity": "2 sprigs" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "200ml" },
+      { "name": "water", "quantity": "50ml" }
+    ]
+  },
+  {
+    "dish": "Burmese Shrimp Curry",
+    "tag": "burmese_shrimp_curry",
+    "patterns": ["burmese", "prawn curry", "shrimp curry"],
+    "ingredients": [
+      { "name": "chili powder", "quantity": "1 tsp" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "coriander", "quantity": "2 sprigs" },
+      { "name": "cumin", "quantity": "1/2 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp", "quantity": "250g" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Burmese Fish Curry",
+    "tag": "burmese_fish_curry",
+    "patterns": ["burmese", "fish curry"],
+    "ingredients": [
+      { "name": "chili powder", "quantity": "1 tsp" },
+      { "name": "fish", "quantity": "250g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "tomato", "quantity": "2 pieces" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "250ml" }
+    ]
+  },
+  {
+    "dish": "Burmese Coconut Rice",
+    "tag": "burmese_coconut_rice",
+    "patterns": ["burmese", "coconut rice", "ohn htamin"],
+    "ingredients": [
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "jasmine rice", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Burmese Naan Flat-bread and Pe Byouk",
+    "tag": "burmese_naan_flat_bread_and_pe_byouk",
+    "patterns": ["burmese", "naan flat-bread", "pe byouk"],
+    "ingredients": [
+      { "name": "black gram", "quantity": "100g" },
+      { "name": "flour", "quantity": "250g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "150ml" },
+      { "name": "yeast", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Burmese Deep Fried Stuffed Tofu",
+    "tag": "burmese_deep_fried_stuffed_tofu",
+    "patterns": ["deep fried", "stuffed tofu", "tofu"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "ground pork", "quantity": "100g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "tofu", "quantity": "4 pieces" },
+      { "name": "vegetable oil", "quantity": "200ml" }
+    ]
+  },
+
+  {
+    "dish": "Cambodian Black Pepper Beef",
+    "tag": "cambodian_black_pepper_beef",
+    "patterns": ["black pepper beef", "lok lak"],
+    "ingredients": [
+      { "name": "beef sirloin", "quantity": "250g" },
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lettuce", "quantity": "4 leaves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "white rice", "quantity": "200g" },
+      { "name": "worcestershire sauce", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Cambodian Rice Noodle Soup",
+    "tag": "cambodian_rice_noodle_soup",
+    "patterns": ["cambodian", "kuy teav", "rice noodle soup"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "beef bones", "quantity": "500g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pork belly", "quantity": "150g" },
+      { "name": "pork mince", "quantity": "150g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "rock sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "star anise", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Cambodian Chicken-and-Rice Soup with Shrimp",
+    "tag": "cambodian_chicken_and_rice_soup_with_shrimp",
+    "patterns": ["babor sach moan", "cambodian", "chicken and rice soup", "chicken rice porridge", "rice soup with shrimp"],
+    "ingredients": [
+      { "name": "chicken breast", "quantity": "200g" },
+      { "name": "shrimp", "quantity": "150g" },
+      { "name": "jasmine rice", "quantity": "100g" },
+      { "name": "chicken broth", "quantity": "1L" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "500ml" },
+      { "name": "white pepper", "quantity": "1/4 tsp" }
+    ]
+  },
+  {
+    "dish": "Cambodian Fish Amok",
+    "tag": "cambodian_fish_amok",
+    "patterns": ["cambodian fish amok", "fish amok", "amok trei"],
+    "ingredients": [
+      { "name": "banana leaves", "quantity": "2 pieces" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "fish fillet", "quantity": "300g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5g" },
+      { "name": "kaffir lime leaves", "quantity": "2 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "turmeric", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Cambodian Red Curry",
+    "tag": "cambodian_red_curry",
+    "patterns": ["cambodian red curry", "khmer red curry"],
+    "ingredients": [
+      { "name": "beef", "quantity": "300g" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "eggplant", "quantity": "100g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5g" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "long beans", "quantity": "100g" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "potato", "quantity": "100g" },
+      { "name": "red curry paste", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" }
+    ]
+  },
+  {
+    "dish": "Cambodian Rice Noodle Soup",
+    "tag": "cambodian_rice_noodle_soup",
+    "patterns": ["cambodian rice noodle soup", "nom banh chok"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "cucumber", "quantity": "50g" },
+      { "name": "fish fillet", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5g" },
+      { "name": "kaffir lime leaves", "quantity": "2 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "water spinach", "quantity": "50g" }
+    ]
+  },
+  {
+    "dish": "Cambodian Kampot Pepper Crab",
+    "tag": "cambodian_kampot_pepper_crab",
+    "patterns": ["cambodian kampot pepper crab", "kampot pepper crab"],
+    "ingredients": [
+      { "name": "black peppercorns", "quantity": "1 tbsp" },
+      { "name": "butter", "quantity": "1 tbsp" },
+      { "name": "crab", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "green kampot pepper", "quantity": "1 tbsp" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "spring onions", "quantity": "2 stalks" }
+    ]
+  },
+  {
+    "dish": "Cambodian Beef Salad",
+    "tag": "cambodian_beef_salad",
+    "patterns": ["cambodian beef salad", "lap khmer"],
+    "ingredients": [
+      { "name": "beef", "quantity": "300g" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "cucumber", "quantity": "50g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "2 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "mint leaves", "quantity": "10g" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" }
+    ]
+  },
+  {
+    "dish": "Cambodian Sun-Dried Squid",
+    "tag": "cambodian_sun_dried_squid",
+    "patterns": ["cambodian sun-dried squid", "grilled dried squid", "trey ngeat muek"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sun-dried squid", "quantity": "150g" }
+    ]
+  },
+
+  {
+    "dish": "Filipino Chicken Adobo",
+    "tag": "filipino_chicken_adobo",
+    "patterns": ["adobo", "chicken adobo"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cooking oil", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "soy sauce", "quantity": "3 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "vinegar", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "100ml" },
+      { "name": "whole chicken", "quantity": "500g" }
+    ]
+  },
+  {
+    "dish": "Filipino Chicken Inasal",
+    "tag": "filipino_chicken_inasal",
+    "patterns": ["chicken inasal", "grilled chicken", "philippines"],
+    "ingredients": [
+      { "name": "annatto oil", "quantity": "2 tbsp" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "calamansi juice", "quantity": "2 tbsp" },
+      { "name": "chicken thighs", "quantity": "2 pieces" },
+      { "name": "coconut vinegar", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "salt", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Filipino Lumpia",
+    "tag": "filipino_lumpia",
+    "patterns": ["lumpia", "filipino spring rolls"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground pork", "quantity": "250g" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pepper", "quantity": "1/4 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "spring roll wrappers", "quantity": "10 pieces" },
+      { "name": "vegetable oil", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Filipino Sisig",
+    "tag": "filipino_sisig",
+    "patterns": ["sisig", "filipino sizzling pork"],
+    "ingredients": [
+      { "name": "butter", "quantity": "1 tbsp" },
+      { "name": "chicken liver", "quantity": "50g" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green chili", "quantity": "1 piece" },
+      { "name": "lime", "quantity": "1/2 piece, juiced" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pork belly", "quantity": "250g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Filipino Bibingka",
+    "tag": "filipino_bibingka",
+    "patterns": ["bibingka", "coconut rice cake", "philippines"],
+    "ingredients": [
+      { "name": "baking powder", "quantity": "1 tsp" },
+      { "name": "banana leaves", "quantity": "2 pieces" },
+      { "name": "butter", "quantity": "1 tbsp" },
+      { "name": "cheese", "quantity": "25g" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "grated coconut", "quantity": "50g" },
+      { "name": "rice flour", "quantity": "150g" },
+      { "name": "salted egg", "quantity": "1 piece" },
+      { "name": "sugar", "quantity": "50g" }
+    ]
+  },
+  {
+    "dish": "Filipino Kinilaw",
+    "tag": "filipino_kinilaw",
+    "patterns": ["ceviche", "kinilaw", "philippines"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "calamansi juice", "quantity": "3 tbsp" },
+      { "name": "coconut vinegar", "quantity": "2 tbsp" },
+      { "name": "fish fillet", "quantity": "250g" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green chili", "quantity": "1 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Filipino Crispy Pata",
+    "tag": "filipino_crispy_pata",
+    "patterns": ["crispy pata", "deep-fried pork leg", "philippines"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "coconut vinegar", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "oil", "quantity": "500ml" },
+      { "name": "pork leg", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Filipino Lechon",
+    "tag": "filipino_lechon",
+    "patterns": ["lechon", "roast pig", "philippines"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "5 pieces" },
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "5 cloves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "oil", "quantity": "100ml" },
+      { "name": "pork belly", "quantity": "1kg" },
+      { "name": "salt", "quantity": "2 tsp" },
+      { "name": "soy sauce", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Filipino Sinigang",
+    "tag": "filipino_sinigang",
+    "patterns": ["sinigang", "sour soup", "philippines"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "eggplant", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "kangkong", "quantity": "1 bunch" },
+      { "name": "okra", "quantity": "4 pieces" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "pork ribs", "quantity": "500g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "2 tbsp" },
+      { "name": "tomato", "quantity": "2 pieces" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Filipino Kare Kare",
+    "tag": "filipino_kare_kare",
+    "patterns": ["kare kare", "peanut stew", "philippines"],
+    "ingredients": [
+      { "name": "annatto powder", "quantity": "1 tsp" },
+      { "name": "banana heart", "quantity": "1 piece" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "bok choy", "quantity": "1 bunch" },
+      { "name": "eggplant", "quantity": "1 piece" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green beans", "quantity": "100g" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "ox tripe", "quantity": "250g" },
+      { "name": "peanut butter", "quantity": "3 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shrimp paste", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Filipino Pancit",
+    "tag": "filipino_pancit",
+    "patterns": ["pancit", "stir fried noodles", "philippines"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "chicken breast", "quantity": "150g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green beans", "quantity": "50g" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "pancit noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "soy sauce", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Filipino Halo Halo",
+    "tag": "filipino_halo_halo",
+    "patterns": ["halo halo", "shaved ice dessert", "philippines"],
+    "ingredients": [
+      { "name": "banana", "quantity": "1 piece" },
+      { "name": "coconut gel", "quantity": "50g" },
+      { "name": "condensed milk", "quantity": "2 tbsp" },
+      { "name": "evaporated milk", "quantity": "100ml" },
+      { "name": "jackfruit", "quantity": "50g" },
+      { "name": "kidney beans", "quantity": "50g" },
+      { "name": "lechon flan", "quantity": "1 slice" },
+      { "name": "purple yam", "quantity": "50g" },
+      { "name": "shaved ice", "quantity": "200g" },
+      { "name": "sugar palm fruit", "quantity": "50g" },
+      { "name": "sweet corn", "quantity": "50g" },
+      { "name": "tapioca pearls", "quantity": "50g" }
+    ]
+  },
+  {
+    "dish": "Filipino Spaghetti",
+    "tag": "filipino_spaghetti",
+    "patterns": ["filipino pasta", "sweet spaghetti", "pinoy spaghetti", "spaghetti"],
+    "ingredients": [
+      { "name": "banana ketchup", "quantity": "1/4 cup" },
+      { "name": "beef", "quantity": "200g" },
+      { "name": "butter", "quantity": "1 tbsp" },
+      { "name": "cheddar cheese", "quantity": "50g" },
+      { "name": "evaporated milk", "quantity": "1/4 cup" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "hot dogs", "quantity": "2 pieces" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "spaghetti noodles", "quantity": "200g" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "tomato sauce", "quantity": "1 cup" }
+    ]
+  },
+  {
+    "dish": "Filipino Pork Blood Stew",
+    "tag": "filipino_pork_blood_stew",
+    "patterns": ["dinuguan", "filipino blood stew", "pork blood stew"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chicken broth", "quantity": "250ml" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "pork belly", "quantity": "250g" },
+      { "name": "pork blood", "quantity": "250ml" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "vinegar", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Filipino Beef Shank Soup",
+    "tag": "filipino_beef_shank_soup",
+    "patterns": ["bulalo", "beef shank soup", "filipino beef soup"],
+    "ingredients": [
+      { "name": "beef shank", "quantity": "500g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cabbage", "quantity": "1/4 head" },
+      { "name": "corn", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "potato", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Filipino Squid Adobo",
+    "tag": "filipino_squid_adobo",
+    "patterns": ["adobong pusit", "filipino squid adobo", "squid adobo"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "garlic", "quantity": "5 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "vinegar", "quantity": "2 tbsp" }
+    ]
+  },
+
+  {
+    "dish": "Indonesian Nasi Goreng",
+    "tag": "indonesian_nasi_goreng",
+    "patterns": ["fried rice", "indonesian fried rice", "nasi goreng"],
+    "ingredients": [
+      { "name": "cooked rice", "quantity": "400g" },
+      { "name": "chicken", "quantity": "100g" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "kecap manis", "quantity": "1 tbsp" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp paste", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Nasi Padang",
+    "tag": "indonesian_nasi_padang",
+    "patterns": ["indonesian mixed rice", "nasi padang"],
+    "ingredients": [
+      { "name": "beef rendang", "quantity": "200g" },
+      { "name": "cooked rice", "quantity": "400g" },
+      { "name": "coconut milk", "quantity": "100ml" },
+      { "name": "curry leaves", "quantity": "5 pieces" },
+      { "name": "curry powder", "quantity": "1 tbsp" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "fried tempeh", "quantity": "100g" },
+      { "name": "green beans", "quantity": "100g" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sambal chili paste", "quantity": "2 tbsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Rendang",
+    "tag": "indonesian_rendang",
+    "patterns": ["indonesian beef stew", "beef rendang", "rendang"],
+    "ingredients": [
+      { "name": "beef", "quantity": "300g" },
+      { "name": "coconut milk", "quantity": "250ml" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "kaffir lime leaves", "quantity": "3 pieces" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "red chili", "quantity": "2 pieces" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Satay",
+    "tag": "indonesian_satay",
+    "patterns": ["indonesian skewered meat", "sate", "satay"],
+    "ingredients": [
+      { "name": "beef", "quantity": "250g" },
+      { "name": "coconut milk", "quantity": "50ml" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "peanut butter", "quantity": "2 tbsp" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "wooden skewers", "quantity": "6 pieces" }
+    ]
+  },
+  {
+    "dish": "Indonesian Batak Grilled Pork",
+    "tag": "indonesian_batak_grilled_pork",
+    "patterns": ["batak grilled pork", "grilled pork", "saksang"],
+    "ingredients": [
+      { "name": "andaliman pepper", "quantity": "1 tsp" },
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "pork", "quantity": "400g" },
+      { "name": "red chili", "quantity": "2 pieces" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "3 pieces" },
+      { "name": "turmeric", "quantity": "2.5cm piece" }
+    ]
+  },
+  {
+    "dish": "Indonesian Fried Duck",
+    "tag": "indonesian_fried_duck",
+    "patterns": ["bebek goreng", "fried duck"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "duck", "quantity": "1 whole" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "3 pieces" },
+      { "name": "turmeric", "quantity": "2.5cm piece" },
+      { "name": "water", "quantity": "500ml" },
+      { "name": "cooking oil", "quantity": "300ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Fried Chicken",
+    "tag": "indonesian_fried_chicken",
+    "patterns": ["ayam goreng", "fried chicken"],
+    "ingredients": [
+      { "name": "bay leaves", "quantity": "2 pieces" },
+      { "name": "chicken", "quantity": "500g" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "3 pieces" },
+      { "name": "turmeric", "quantity": "2.5cm piece" },
+      { "name": "water", "quantity": "500ml" },
+      { "name": "cooking oil", "quantity": "300ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Fried Catfish",
+    "tag": "indonesian_fried_catfish",
+    "patterns": ["fried catfish", "pecel lele"],
+    "ingredients": [
+      { "name": "catfish", "quantity": "2 pieces" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "3 pieces" },
+      { "name": "turmeric", "quantity": "2.5cm piece" },
+      { "name": "water", "quantity": "500ml" },
+      { "name": "cooking oil", "quantity": "300ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Jakarta Soup",
+    "tag": "indonesian_jakarta_soup",
+    "patterns": ["jakarta soup", "soto betawi"],
+    "ingredients": [
+      { "name": "beef", "quantity": "250g" },
+      { "name": "beef broth", "quantity": "1L" },
+      { "name": "candlenuts", "quantity": "3 pieces" },
+      { "name": "coconut milk", "quantity": "250ml" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "kefir lime leaves", "quantity": "3 pieces" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "4 pieces" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric", "quantity": "2.5cm piece" },
+      { "name": "white pepper", "quantity": "1/2 tsp" },
+      { "name": "cooking oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Oxtail Soup",
+    "tag": "indonesian_oxtail_soup",
+    "patterns": ["oxtail soup", "sop buntut"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "celery", "quantity": "1 stalk" },
+      { "name": "cloves", "quantity": "3 pieces" },
+      { "name": "cooking oil", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "leek", "quantity": "1 stalk" },
+      { "name": "nutmeg", "quantity": "1/2 tsp" },
+      { "name": "oxtail", "quantity": "500g" },
+      { "name": "potato", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "4 pieces" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Indonesian Meatball Soup",
+    "tag": "indonesian_meatball_soup",
+    "patterns": ["bakso", "meatball soup"],
+    "ingredients": [
+      { "name": "beef", "quantity": "250g" },
+      { "name": "beef broth", "quantity": "1.5L" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cooking oil", "quantity": "2 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "ice water", "quantity": "100ml" },
+      { "name": "noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "4 pieces" },
+      { "name": "tapioca flour", "quantity": "50g" },
+      { "name": "white pepper", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Beef Rib Soup",
+    "tag": "indonesian_beef_rib_soup",
+    "patterns": ["beef rib soup", "sop konro"],
+    "ingredients": [
+      { "name": "beef ribs", "quantity": "500g" },
+      { "name": "candlenuts", "quantity": "3 pieces" },
+      { "name": "cinnamon stick", "quantity": "1 piece" },
+      { "name": "cloves", "quantity": "3 pieces" },
+      { "name": "coriander seeds", "quantity": "1 tbsp" },
+      { "name": "cooking oil", "quantity": "2 tbsp" },
+      { "name": "galangal", "quantity": "5cm piece" },
+      { "name": "garlic", "quantity": "5 cloves" },
+      { "name": "ginger", "quantity": "3cm piece" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "nutmeg", "quantity": "1/4 tsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallots", "quantity": "5 pieces" },
+      { "name": "sweet soy sauce", "quantity": "2 tbsp" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Indonesian Beef Offal Soup",
+    "tag": "indonesian_beef_offal_soup",
+    "patterns": ["beef offal soup", "coto makassar"],
+    "ingredients": [
+      { "name": "beef broth", "quantity": "1.5L" },
+      { "name": "beef tripe", "quantity": "200g" },
+      { "name": "beef shank", "quantity": "200g" },
+      { "name": "candlenuts", "quantity": "4 pieces" },
+      { "name": "coriander seeds", "quantity": "1 tbsp" },
+      { "name": "cooking oil", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "3cm piece" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "peanuts", "quantity": "50g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallots", "quantity": "5 pieces" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "white pepper", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Coconut Rice",
+    "tag": "indonesian_coconut_rice",
+    "patterns": ["coconut rice", "nasi uduk"],
+    "ingredients": [
+      { "name": "bay leaf", "quantity": "2 pieces" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "jasmine rice", "quantity": "200g" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "water", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Chicken Congee",
+    "tag": "indonesian_chicken_congee",
+    "patterns": ["bubur ayam", "chicken congee"],
+    "ingredients": [
+      { "name": "chicken breast", "quantity": "200g" },
+      { "name": "chicken broth", "quantity": "1L" },
+      { "name": "fried shallots", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "kecap manis", "quantity": "1 tbsp" },
+      { "name": "rice", "quantity": "150g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Balinese Grilled Chicken",
+    "tag": "indonesian_balinese_grilled_chicken",
+    "patterns": ["ayam bakar bali", "balinese chicken", "grilled chicken bali", "indonesian grilled chicken"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "candlenuts", "quantity": "3 pieces" },
+      { "name": "chicken", "quantity": "500g" },
+      { "name": "coconut oil", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "2.5cm piece" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "2 pieces" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "red chili", "quantity": "2 pieces" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "3 pieces" },
+      { "name": "sweet soy sauce", "quantity": "1 tbsp" },
+      { "name": "turmeric", "quantity": "2.5cm piece" }
+    ]
+  },
+  {
+    "dish": "Indonesian Corn Fritters",
+    "tag": "indonesian_corn_fritters",
+    "patterns": ["bakwan jagung", "corn fritters", "indonesian"],
+    "ingredients": [
+      { "name": "corn kernels", "quantity": "200g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "flour", "quantity": "100g" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "vegetable oil", "quantity": "200ml" },
+      { "name": "water", "quantity": "50ml" }
+    ]
+  },
+  {
+    "dish": "Indonesian Grilled Squid",
+    "tag": "indonesian_grilled_squid",
+    "patterns": ["cumi bakar", "grilled squid", "indonesian"],
+    "ingredients": [
+      { "name": "brown sugar", "quantity": "1/2 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "kecap manis", "quantity": "1 tbsp" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Indonesian Fried Squid Rings",
+    "tag": "indonesian_fried_squid_rings",
+    "patterns": ["breaded fried squid", "cumi goreng tepung", "fried calamari", "indonesian"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cornstarch", "quantity": "1/2 cup" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "flour", "quantity": "1/2 cup" },
+      { "name": "garlic powder", "quantity": "1/2 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "vegetable oil", "quantity": "200ml" }
+    ]
+  },
+
+  {
+    "dish": "Lao Sun-Dried Pork",
+    "tag": "lao_sun_dried_pork",
+    "patterns": ["lao muu haeng", "lao sun-dried pork", "sun-dried pork"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "coriander seeds", "quantity": "1/2 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "sesame seeds", "quantity": "1 tbsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sun-dried pork", "quantity": "300g" }
+    ]
+  },
+  {
+    "dish": "Lao Sun-Dried Beef",
+    "tag": "lao_sun_dried_beef",
+    "patterns": ["lao sun-dried beef", "siin haeng", "sun-dried beef"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "coriander seeds", "quantity": "1/2 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "sesame seeds", "quantity": "1 tbsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sun-dried beef", "quantity": "300g" }
+    ]
+  },
+  {
+    "dish": "Lao Herbal Pork Sausage",
+    "tag": "lao_herbal_pork_sausage",
+    "patterns": ["herbal pork sausage", "lao sai oua", "lao herbal pork sausage", "sai oua"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chilies", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "4 leaves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "pork", "quantity": "300g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "turmeric", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Lao Hot Pepper Dip",
+    "tag": "lao_hot_pepper_dip",
+    "patterns": ["hot pepper dip", "jaew bong", "lao hot pepper dip"],
+    "ingredients": [
+      { "name": "chilies", "quantity": "5 pieces" },
+      { "name": "dried buffalo skin", "quantity": "50g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "galangal", "quantity": "1 tbsp" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Lao Green Mango Salad",
+    "tag": "lao_green_mango_salad",
+    "patterns": ["green mango salad", "lao green mango salad", "tam muk muang"],
+    "ingredients": [
+      { "name": "bird's eye chili", "quantity": "2 pieces" },
+      { "name": "dried shrimp", "quantity": "2 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green mango", "quantity": "1 piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "roasted peanuts", "quantity": "2 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" }
+    ]
+  },
+  {
+    "dish": "Lao Crispy Coconut Rice",
+    "tag": "lao_crispy_coconut_rice",
+    "patterns": ["crispy coconut rice", "lao crispy coconut rice", "naem khao"],
+    "ingredients": [
+      { "name": "cooked jasmine rice", "quantity": "2 cups" },
+      { "name": "coconut flakes", "quantity": "1/4 cup" },
+      { "name": "curry paste", "quantity": "1 tbsp" },
+      { "name": "dried chili", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "pork sausage", "quantity": "100g" },
+      { "name": "roasted peanuts", "quantity": "2 tbsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Lao Minced Duck Salad",
+    "tag": "lao_minced_duck_salad",
+    "patterns": ["laab ped", "lao minced duck salad", "minced duck salad"],
+    "ingredients": [
+      { "name": "cooked jasmine rice", "quantity": "2 tbsp" },
+      { "name": "duck breast", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "kaffir lime leaves", "quantity": "2 pieces" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "mint leaves", "quantity": "10 leaves" },
+      { "name": "roasted chili powder", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "sticky rice powder", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Lao Bamboo and Yanang Leaf Stew",
+    "tag": "lao_bamboo_and_yanang_leaf_stew",
+    "patterns": ["gaeng naw mai", "lao bamboo and yanang leaf stew", "bamboo and yanang leaf stew"],
+    "ingredients": [
+      { "name": "bamboo shoots", "quantity": "200g" },
+      { "name": "chili pepper", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "sticky rice powder", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "500ml" },
+      { "name": "yanang leaf extract", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Lao Grilled Chicken Hearts",
+    "tag": "lao_grilled_chicken_hearts",
+    "patterns": ["grilled chicken hearts", "lao grilled chicken hearts", "piing hua jai kai"],
+    "ingredients": [
+      { "name": "chicken hearts", "quantity": "200g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Lao Rice-Fermented Sour Pork",
+    "tag": "lao_rice_fermented_sour_pork",
+    "patterns": ["muu som", "rice-fermented sour pork", "lao rice-fermented sour pork"],
+    "ingredients": [
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "glutinous rice", "quantity": "2 tbsp" },
+      { "name": "pork belly", "quantity": "250g" },
+      { "name": "pork skin", "quantity": "100g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "white pepper", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Lao Crispy Catfish",
+    "tag": "lao_crispy_catfish",
+    "patterns": ["paa tod", "crispy catfish", "lao crispy catfish"],
+    "ingredients": [
+      { "name": "catfish", "quantity": "1 whole (500g)" },
+      { "name": "cornstarch", "quantity": "3 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "oil", "quantity": "500ml" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "white pepper", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Lao Minced Meat Salad",
+    "tag": "lao_minced_meat_salad",
+    "patterns": ["lao larb", "lao minced meat salad", "larb", "minced meat salad"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "ground meat", "quantity": "200g" },
+      { "name": "kaffir lime leaves", "quantity": "2 leaves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "mint", "quantity": "2 sprigs" },
+      { "name": "red onion", "quantity": "1/2 piece" },
+      { "name": "roasted rice powder", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Lao Steamed Fish",
+    "tag": "lao_steamed_fish",
+    "patterns": ["lao mok pa", "lao steamed fish", "mok pa", "steamed fish"],
+    "ingredients": [
+      { "name": "banana leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili pepper", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "dill", "quantity": "2 sprigs" },
+      { "name": "fish", "quantity": "300g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "kaffir lime leaves", "quantity": "2 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" }
+    ]
+  },
+
+  {
+    "dish": "Malaysian Nasi Lemak",
+    "tag": "malaysian_nasi_lemak",
+    "patterns": ["coconut rice", "malaysian coconut rice", "nasi lemak"],
+    "ingredients": [
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "cooked rice", "quantity": "400g" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "dried anchovies", "quantity": "50g" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "30g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sambal chili paste", "quantity": "2 tbsp" },
+      { "name": "screwpine leaves", "quantity": "2 pieces" }
+    ]
+  },
+  {
+    "dish": "Malaysian Nasi Kandar",
+    "tag": "malaysian_nasi_kandar",
+    "patterns": ["malaysian mixed rice", "nasi kandar"],
+    "ingredients": [
+      { "name": "cooked rice", "quantity": "400g" },
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "coconut milk", "quantity": "100ml" },
+      { "name": "curry leaves", "quantity": "5 pieces" },
+      { "name": "curry powder", "quantity": "1 tbsp" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Malaysian Char Kway Teow",
+    "tag": "malaysian_char_kway_teow",
+    "patterns": ["char kway teow", "fried flat rice noodles", "malaysian stir-fried noodles"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "chili paste", "quantity": "1 tbsp" },
+      { "name": "Chinese chives", "quantity": "2 sprigs" },
+      { "name": "dark soy sauce", "quantity": "1 tbsp" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "light soy sauce", "quantity": "1 tbsp" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "prawn", "quantity": "100g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "sausage", "quantity": "50g" }
+    ]
+  },
+  {
+    "dish": "Malaysian Roti Canai",
+    "tag": "malaysian_roti_canai",
+    "patterns": ["flatbread", "malaysian roti", "roti canai"],
+    "ingredients": [
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "flour", "quantity": "250g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "125ml" }
+    ]
+  },
+  {
+    "dish": "Malaysian Murtabak",
+    "tag": "malaysian_murtabak",
+    "patterns": ["murtabak", "malaysian stuffed roti", "malaysian pan-fried stuffed flatbread"],
+    "ingredients": [
+      { "name": "all-purpose flour", "quantity": "300g" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ground beef", "quantity": "200g" },
+      { "name": "ground cumin", "quantity": "1 tsp" },
+      { "name": "ground turmeric", "quantity": "1/2 tsp" },
+      { "name": "milk", "quantity": "120ml" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "sugar", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+  {
+    "dish": "Malaysian Grilled Fish",
+    "tag": "malaysian_grilled_fish",
+    "patterns": ["grilled fish", "ikan bakar", "malaysian grilled seafood"],
+    "ingredients": [
+      { "name": "banana leaf", "quantity": "2 pieces" },
+      { "name": "chili paste", "quantity": "2 tbsp" },
+      { "name": "fish", "quantity": "400g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" }
+    ]
+  },
+  {
+    "dish": "Malaysian Squid in Black Ink Sauce",
+    "tag": "malaysian_squid_in_black_ink_sauce",
+    "patterns": ["malaysian", "sotong masak hitam", "squid in black ink sauce"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili", "quantity": "2 pieces" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "3 pieces" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "squid ink", "quantity": "2 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Malaysian Fried Turmeric Squid",
+    "tag": "malaysian_fried_turmeric_squid",
+    "patterns": ["fried turmeric squid", "malaysian", "sotong goreng kunyit"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "turmeric powder", "quantity": "1 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Malaysian Spicy Sambal Squid",
+    "tag": "malaysian_spicy_sambal_squid",
+    "patterns": ["malaysian", "sambal sotong", "spicy sambal squid"],
+    "ingredients": [
+      { "name": "belacan", "quantity": "1 tsp" },
+      { "name": "bird's eye chili", "quantity": "3 pieces" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "3 pieces" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "1 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Malaysian Peanut Pancake",
+    "tag": "malaysian_peanut_pancake",
+    "patterns": ["apam balik", "malaysian peanut pancake", "malaysian turnover pancake"],
+    "ingredients": [
+      { "name": "all-purpose flour", "quantity": "200g" },
+      { "name": "baking powder", "quantity": "1 tsp" },
+      { "name": "baking soda", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "milk", "quantity": "150ml" },
+      { "name": "peanuts", "quantity": "50g" },
+      { "name": "salt", "quantity": "1/4 tsp" },
+      { "name": "sugar", "quantity": "2 tbsp" },
+      { "name": "sweetened condensed milk", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+
+  {
+    "dish": "Singaporean Hainanese Chicken Rice",
+    "tag": "singaporean_hainanese_chicken_rice",
+    "patterns": ["hainanese chicken rice", "chicken rice"],
+    "ingredients": [
+      { "name": "chicken", "quantity": "1 whole (about 1.2kg)" },
+      { "name": "chicken broth", "quantity": "1.5L" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "rice", "quantity": "200g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "sesame oil", "quantity": "1 tbsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Singaporean Laksa",
+    "tag": "singaporean_laksa",
+    "patterns": ["curry laksa", "laksa", "spicy coconut noodle soup"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "coconut milk", "quantity": "250ml" },
+      { "name": "curry paste", "quantity": "2 tbsp" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "fish balls", "quantity": "100g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "oil", "quantity": "2 tbsp" },
+      { "name": "prawn", "quantity": "100g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "tofu puffs", "quantity": "100g" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Singaporean Chili Crab",
+    "tag": "singaporean_chili_crab",
+    "patterns": ["chili crab", "crab with chili sauce", "singaporean"],
+    "ingredients": [
+      { "name": "blue crab", "quantity": "2 pieces" },
+      { "name": "chili sauce", "quantity": "3 tbsp" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "ketchup", "quantity": "3 tbsp" },
+      { "name": "red chili", "quantity": "2 pieces" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+  {
+    "dish": "Singaporean Kaya Toast",
+    "tag": "singaporean_kaya_toast",
+    "patterns": ["coconut jam toast", "kaya toast", "singaporean"],
+    "ingredients": [
+      { "name": "bread", "quantity": "4 slices" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "coconut milk", "quantity": "100ml" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "pandan leaves", "quantity": "2 pieces" },
+      { "name": "sugar", "quantity": "50g" }
+    ]
+  },
+  {
+    "dish": "Singaporean Fish Head Curry",
+    "tag": "singaporean_fish_head_curry",
+    "patterns": ["curry fish head", "fish head curry", "singaporean"],
+    "ingredients": [
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "curry leaves", "quantity": "10 leaves" },
+      { "name": "curry powder", "quantity": "2 tbsp" },
+      { "name": "eggplant", "quantity": "1 piece" },
+      { "name": "fish head", "quantity": "1 piece" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "3cm piece" },
+      { "name": "green chili", "quantity": "2 pieces" },
+      { "name": "mustard seeds", "quantity": "1 tsp" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "1 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Singaporean Roti Prata",
+    "tag": "singaporean_roti_prata",
+    "patterns": ["flatbread", "prata", "roti prata", "singaporean"],
+    "ingredients": [
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "flour", "quantity": "250g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+  {
+    "dish": "Singaporean Black Pepper Crab",
+    "tag": "singaporean_black_pepper_crab",
+    "patterns": ["black pepper crab", "singaporean black pepper crab"],
+    "ingredients": [
+      { "name": "black peppercorns", "quantity": "1 tbsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "crab", "quantity": "2 pieces" },
+      { "name": "dark soy sauce", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "light soy sauce", "quantity": "1 tbsp" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+
+  {
+    "dish": "Thai Tom Yum",
+    "tag": "thai_tom_yum",
+    "patterns": ["hot and sour soup", "spicy shrimp soup", "tom yum", "tom yum goong"],
+    "ingredients": [
+      { "name": "bird's eye chili", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "3 slices" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "mushrooms", "quantity": "100g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp", "quantity": "200g" },
+      { "name": "sugar", "quantity": "1/2 tsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Thai Pad Thai",
+    "tag": "thai_pad_thai",
+    "patterns": ["pad thai", "stir-fried rice noodles", "thai noodle stir-fry"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "brown sugar", "quantity": "1 tbsp" },
+      { "name": "chili flakes", "quantity": "1/2 tsp" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "peanuts", "quantity": "30g" },
+      { "name": "prawns", "quantity": "200g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "tamarind paste", "quantity": "1 tbsp" },
+      { "name": "tofu", "quantity": "100g" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Thai Mango Sticky Rice",
+    "tag": "thai_mango_sticky_rice",
+    "patterns": ["mango sticky rice", "thai sticky rice dessert", "khao niew mamuang"],
+    "ingredients": [
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "glutinous rice", "quantity": "200g" },
+      { "name": "mango", "quantity": "1 piece" },
+      { "name": "pandan leaf", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "2 tbsp" },
+      { "name": "toasted sesame seeds", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Thai Green Curry",
+    "tag": "thai_green_curry",
+    "patterns": ["green curry", "thai green curry", "kaeng khiao wan"],
+    "ingredients": [
+      { "name": "basil", "quantity": "2 sprigs" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "green curry paste", "quantity": "2 tbsp" },
+      { "name": "green chili", "quantity": "1 piece" },
+      { "name": "kaffir lime leaves", "quantity": "2 pieces" },
+      { "name": "palm sugar", "quantity": "1 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "thai eggplant", "quantity": "4 pieces" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+  {
+    "dish": "Thai Green Papaya Salad",
+    "tag": "thai_green_papaya_salad",
+    "patterns": ["green papaya salad", "som tum", "som tam", "thai papaya salad"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cherry tomatoes", "quantity": "4 pieces" },
+      { "name": "dried shrimp", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green beans", "quantity": "4 pieces" },
+      { "name": "green papaya", "quantity": "200g" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "red chili", "quantity": "1 piece" }
+    ]
+  },
+  {
+    "dish": "Thai Coconut Curry Noodle Soup",
+    "tag": "thai_coconut_curry_noodle_soup",
+    "patterns": ["coconut curry noodle soup", "khao soi", "thai noodle soup"],
+    "ingredients": [
+      { "name": "chicken thigh", "quantity": "200g" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "curry powder", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "red curry paste", "quantity": "1 tbsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "turmeric", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "wheat noodles", "quantity": "200g" }
+    ]
+  },
+  {
+    "dish": "Thai Fried Rice",
+    "tag": "thai_fried_rice",
+    "patterns": ["fried rice", "khao pad", "thai rice dish"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chicken breast", "quantity": "150g" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "jasmine rice", "quantity": "200g" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "tomato", "quantity": "1/2 piece" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Thai Massaman Curry",
+    "tag": "thai_massaman_curry",
+    "patterns": ["massaman curry", "thai curry", "gaeng massaman"],
+    "ingredients": [
+      { "name": "beef", "quantity": "250g" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "coriander seeds", "quantity": "1 tsp" },
+      { "name": "cumin seeds", "quantity": "1 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "massaman curry paste", "quantity": "2 tbsp" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "30g" },
+      { "name": "potato", "quantity": "1 piece" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "tamarind paste", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Thai Grilled Chicken",
+    "tag": "thai_grilled_chicken",
+    "patterns": ["gai yang", "grilled chicken", "thai grilled chicken"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chicken thighs", "quantity": "2 pieces" },
+      { "name": "cilantro root", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Thai Steamed Fish with Lime and Garlic",
+    "tag": "thai_steamed_fish_with_lime_and_garlic",
+    "patterns": ["pla neung manao", "steamed fish with lime", "thai lime fish"],
+    "ingredients": [
+      { "name": "bird's eye chili", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1/2 tbsp" },
+      { "name": "sea bass", "quantity": "1 whole, about 500g" },
+      { "name": "water", "quantity": "250ml" }
+    ]
+  },
+  {
+    "dish": "Thai Shrimp-and-Coconut Soup with Lemongrass",
+    "tag": "thai_shrimp_and_coconut_soup_with_lemongrass",
+    "patterns": ["thai", "coconut shrimp soup", "tom kha goong"],
+    "ingredients": [
+      { "name": "chicken broth", "quantity": "500ml" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5cm piece" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "4 leaves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "mushrooms", "quantity": "100g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "shrimp", "quantity": "200g" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Thai Coconut Milk Hotpot",
+    "tag": "thai_coconut_milk_hotpot",
+    "patterns": ["coconut milk hotpot", "hotpot with coconut", "thai hotpot"],
+    "ingredients": [
+      { "name": "coconut milk", "quantity": "400ml" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5 slices" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "4 leaves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "mushrooms", "quantity": "100g" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "red chili pepper", "quantity": "1 piece" },
+      { "name": "shrimp", "quantity": "200g" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Thai Jim Jum Hotpot",
+    "tag": "thai_jim_jum_hotpot",
+    "patterns": ["clay pot hotpot", "jim jum", "thai herbal hotpot"],
+    "ingredients": [
+      { "name": "basil", "quantity": "10 leaves" },
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "glass noodles", "quantity": "100g" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "mushrooms", "quantity": "100g" },
+      { "name": "pork", "quantity": "200g" },
+      { "name": "shrimp", "quantity": "100g" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Thai Suki Hotpot",
+    "tag": "thai_suki_hotpot",
+    "patterns": ["suki", "suki hotpot", "thai suki"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "fish balls", "quantity": "150g" },
+      { "name": "glass noodles", "quantity": "100g" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "mushrooms", "quantity": "100g" },
+      { "name": "pork", "quantity": "200g" },
+      { "name": "shrimp", "quantity": "100g" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Thai Spicy Seafood Hotpot",
+    "tag": "thai_spicy_seafood_hotpot",
+    "patterns": ["seafood hotpot", "spicy hotpot", "thai seafood hotpot"],
+    "ingredients": [
+      { "name": "cabbage", "quantity": "100g" },
+      { "name": "chili paste", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "galangal", "quantity": "5 slices" },
+      { "name": "kaffir lime leaves", "quantity": "4 leaves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "mussels", "quantity": "200g" },
+      { "name": "squid", "quantity": "150g" },
+      { "name": "shrimp", "quantity": "200g" },
+      { "name": "tomatoes", "quantity": "2 pieces" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Thai Grilled Fish",
+    "tag": "thai_grilled_fish",
+    "patterns": ["grilled fish", "pla pao", "thai grilled fish"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "fish", "quantity": "1 whole" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "5 cloves" },
+      { "name": "kaffir lime leaves", "quantity": "3 leaves" },
+      { "name": "lemongrass", "quantity": "3 stalks" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "3 tbsp" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Thai Grilled Squid",
+    "tag": "thai_grilled_squid",
+    "patterns": ["grilled squid", "pla muek yang", "thai grilled squid"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Thai Spicy Squid Salad",
+    "tag": "thai_spicy_squid_salad",
+    "patterns": ["spicy squid salad", "thai spicy squid salad", "yam pla muek"],
+    "ingredients": [
+      { "name": "bird's eye chili", "quantity": "2 pieces" },
+      { "name": "celery", "quantity": "20g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "red onion", "quantity": "1/2 piece" },
+      { "name": "squid", "quantity": "300g" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "tomato", "quantity": "1 piece" }
+    ]
+  },
+  {
+    "dish": "Thai Sour Curry Soup",
+    "tag": "thai_sour_curry_soup",
+    "patterns": ["gaeng som", "sour curry soup", "thai sour curry soup"],
+    "ingredients": [
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green beans", "quantity": "100g" },
+      { "name": "kaffir lime leaves", "quantity": "3 pieces" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "shallot", "quantity": "2 pieces" },
+      { "name": "shrimp paste", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "2 tbsp" },
+      { "name": "turmeric", "quantity": "1 tsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+
+  {
+    "dish": "Vietnamese Beef Pho",
+    "tag": "vietnamese_beef_pho",
+    "patterns": ["beef pho", "rice noodle soup", "vietnamese pho"],
+    "ingredients": [
+      { "name": "basil", "quantity": "2 sprigs" },
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "beef bone broth", "quantity": "1.25L" },
+      { "name": "beef brisket", "quantity": "250g" },
+      { "name": "beef sirloin", "quantity": "100g" },
+      { "name": "cardamom pod", "quantity": "1 piece" },
+      { "name": "chili pepper", "quantity": "1/2 piece" },
+      { "name": "cinnamon stick", "quantity": "1/2 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cloves", "quantity": "2 pieces" },
+      { "name": "coriander seeds", "quantity": "1/2 tbsp" },
+      { "name": "fish sauce", "quantity": "1/2 tbsp" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "hoisin sauce", "quantity": "1 tbsp" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "rock sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sriracha sauce", "quantity": "1 tbsp" },
+      { "name": "star anise", "quantity": "2 pieces" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Chicken Pho",
+    "tag": "vietnamese_chicken_pho",
+    "patterns": ["chicken pho", "pho ga", "vietnamese chicken noodle soup"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "basil", "quantity": "2 sprigs" },
+      { "name": "cardamom pod", "quantity": "1 piece" },
+      { "name": "chicken", "quantity": "250g" },
+      { "name": "cinnamon stick", "quantity": "1/2 piece" },
+      { "name": "cloves", "quantity": "2 pieces" },
+      { "name": "coriander seeds", "quantity": "1/2 tbsp" },
+      { "name": "fish sauce", "quantity": "1/2 tbsp" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pho noodles", "quantity": "200g" },
+      { "name": "rock sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "star anise", "quantity": "2 pieces" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Caramelized Pork",
+    "tag": "vietnamese_caramelized_pork",
+    "patterns": ["caramelized pork", "thit kho", "vietnamese pork"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "coconut water", "quantity": "250ml" },
+      { "name": "cooking oil", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "pork belly", "quantity": "300g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Braised Pork Belly",
+    "tag": "vietnamese_braised_pork_belly",
+    "patterns": ["braised pork belly", "thit kho tau"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "coconut water", "quantity": "250ml" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "pork belly", "quantity": "300g" },
+      { "name": "rock sugar", "quantity": "1/2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "soy sauce", "quantity": "1/2 tbsp" },
+      { "name": "white rice", "quantity": "200g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Grilled Pork with Noodles",
+    "tag": "vietnamese_grilled_pork_with_noodles",
+    "patterns": ["bun cha", "grilled pork noodles", "vietnamese pork noodles"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "3 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green papaya", "quantity": "50g" },
+      { "name": "ground pork", "quantity": "200g" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "vinegar", "quantity": "1 tbsp" },
+      { "name": "pork belly", "quantity": "200g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cooking oil", "quantity": "1 tbsp" },
+      { "name": "lettuce", "quantity": "50g" },
+      { "name": "mint", "quantity": "10 leaves" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Grilled Pork Vermicelli",
+    "tag": "vietnamese_grilled_pork_vermicelli",
+    "patterns": ["bun thit nuong", "grilled pork vermicelli", "vietnamese pork noodles"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lettuce", "quantity": "4 leaves" },
+      { "name": "pork shoulder", "quantity": "250g" },
+      { "name": "rice vermicelli", "quantity": "200g" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Pork Belly",
+    "tag": "vietnamese_banh_mi_with_pork_belly",
+    "patterns": ["banh mi with pork belly", "banh mi thit ba roi", "vietnamese pork belly sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "pate", "quantity": "2 tbsp" },
+      { "name": "pork belly", "quantity": "200g" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Pate",
+    "tag": "vietnamese_banh_mi_with_pate",
+    "patterns": ["banh mi with pate", "banh mi pate", "vietnamese pate sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "pate", "quantity": "4 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Egg",
+    "tag": "vietnamese_banh_mi_with_egg",
+    "patterns": ["banh mi with egg", "banh mi trung", "vietnamese egg sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Grilled Beef",
+    "tag": "vietnamese_banh_mi_with_grilled_beef",
+    "patterns": ["banh mi with grilled beef", "banh mi bo nuong", "vietnamese grilled beef sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "beef", "quantity": "200g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "honey", "quantity": "1 tbsp" },
+      { "name": "lemongrass", "quantity": "1 stalk" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Dried Beef",
+    "tag": "vietnamese_banh_mi_with_dried_beef",
+    "patterns": ["banh mi with dried beef", "banh mi bo kho", "vietnamese dried beef sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "dried beef", "quantity": "100g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green papaya", "quantity": "1/2 piece" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "peanuts", "quantity": "1 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Vegetables",
+    "tag": "vietnamese_banh_mi_with_vegetables",
+    "patterns": ["banh mi with vegetables", "banh mi rau cu", "vietnamese vegetable sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "daikon radish", "quantity": "1/2 piece" },
+      { "name": "lettuce", "quantity": "2 leaves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "tomato", "quantity": "1/2 piece" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Char Siu",
+    "tag": "vietnamese_banh_mi_with_char_siu",
+    "patterns": ["banh mi with char siu", "banh mi xa xiu", "vietnamese char siu sandwich"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "char siu pork", "quantity": "200g" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Banh Mi with Pan-Fried Toppings",
+    "tag": "vietnamese_banh_mi_with_pan_fried_toppings",
+    "patterns": ["banh mi with pan-fried toppings", "banh mi chao", "vietnamese pan bread"],
+    "ingredients": [
+      { "name": "baguette", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "butter", "quantity": "2 tbsp" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "mayonnaise", "quantity": "2 tbsp" },
+      { "name": "pate", "quantity": "2 tbsp" },
+      { "name": "pork sausage", "quantity": "200g" },
+      { "name": "rice vinegar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "tomato sauce", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Broken Rice",
+    "tag": "vietnamese_broken_rice",
+    "patterns": ["com tam", "broken rice", "vietnamese broken rice"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "pork chop", "quantity": "200g" },
+      { "name": "rice", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "vinegar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Steamed Rice Rolls",
+    "tag": "vietnamese_steamed_rice_rolls",
+    "patterns": ["banh cuon", "steamed rice rolls", "vietnamese rice rolls"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground pork", "quantity": "150g" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "mushrooms", "quantity": "50g" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "rice flour", "quantity": "100g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "tapioca starch", "quantity": "50g" },
+      { "name": "vinegar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fish Noodle Soup",
+    "tag": "vietnamese_fish_noodle_soup",
+    "patterns": ["bun ca", "fish noodle soup", "vietnamese fish soup"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chilies", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "dill", "quantity": "2 sprigs" },
+      { "name": "fish fillet", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pineapple", "quantity": "100g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Spicy Beef Noodle Soup",
+    "tag": "vietnamese_spicy_beef_noodle_soup",
+    "patterns": ["bun bo hue", "spicy beef noodle soup", "vietnamese beef noodle soup"],
+    "ingredients": [
+      { "name": "beef bones", "quantity": "500g" },
+      { "name": "beef brisket", "quantity": "200g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili oil", "quantity": "2 tbsp" },
+      { "name": "chilies", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pork hock", "quantity": "300g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp paste", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Crab Noodle Soup",
+    "tag": "vietnamese_crab_noodle_soup",
+    "patterns": ["bun rieu", "crab noodle soup", "vietnamese crab soup"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chilies", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "crab paste", "quantity": "3 tbsp" },
+      { "name": "eggs", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pork bones", "quantity": "500g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp paste", "quantity": "1 tbsp" },
+      { "name": "tomato", "quantity": "2 pieces" },
+      { "name": "tofu", "quantity": "150g" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Rice Noodles with Tofu and Fermented Shrimp Paste",
+    "tag": "vietnamese_rice_noodles_with_tofu_and_fermented_shrimp_paste",
+    "patterns": ["bun dau mam tom", "rice noodles with tofu", "tofu noodle platter"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fermented shrimp paste", "quantity": "2 tbsp" },
+      { "name": "fresh chili", "quantity": "1 piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "herbs (perilla, mint, basil)", "quantity": "1 handful" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "pork belly", "quantity": "150g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "tofu", "quantity": "200g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fresh Spring Rolls",
+    "tag": "vietnamese_fresh_spring_rolls",
+    "patterns": ["goi cuon", "fresh spring rolls", "shrimp rice paper rolls"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "herbs (perilla, mint, basil)", "quantity": "1 handful" },
+      { "name": "lettuce", "quantity": "2 leaves" },
+      { "name": "rice noodles", "quantity": "100g" },
+      { "name": "rice paper", "quantity": "6 sheets" },
+      { "name": "shrimp", "quantity": "6 pieces" },
+      { "name": "tofu", "quantity": "100g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Sizzling Pancake",
+    "tag": "vietnamese_sizzling_pancake",
+    "patterns": ["banh xeo", "sizzling pancake", "crispy rice flour pancake"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "coconut milk", "quantity": "100ml" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "pork belly", "quantity": "150g" },
+      { "name": "rice flour", "quantity": "100g" },
+      { "name": "shrimp", "quantity": "6 pieces" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "150ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Tapioca Dumplings",
+    "tag": "vietnamese_tapioca_dumplings",
+    "patterns": ["banh bot loc", "tapioca dumplings", "shrimp and pork dumplings"],
+    "ingredients": [
+      { "name": "cassava leaves", "quantity": "4 leaves" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "pork belly", "quantity": "150g" },
+      { "name": "shrimp", "quantity": "6 pieces" },
+      { "name": "tapioca starch", "quantity": "100g" },
+      { "name": "water", "quantity": "150ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Quang-Style Noodles",
+    "tag": "vietnamese_quang_style_noodles",
+    "patterns": ["mi quang", "quang noodles", "turmeric noodle soup"],
+    "ingredients": [
+      { "name": "black sesame rice crackers", "quantity": "2 pieces" },
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "pork belly", "quantity": "150g" },
+      { "name": "quang noodles", "quantity": "200g" },
+      { "name": "shrimp", "quantity": "6 pieces" },
+      { "name": "turmeric powder", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Turmeric Fish with Dill",
+    "tag": "vietnamese_turmeric_fish_with_dill",
+    "patterns": ["cha ca", "turmeric fish", "vietnamese fish with dill"],
+    "ingredients": [
+      { "name": "dill", "quantity": "10g" },
+      { "name": "fish fillet", "quantity": "250g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "20g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "shrimp paste", "quantity": "1/2 tbsp" },
+      { "name": "turmeric powder", "quantity": "1/2 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fried Spring Rolls",
+    "tag": "vietnamese_fried_spring_rolls",
+    "patterns": ["nem ran", "cha gio", "fried spring rolls"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cellophane noodles", "quantity": "50g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground pork", "quantity": "200g" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "mushrooms", "quantity": "50g" },
+      { "name": "rice paper", "quantity": "10 sheets" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stewed Herbal Chicken",
+    "tag": "vietnamese_stewed_herbal_chicken",
+    "patterns": ["ga tan", "stewed herbal chicken"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chicken", "quantity": "500g" },
+      { "name": "Chinese dates", "quantity": "4 pieces" },
+      { "name": "codonopsis root", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "goji berries", "quantity": "1 tbsp" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shiitake mushrooms", "quantity": "4 pieces" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Hu Tieu Noodle Soup",
+    "tag": "vietnamese_hu_tieu_noodle_soup",
+    "patterns": ["hu tieu", "pork and seafood noodle soup"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "daikon radish", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "ground pork", "quantity": "100g" },
+      { "name": "hoisin sauce", "quantity": "1 tbsp" },
+      { "name": "pork bones", "quantity": "500g" },
+      { "name": "pork liver", "quantity": "100g" },
+      { "name": "rice noodles", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shrimp", "quantity": "100g" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Rice Noodle Rolls",
+    "tag": "vietnamese_rice_noodle_rolls",
+    "patterns": ["pho cuon", "vietnamese rice noodle rolls"],
+    "ingredients": [
+      { "name": "beef sirloin", "quantity": "200g" },
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "4 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lettuce", "quantity": "4 leaves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "mint", "quantity": "4 sprigs" },
+      { "name": "rice paper sheets", "quantity": "10 pieces" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Betel Leaf Wrapped Beef",
+    "tag": "vietnamese_betel_leaf_wrapped_beef",
+    "patterns": ["betel leaf wrapped beef", "cha la lot"],
+    "ingredients": [
+      { "name": "betel leaves", "quantity": "10 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "cooking oil", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground beef", "quantity": "250g" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fried Pillow Cake",
+    "tag": "vietnamese_fried_pillow_cake",
+    "patterns": ["banh goi", "fried pillow cake", "vietnamese fried pillow cake"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cellophane noodles", "quantity": "50g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "flour", "quantity": "200g" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground pork", "quantity": "200g" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "mushrooms", "quantity": "50g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "vegetable oil", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fried Banana Cake",
+    "tag": "vietnamese_fried_banana_cake",
+    "patterns": ["banh chuoi chien", "fried banana cake", "vietnamese fried banana cake"],
+    "ingredients": [
+      { "name": "banana", "quantity": "2 pieces" },
+      { "name": "coconut milk", "quantity": "100ml" },
+      { "name": "flour", "quantity": "150g" },
+      { "name": "salt", "quantity": "1/4 tsp" },
+      { "name": "sugar", "quantity": "2 tbsp" },
+      { "name": "vegetable oil", "quantity": "200ml" },
+      { "name": "water", "quantity": "100ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fried Corn Cake",
+    "tag": "vietnamese_fried_corn_cake",
+    "patterns": ["banh ngo chien", "fried corn cake", "vietnamese fried corn cake"],
+    "ingredients": [
+      { "name": "corn kernels", "quantity": "200g" },
+      { "name": "egg", "quantity": "1 piece" },
+      { "name": "flour", "quantity": "100g" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "vegetable oil", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Fried Rice with Egg",
+    "tag": "vietnamese_fried_rice_with_egg",
+    "patterns": ["com rang trung", "fried rice with egg", "vietnamese fried rice with egg"],
+    "ingredients": [
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "cooked rice", "quantity": "400g" },
+      { "name": "egg", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "peas", "quantity": "50g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Tofu in Tomato Sauce",
+    "tag": "vietnamese_tofu_in_tomato_sauce",
+    "patterns": ["dau sot ca chua", "tofu in tomato sauce", "vietnamese tofu in tomato sauce"],
+    "ingredients": [
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" },
+      { "name": "tofu", "quantity": "200g" },
+      { "name": "tomato", "quantity": "2 pieces" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Pork Rib Porridge",
+    "tag": "vietnamese_pork_rib_porridge",
+    "patterns": ["chao suon", "pork rib porridge", "vietnamese pork rib porridge"],
+    "ingredients": [
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "pepper", "quantity": "1/2 tsp" },
+      { "name": "pork ribs", "quantity": "250g" },
+      { "name": "rice", "quantity": "150g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallot", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Clam Porridge",
+    "tag": "vietnamese_clam_porridge",
+    "patterns": ["chao trai", "clam porridge", "vietnamese clam porridge"],
+    "ingredients": [
+      { "name": "clam", "quantity": "300g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "fried shallot", "quantity": "1 tbsp" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onion", "quantity": "1 sprig" },
+      { "name": "pepper", "quantity": "1/2 tsp" },
+      { "name": "rice", "quantity": "150g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "1.25L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Peanut Sticky Rice",
+    "tag": "vietnamese_peanut_sticky_rice",
+    "patterns": ["peanut sticky rice", "vietnamese peanut sticky rice", "xoi lac"],
+    "ingredients": [
+      { "name": "cooked peanuts", "quantity": "50g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sticky rice", "quantity": "200g" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Corn Sticky Rice",
+    "tag": "vietnamese_corn_sticky_rice",
+    "patterns": ["corn sticky rice", "vietnamese corn sticky rice", "xoi ngo"],
+    "ingredients": [
+      { "name": "cooked corn kernels", "quantity": "100g" },
+      { "name": "fried shallot", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sticky rice", "quantity": "200g" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Chicken Sticky Rice",
+    "tag": "vietnamese_chicken_sticky_rice",
+    "patterns": ["chicken sticky rice", "vietnamese chicken sticky rice", "xoi ga"],
+    "ingredients": [
+      { "name": "chicken", "quantity": "200g" },
+      { "name": "fried shallot", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sticky rice", "quantity": "200g" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Roast Duck",
+    "tag": "vietnamese_roast_duck",
+    "patterns": ["roast duck", "vietnamese roast duck", "vit quay"],
+    "ingredients": [
+      { "name": "duck", "quantity": "1kg" },
+      { "name": "five-spice powder", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "honey", "quantity": "1 tbsp" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "soy sauce", "quantity": "2 tbsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Roast Pork",
+    "tag": "vietnamese_roast_pork",
+    "patterns": ["roast pork", "vietnamese roast pork", "lon quay", "heo quay"],
+    "ingredients": [
+      { "name": "five-spice powder", "quantity": "1 tsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "pork belly", "quantity": "500g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "soy sauce", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "vegetable oil", "quantity": "1 tbsp" },
+      { "name": "vinegar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Green Papaya Salad",
+    "tag": "vietnamese_green_papaya_salad",
+    "patterns": ["nom du du", "green papaya salad", "papaya salad"],
+    "ingredients": [
+      { "name": "beef jerky", "quantity": "50g" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chilies", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "green papaya", "quantity": "1/2 piece" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Spicy Beef Salad",
+    "tag": "vietnamese_spicy_beef_salad",
+    "patterns": ["nom bo kho", "spicy beef salad", "beef salad"],
+    "ingredients": [
+      { "name": "beef jerky", "quantity": "100g" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "chilies", "quantity": "1 piece" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "cucumber", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "peanuts", "quantity": "2 tbsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Pyramid Dumpling",
+    "tag": "vietnamese_pyramid_dumpling",
+    "patterns": ["banh gio", "pyramid dumpling"],
+    "ingredients": [
+      { "name": "banana leaves", "quantity": "4 pieces" },
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chicken broth", "quantity": "250ml" },
+      { "name": "cooking oil", "quantity": "1 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ground pork", "quantity": "150g" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "rice flour", "quantity": "200g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "tapioca starch", "quantity": "50g" },
+      { "name": "wood ear mushrooms", "quantity": "10g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Sour Tamarind Soup",
+    "tag": "vietnamese_sour_tamarind_soup",
+    "patterns": ["canh chua", "sour tamarind soup", "vietnamese sour soup"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "50g" },
+      { "name": "catfish", "quantity": "300g" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "okra", "quantity": "4 pieces" },
+      { "name": "pineapple", "quantity": "100g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "2 tbsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "water", "quantity": "1L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stir-Fried Pork Intestines with Pickled Mustard Greens",
+    "tag": "vietnamese_stir_fried_pork_intestines_with_pickled_mustard_greens",
+    "patterns": ["long xao dua", "stir-fried intestines", "vietnamese"],
+    "ingredients": [
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green chili", "quantity": "1 piece" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pepper", "quantity": "1/2 tsp" },
+      { "name": "pickled mustard greens", "quantity": "200g" },
+      { "name": "pork intestines", "quantity": "300g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Braised Duck with Dracontomelon",
+    "tag": "vietnamese_braised_duck_with_dracontomelon",
+    "patterns": ["braised duck", "vit om sau", "vietnamese"],
+    "ingredients": [
+      { "name": "chili pepper", "quantity": "1 piece" },
+      { "name": "dracontomelon", "quantity": "5 pieces" },
+      { "name": "duck", "quantity": "500g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "pepper", "quantity": "1/2 tsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Grilled Snakehead Fish",
+    "tag": "vietnamese_grilled_snakehead_fish",
+    "patterns": ["ca chuoi nuong", "grilled snakehead fish", "grilled fish"],
+    "ingredients": [
+      { "name": "banana leaves", "quantity": "2 pieces" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "snakehead fish", "quantity": "1 piece (about 500g)" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Goat Fermented Sausage",
+    "tag": "vietnamese_goat_fermented_sausage",
+    "patterns": ["goat fermented sausage", "nem de", "goat sausage"],
+    "ingredients": [
+      { "name": "banana leaves", "quantity": "2 pieces" },
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "goat meat", "quantity": "250g" },
+      { "name": "rice powder", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Goat Meat with Lemon Juice",
+    "tag": "vietnamese_goat_meat_with_lemon_juice",
+    "patterns": ["de tai chanh", "goat meat with lemon juice", "lime-marinated goat"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "goat meat", "quantity": "300g" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sesame seeds", "quantity": "1 tbsp" },
+      { "name": "sugar", "quantity": "1/2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Lemongrass and Coconut Goat",
+    "tag": "vietnamese_lemongrass_and_coconut_goat",
+    "patterns": ["lemongrass and coconut goat", "goat cooked with lemongrass and coconut"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "coconut milk", "quantity": "200ml" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "goat meat", "quantity": "300g" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stir-Fried Goat Meat",
+    "tag": "vietnamese_stir_fried_goat_meat",
+    "patterns": ["de tai lan", "stir-fried goat meat"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "goat meat", "quantity": "300g" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Grilled Goat Brisket",
+    "tag": "vietnamese_grilled_goat_brisket",
+    "patterns": ["grilled goat brisket", "charcoal-grilled goat"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "goat brisket", "quantity": "300g" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "oyster sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Eel Glass Noodle Soup",
+    "tag": "vietnamese_eel_glass_noodle_soup",
+    "patterns": ["mien luon", "eel glass noodle soup", "crispy eel noodle soup"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1 tsp" },
+      { "name": "chilies", "quantity": "2 pieces" },
+      { "name": "eel", "quantity": "300g" },
+      { "name": "fish sauce", "quantity": "2 tbsp" },
+      { "name": "fried shallots", "quantity": "2 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "glass noodles", "quantity": "200g" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "pork bones", "quantity": "500g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "1.5L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Crab Roe Hot Pot",
+    "tag": "vietnamese_crab_roe_hot_pot",
+    "patterns": ["lau rieu cua", "crab roe hot pot"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "100g" },
+      { "name": "beef", "quantity": "200g" },
+      { "name": "crab roe", "quantity": "150g" },
+      { "name": "fish sauce", "quantity": "3 tbsp" },
+      { "name": "fried tofu", "quantity": "6 pieces" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onions", "quantity": "3 sprigs" },
+      { "name": "pork bones", "quantity": "500g" },
+      { "name": "shrimp paste", "quantity": "1 tbsp" },
+      { "name": "tomatoes", "quantity": "3 pieces" },
+      { "name": "vegetable oil", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "2L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Oxtail Hot Pot",
+    "tag": "vietnamese_oxtail_hot_pot",
+    "patterns": ["lau duoi bo", "oxtail hot pot"],
+    "ingredients": [
+      { "name": "beef oxtail", "quantity": "500g" },
+      { "name": "carrots", "quantity": "2 pieces" },
+      { "name": "chili peppers", "quantity": "2 pieces" },
+      { "name": "cinnamon stick", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "3 tbsp" },
+      { "name": "garlic", "quantity": "4 cloves" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "star anise", "quantity": "2 pieces" },
+      { "name": "tomatoes", "quantity": "3 pieces" },
+      { "name": "water", "quantity": "2L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Mud Fish Hot Pot",
+    "tag": "vietnamese_mud_fish_hot_pot",
+    "patterns": ["lau ca keo", "mud fish hot pot"],
+    "ingredients": [
+      { "name": "bean sprouts", "quantity": "100g" },
+      { "name": "chili peppers", "quantity": "2 pieces" },
+      { "name": "cilantro", "quantity": "2 sprigs" },
+      { "name": "fish sauce", "quantity": "3 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lime", "quantity": "1 piece" },
+      { "name": "mud fish", "quantity": "300g" },
+      { "name": "okra", "quantity": "100g" },
+      { "name": "pineapple", "quantity": "100g" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "tamarind paste", "quantity": "2 tbsp" },
+      { "name": "water", "quantity": "2L" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Chicken Hot Pot with Hot Mint",
+    "tag": "vietnamese_chicken_hot_pot_with_hot_mint",
+    "patterns": ["chicken hot pot", "lau ga la e", "vietnamese hot pot"],
+    "ingredients": [
+      { "name": "chicken", "quantity": "500g" },
+      { "name": "chicken broth", "quantity": "1.25L" },
+      { "name": "hot mint leaves", "quantity": "50g" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "red chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "rock sugar", "quantity": "1/2 tbsp" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "rice noodles", "quantity": "200g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Vinegar Beef Hot Pot",
+    "tag": "vietnamese_vinegar_beef_hot_pot",
+    "patterns": ["beef hot pot", "lau bo nhung giam", "vinegar hot pot"],
+    "ingredients": [
+      { "name": "beef", "quantity": "400g" },
+      { "name": "beef broth", "quantity": "1.25L" },
+      { "name": "carrot", "quantity": "1 piece" },
+      { "name": "coconut water", "quantity": "250ml" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "onion", "quantity": "1 piece" },
+      { "name": "pineapple", "quantity": "100g" },
+      { "name": "rice vinegar", "quantity": "100ml" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "shallots", "quantity": "2 pieces" },
+      { "name": "sugar", "quantity": "1 tbsp" },
+      { "name": "water", "quantity": "500ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Sweet and Sour Pork Ribs",
+    "tag": "vietnamese_sweet_and_sour_pork_ribs",
+    "patterns": ["pork ribs sweet and sour", "suon xao chua ngot", "vietnamese sweet and sour ribs"],
+    "ingredients": [
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "ketchup", "quantity": "2 tbsp" },
+      { "name": "palm sugar", "quantity": "1 tbsp" },
+      { "name": "pork ribs", "quantity": "400g" },
+      { "name": "red chili pepper", "quantity": "1 piece" },
+      { "name": "rice vinegar", "quantity": "2 tbsp" },
+      { "name": "salt", "quantity": "1 tsp" },
+      { "name": "tomato", "quantity": "1 piece" },
+      { "name": "water", "quantity": "200ml" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Boiled Pork Intestines",
+    "tag": "vietnamese_boiled_pork_intestines",
+    "patterns": ["boiled pork intestines", "long lon luoc", "vietnamese boiled intestines"],
+    "ingredients": [
+      { "name": "ginger", "quantity": "5g" },
+      { "name": "green onion", "quantity": "2 stalks" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "pork intestines", "quantity": "400g" },
+      { "name": "salt", "quantity": "1 tbsp" },
+      { "name": "vinegar", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stuffed Squid",
+    "tag": "vietnamese_stuffed_squid",
+    "patterns": ["muc nhoi thit", "stuffed squid", "vietnamese stuffed squid"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "carrot", "quantity": "1/2 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ground pork", "quantity": "150g" },
+      { "name": "green onions", "quantity": "2 sprigs" },
+      { "name": "mushrooms", "quantity": "50g" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "2 pieces" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stir-Fried Squid with Lemongrass and Chili",
+    "tag": "vietnamese_stir_fried_squid_with_lemongrass_and_chili",
+    "patterns": ["muc xao sa ot", "stir-fried squid with lemongrass and chili", "vietnamese stir-fried squid with lemongrass and chili"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili", "quantity": "1 piece" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "3 cloves" },
+      { "name": "ginger", "quantity": "2.5cm piece" },
+      { "name": "lemongrass", "quantity": "2 stalks" },
+      { "name": "onion", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "squid", "quantity": "200g" },
+      { "name": "sugar", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Grilled Dried Squid",
+    "tag": "vietnamese_grilled_dried_squid",
+    "patterns": ["grilled dried squid", "muc kho nuong", "vietnamese grilled dried squid"],
+    "ingredients": [
+      { "name": "black pepper", "quantity": "1/2 tsp" },
+      { "name": "chili sauce", "quantity": "2 tbsp" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "lime", "quantity": "1/2 piece" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1 tsp" },
+      { "name": "sun-dried squid", "quantity": "150g" }
+    ]
+  },
+  {
+    "dish": "Vietnamese Stir-Fried Chicken with Ginger",
+    "tag": "vietnamese_stir_fried_chicken_with_ginger",
+    "patterns": [
+      "ga xao gung", "stir-fried chicken with ginger", "vietnamese stir-fried chicken with ginger"
+    ],
+    "ingredients": [
+      { "name": "chicken", "quantity": "300g" },
+      { "name": "fish sauce", "quantity": "1 tbsp" },
+      { "name": "garlic", "quantity": "2 cloves" },
+      { "name": "ginger", "quantity": "20g" },
+      { "name": "green onions", "quantity": "2 stalks" },
+      { "name": "oil", "quantity": "1 tbsp" },
+      { "name": "salt", "quantity": "1/2 tsp" },
+      { "name": "sugar", "quantity": "1/2 tsp" },
+      { "name": "water", "quantity": "2 tbsp" }
+    ]
+  }
+
+]
