@@ -3,10 +3,10 @@
         {
             "tag": "burmese_samusa_soup",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "cabbage",
                 "carrot",
-                "chickpea",
+                "chickpeas",
                 "cilantro",
                 "coriander powder",
                 "cumin powder",
@@ -48,15 +48,15 @@
             "tag": "burmese_tea_leaf_salad",
             "patterns": [
                 "cabbage",
-                "chili flake",
+                "chili flakes",
                 "crispy garlic",
                 "fish sauce",
-                "fried pea",
-                "green tea leaf",
+                "fried peas",
+                "green tea leaves",
                 "lime",
-                "peanut",
+                "peanuts",
                 "salt",
-                "sesame seed",
+                "sesame seeds",
                 "tomato"
             ],
             "responses": "With ingredients, you can make Burmese Tea Leaf Salad \n- cabbage: 100g \n- chili flakes: 1/2 tsp \n- crispy garlic: 2 tbsp \n- fish sauce: 1/2 tbsp \n- fried peas: 2 tbsp \n- green tea leaves: 50g \n- lime: 1/2 piece \n- peanuts: 2 tbsp \n- salt: 1/2 tsp \n- sesame seeds: 1 tbsp \n- tomato: 1 piece \n",
@@ -72,9 +72,9 @@
                 "fish sauce",
                 "garlic",
                 "lime",
-                "rice noodle",
+                "rice noodles",
                 "salt",
-                "shallot",
+                "shallots",
                 "turmeric",
                 "vegetable oil"
             ],
@@ -84,11 +84,11 @@
         {
             "tag": "burmese_shan_tofu_noodles",
             "patterns": [
-                "chili flake",
+                "chili flakes",
                 "garlic",
-                "green onion",
-                "peanut",
-                "rice noodle",
+                "green onions",
+                "peanuts",
+                "rice noodles",
                 "salt",
                 "sesame oil",
                 "shan tofu",
@@ -110,21 +110,20 @@
                 "garlic",
                 "ginger",
                 "lemongrass",
-                "rice noodle",
+                "rice noodles",
                 "salt",
-                "shallot",
+                "shallots",
                 "turmeric",
                 "water"
             ],
             "responses": "With ingredients, you can make Burmese Rice Noodle Fish Soup \n- banana stem: 100g \n- chili powder: 1/2 tsp \n- coriander: 2 sprigs \n- fish: 200g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- lemongrass: 1 stalk \n- rice noodles: 200g \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- turmeric: 1/2 tsp \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_rice_noodle_fish_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_kyaw",
             "patterns": [
-                "soda",
-                "flour",
+                "baking soda",
+                "chickpea flour",
                 "coriander",
                 "garlic",
                 "onion",
@@ -134,8 +133,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Burmese Kyaw \n- baking soda: 1/4 tsp \n- chickpea flour: 100g \n- coriander: 2 sprigs \n- garlic: 2 cloves \n- onion: 1/2 piece \n- salt: 1/2 tsp \n- turmeric: 1/2 tsp \n- vegetable oil: 200ml \n- water: 50ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_kyaw.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_shrimp_curry",
@@ -156,8 +154,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Burmese Shrimp Curry \n- chili powder: 1 tsp \n- coconut milk: 200ml \n- coriander: 2 sprigs \n- cumin: 1/2 tsp \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- lime: 1/2 piece \n- onion: 1 piece \n- salt: 1/2 tsp \n- shrimp: 250g \n- tomato: 1 piece \n- turmeric: 1/2 tsp \n- vegetable oil: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_shrimp_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_fish_curry",
@@ -175,8 +172,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Burmese Fish Curry \n- chili powder: 1 tsp \n- fish: 250g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- onion: 1 piece \n- salt: 1/2 tsp \n- tomato: 2 pieces \n- turmeric powder: 1/2 tsp \n- vegetable oil: 2 tbsp \n- water: 250ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_fish_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_coconut_rice",
@@ -190,8 +186,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Burmese Coconut Rice \n- coconut milk: 200ml \n- garlic: 2 cloves \n- jasmine rice: 200g \n- salt: 1/2 tsp \n- shallot: 1 piece \n- vegetable oil: 1 tbsp \n- water: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_coconut_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_naan_flat_bread_and_pe_byouk",
@@ -205,8 +200,7 @@
                 "yeast"
             ],
             "responses": "With ingredients, you can make Burmese Naan Flat-bread and Pe Byouk \n- black gram: 100g \n- flour: 250g \n- salt: 1/2 tsp \n- sugar: 1 tbsp \n- vegetable oil: 2 tbsp \n- water: 150ml \n- yeast: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_naan_flat_bread_and_pe_byouk.jpg"
+            "context_set": ""
         },
         {
             "tag": "burmese_deep_fried_stuffed_tofu",
@@ -214,7 +208,7 @@
                 "black pepper",
                 "carrot",
                 "garlic",
-                "green onion",
+                "green onions",
                 "ground pork",
                 "salt",
                 "soy sauce",
@@ -222,8 +216,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Burmese Deep Fried Stuffed Tofu \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- ground pork: 100g \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- tofu: 4 pieces \n- vegetable oil: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\burmese_deep_fried_stuffed_tofu.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_black_pepper_beef",
@@ -241,33 +234,31 @@
                 "worcestershire sauce"
             ],
             "responses": "With ingredients, you can make Cambodian Black Pepper Beef \n- beef sirloin: 250g \n- black pepper: 1 tsp \n- garlic: 2 cloves \n- lettuce: 4 leaves \n- lime: 1/2 piece \n- onion: 1/2 piece \n- soy sauce: 1 tbsp \n- tomato: 1 piece \n- vegetable oil: 1 tbsp \n- white rice: 200g \n- worcestershire sauce: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_black_pepper_beef.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_rice_noodle_soup",
             "patterns": [
-                "bean sprout",
-                "beef bone",
+                "bean sprouts",
+                "beef bones",
                 "black pepper",
                 "cilantro",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
                 "onion",
                 "pork belly",
                 "pork mince",
-                "rice noodle",
+                "rice noodles",
                 "rock sugar",
                 "salt",
-                "shallot",
+                "shallots",
                 "star anise",
                 "water"
             ],
             "responses": "With ingredients, you can make Cambodian Rice Noodle Soup \n- bean sprouts: 50g \n- beef bones: 500g \n- black pepper: 1/2 tsp \n- cilantro: 2 sprigs \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- onion: 1/2 piece \n- pork belly: 150g \n- pork mince: 150g \n- rice noodles: 200g \n- rock sugar: 1/2 tbsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- star anise: 1 piece \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_rice_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_chicken_and_rice_soup_with_shrimp",
@@ -275,11 +266,11 @@
                 "chicken breast",
                 "shrimp",
                 "jasmine rice",
-                "broth",
+                "chicken broth",
                 "garlic",
                 "ginger",
-                "green onion",
-                "shallot",
+                "green onions",
+                "shallots",
                 "salt",
                 "soy sauce",
                 "vegetable oil",
@@ -287,28 +278,26 @@
                 "white pepper"
             ],
             "responses": "With ingredients, you can make Cambodian Chicken-and-Rice Soup with Shrimp \n- chicken breast: 200g \n- shrimp: 150g \n- jasmine rice: 100g \n- chicken broth: 1L \n- garlic: 2 cloves \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- shallots: 2 pieces \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- vegetable oil: 1 tbsp \n- water: 500ml \n- white pepper: 1/4 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_chicken_and_rice_soup_with_shrimp.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_fish_amok",
             "patterns": [
-                "banana leaf",
+                "banana leaves",
                 "coconut milk",
                 "egg",
                 "fish fillet",
                 "fish sauce",
                 "galangal",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "palm sugar",
                 "salt",
-                "shallot",
+                "shallots",
                 "turmeric"
             ],
             "responses": "With ingredients, you can make Cambodian Fish Amok \n- banana leaves: 2 pieces \n- coconut milk: 200ml \n- egg: 1 piece \n- fish fillet: 300g \n- fish sauce: 1 tbsp \n- galangal: 5g \n- kaffir lime leaves: 2 leaves \n- lemongrass: 1 stalk \n- palm sugar: 1 tsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- turmeric: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_fish_amok.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_red_curry",
@@ -318,23 +307,22 @@
                 "eggplant",
                 "fish sauce",
                 "galangal",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
-                "long bean",
+                "long beans",
                 "palm sugar",
                 "potato",
                 "red curry paste",
                 "salt",
-                "shallot"
+                "shallots"
             ],
             "responses": "With ingredients, you can make Cambodian Red Curry \n- beef: 300g \n- coconut milk: 400ml \n- eggplant: 100g \n- fish sauce: 1 tbsp \n- galangal: 5g \n- kaffir lime leaves: 3 leaves \n- lemongrass: 2 stalks \n- long beans: 100g \n- palm sugar: 1 tsp \n- potato: 100g \n- red curry paste: 2 tbsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_red_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_kampot_pepper_crab",
             "patterns": [
-                "black peppercorn",
+                "black peppercorns",
                 "butter",
                 "crab",
                 "fish sauce",
@@ -344,12 +332,11 @@
                 "oil",
                 "palm sugar",
                 "salt",
-                "shallot",
-                "spring onion"
+                "shallots",
+                "spring onions"
             ],
             "responses": "With ingredients, you can make Cambodian Kampot Pepper Crab \n- black peppercorns: 1 tbsp \n- butter: 1 tbsp \n- crab: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 4 cloves \n- green kampot pepper: 1 tbsp \n- lime: 1/2 piece \n- oil: 2 tbsp \n- palm sugar: 1 tsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- spring onions: 2 stalks \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_kampot_pepper_crab.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_beef_salad",
@@ -359,18 +346,17 @@
                 "cucumber",
                 "fish sauce",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "lime",
-                "mint leaf",
+                "mint leaves",
                 "onion",
                 "palm sugar",
                 "salt",
-                "shallot"
+                "shallots"
             ],
             "responses": "With ingredients, you can make Cambodian Beef Salad \n- beef: 300g \n- chili: 1 piece \n- cucumber: 50g \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- kaffir lime leaves: 2 leaves \n- lemongrass: 1 stalk \n- lime: 1 piece \n- mint leaves: 10g \n- onion: 1 piece \n- palm sugar: 1 tsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\cambodian_beef_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "cambodian_sun_dried_squid",
@@ -386,9 +372,9 @@
         {
             "tag": "filipino_chicken_adobo",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "black pepper",
-                "oil",
+                "cooking oil",
                 "garlic",
                 "onion",
                 "soy sauce",
@@ -398,8 +384,7 @@
                 "whole chicken"
             ],
             "responses": "With ingredients, you can make Filipino Chicken Adobo \n- bay leaves: 2 pieces \n- black pepper: 1/2 tsp \n- cooking oil: 1 tbsp \n- garlic: 4 cloves \n- onion: 1/2 piece \n- soy sauce: 3 tbsp \n- sugar: 1/2 tbsp \n- vinegar: 2 tbsp \n- water: 100ml \n- whole chicken: 500g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_chicken_adobo.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_chicken_inasal",
@@ -407,7 +392,7 @@
                 "annatto oil",
                 "black pepper",
                 "calamansi juice",
-                "chicken thigh",
+                "chicken thighs",
                 "coconut vinegar",
                 "garlic",
                 "ginger",
@@ -415,8 +400,7 @@
                 "salt"
             ],
             "responses": "With ingredients, you can make Filipino Chicken Inasal \n- annatto oil: 2 tbsp \n- black pepper: 1/2 tsp \n- calamansi juice: 2 tbsp \n- chicken thighs: 2 pieces \n- coconut vinegar: 2 tbsp \n- garlic: 4 cloves \n- ginger: 2.5cm piece \n- lemongrass: 1 stalk \n- salt: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_chicken_inasal.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_lumpia",
@@ -427,12 +411,11 @@
                 "onion",
                 "pepper",
                 "salt",
-                "spring roll wrapper",
+                "spring roll wrappers",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Filipino Lumpia \n- carrot: 1 piece \n- garlic: 2 cloves \n- ground pork: 250g \n- onion: 1/2 piece \n- pepper: 1/4 tsp \n- salt: 1/2 tsp \n- spring roll wrappers: 10 pieces \n- vegetable oil: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_lumpia.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_sisig",
@@ -450,14 +433,13 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Filipino Sisig \n- butter: 1 tbsp \n- chicken liver: 50g \n- garlic: 2 cloves \n- green chili: 1 piece \n- lime: 1/2 piece, juiced \n- mayonnaise: 2 tbsp \n- onion: 1/2 piece \n- pork belly: 250g \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_sisig.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_bibingka",
             "patterns": [
-                "powder",
-                "banana leaf",
+                "baking powder",
+                "banana leaves",
                 "butter",
                 "cheese",
                 "coconut milk",
@@ -468,8 +450,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Filipino Bibingka \n- baking powder: 1 tsp \n- banana leaves: 2 pieces \n- butter: 1 tbsp \n- cheese: 25g \n- coconut milk: 200ml \n- egg: 1 piece \n- grated coconut: 50g \n- rice flour: 150g \n- salted egg: 1 piece \n- sugar: 50g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_bibingka.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_kinilaw",
@@ -485,13 +466,12 @@
                 "salt"
             ],
             "responses": "With ingredients, you can make Filipino Kinilaw \n- black pepper: 1/2 tsp \n- calamansi juice: 3 tbsp \n- coconut vinegar: 2 tbsp \n- fish fillet: 250g \n- garlic: 2 cloves \n- ginger: 2.5cm piece \n- green chili: 1 piece \n- onion: 1/2 piece \n- salt: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_kinilaw.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_crispy_pata",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "black pepper",
                 "coconut vinegar",
                 "garlic",
@@ -501,13 +481,12 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Filipino Crispy Pata \n- bay leaves: 2 pieces \n- black pepper: 1/2 tsp \n- coconut vinegar: 2 tbsp \n- garlic: 4 cloves \n- oil: 500ml \n- pork leg: 1 piece \n- salt: 1 tsp \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_crispy_pata.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_lechon",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "black pepper",
                 "garlic",
                 "lemongrass",
@@ -517,8 +496,7 @@
                 "soy sauce"
             ],
             "responses": "With ingredients, you can make Filipino Lechon \n- bay leaves: 5 pieces \n- black pepper: 1 tsp \n- garlic: 5 cloves \n- lemongrass: 2 stalks \n- oil: 100ml \n- pork belly: 1kg \n- salt: 2 tsp \n- soy sauce: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_lechon.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_sinigang",
@@ -536,8 +514,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Filipino Sinigang \n- black pepper: 1/2 tsp \n- eggplant: 1 piece \n- fish sauce: 1 tbsp \n- kangkong: 1 bunch \n- okra: 4 pieces \n- onion: 1 piece \n- pork ribs: 500g \n- salt: 1 tsp \n- tamarind paste: 2 tbsp \n- tomato: 2 pieces \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_sinigang.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_kare_kare",
@@ -548,7 +525,7 @@
                 "bok choy",
                 "eggplant",
                 "garlic",
-                "green bean",
+                "green beans",
                 "oil",
                 "onion",
                 "ox tripe",
@@ -558,8 +535,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Filipino Kare Kare \n- annatto powder: 1 tsp \n- banana heart: 1 piece \n- black pepper: 1/2 tsp \n- bok choy: 1 bunch \n- eggplant: 1 piece \n- garlic: 3 cloves \n- green beans: 100g \n- oil: 2 tbsp \n- onion: 1 piece \n- ox tripe: 250g \n- peanut butter: 3 tbsp \n- salt: 1 tsp \n- shrimp paste: 2 tbsp \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_kare_kare.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_pancit",
@@ -570,17 +546,16 @@
                 "chicken breast",
                 "fish sauce",
                 "garlic",
-                "green bean",
+                "green beans",
                 "oil",
                 "onion",
-                "pancit noodle",
+                "pancit noodles",
                 "salt",
                 "soy sauce",
                 "water"
             ],
             "responses": "With ingredients, you can make Filipino Pancit \n- black pepper: 1/2 tsp \n- cabbage: 100g \n- carrot: 1 piece \n- chicken breast: 150g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- green beans: 50g \n- oil: 2 tbsp \n- onion: 1 piece \n- pancit noodles: 200g \n- salt: 1 tsp \n- soy sauce: 2 tbsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_pancit.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_halo_halo",
@@ -590,17 +565,16 @@
                 "condensed milk",
                 "evaporated milk",
                 "jackfruit",
-                "kidney bean",
+                "kidney beans",
                 "lechon flan",
                 "purple yam",
                 "shaved ice",
                 "sugar palm fruit",
                 "sweet corn",
-                "tapioca pearl"
+                "tapioca pearls"
             ],
             "responses": "With ingredients, you can make Filipino Halo Halo \n- banana: 1 piece \n- coconut gel: 50g \n- condensed milk: 2 tbsp \n- evaporated milk: 100ml \n- jackfruit: 50g \n- kidney beans: 50g \n- lechon flan: 1 slice \n- purple yam: 50g \n- shaved ice: 200g \n- sugar palm fruit: 50g \n- sweet corn: 50g \n- tapioca pearls: 50g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_halo_halo.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_spaghetti",
@@ -611,23 +585,22 @@
                 "cheddar cheese",
                 "evaporated milk",
                 "garlic",
-                "hot dog",
+                "hot dogs",
                 "onion",
                 "salt",
-                "spaghetti noodle",
+                "spaghetti noodles",
                 "sugar",
                 "tomato sauce"
             ],
             "responses": "With ingredients, you can make Filipino Spaghetti \n- banana ketchup: 1/4 cup \n- beef: 200g \n- butter: 1 tbsp \n- cheddar cheese: 50g \n- evaporated milk: 1/4 cup \n- garlic: 2 cloves \n- hot dogs: 2 pieces \n- onion: 1/2 piece \n- salt: 1/2 tsp \n- spaghetti noodles: 200g \n- sugar: 1 tbsp \n- tomato sauce: 1 cup \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_spaghetti.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_pork_blood_stew",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "black pepper",
-                "broth",
+                "chicken broth",
                 "garlic",
                 "onion",
                 "pork belly",
@@ -636,8 +609,7 @@
                 "vinegar"
             ],
             "responses": "With ingredients, you can make Filipino Pork Blood Stew \n- bay leaves: 2 pieces \n- black pepper: 1/2 tsp \n- chicken broth: 250ml \n- garlic: 3 cloves \n- onion: 1 piece \n- pork belly: 250g \n- pork blood: 250ml \n- soy sauce: 1 tbsp \n- vinegar: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_pork_blood_stew.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_beef_shank_soup",
@@ -653,13 +625,12 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Filipino Beef Shank Soup \n- beef shank: 500g \n- black pepper: 1/2 tsp \n- cabbage: 1/4 head \n- corn: 1 piece \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- onion: 1 piece \n- potato: 1 piece \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_beef_shank_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "filipino_squid_adobo",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "black pepper",
                 "garlic",
                 "onion",
@@ -669,17 +640,16 @@
                 "vinegar"
             ],
             "responses": "With ingredients, you can make Filipino Squid Adobo \n- bay leaves: 2 pieces \n- black pepper: 1/2 tsp \n- garlic: 5 cloves \n- onion: 1 piece \n- salt: 1/2 tsp \n- squid: 300g \n- sugar: 1 tsp \n- vinegar: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\filipino_squid_adobo.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_nasi_goreng",
             "patterns": [
                 "cooked rice",
                 "chicken",
-                "egg",
+                "eggs",
                 "garlic",
-                "green onion",
+                "green onions",
                 "kecap manis",
                 "oil",
                 "onion",
@@ -689,8 +659,7 @@
                 "soy sauce"
             ],
             "responses": "With ingredients, you can make Indonesian Nasi Goreng \n- cooked rice: 400g \n- chicken: 100g \n- eggs: 2 pieces \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- kecap manis: 1 tbsp \n- oil: 2 tbsp \n- onion: 1/2 piece \n- red chili: 1 piece \n- salt: 1/2 tsp \n- shrimp paste: 1/2 tsp \n- soy sauce: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_nasi_goreng.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_nasi_padang",
@@ -698,11 +667,11 @@
                 "beef rendang",
                 "cooked rice",
                 "coconut milk",
-                "curry leaf",
+                "curry leaves",
                 "curry powder",
-                "egg",
+                "eggs",
                 "fried tempeh",
-                "green bean",
+                "green beans",
                 "oil",
                 "onion",
                 "red chili",
@@ -711,19 +680,18 @@
                 "turmeric powder"
             ],
             "responses": "With ingredients, you can make Indonesian Nasi Padang \n- beef rendang: 200g \n- cooked rice: 400g \n- coconut milk: 100ml \n- curry leaves: 5 pieces \n- curry powder: 1 tbsp \n- eggs: 2 pieces \n- fried tempeh: 100g \n- green beans: 100g \n- oil: 2 tbsp \n- onion: 1/2 piece \n- red chili: 1 piece \n- salt: 1/2 tsp \n- sambal chili paste: 2 tbsp \n- turmeric powder: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_nasi_padang.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_rendang",
             "patterns": [
                 "beef",
                 "coconut milk",
-                "coriander seed",
+                "coriander seeds",
                 "galangal",
                 "garlic",
                 "ginger",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "oil",
                 "onion",
@@ -734,15 +702,14 @@
                 "turmeric powder"
             ],
             "responses": "With ingredients, you can make Indonesian Rendang \n- beef: 300g \n- coconut milk: 250ml \n- coriander seeds: 1 tsp \n- galangal: 2.5cm piece \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- kaffir lime leaves: 3 pieces \n- lemongrass: 1 stalk \n- oil: 2 tbsp \n- onion: 1/2 piece \n- red chili: 2 pieces \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1 tsp \n- turmeric powder: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_rendang.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_satay",
             "patterns": [
                 "beef",
                 "coconut milk",
-                "coriander seed",
+                "coriander seeds",
                 "garlic",
                 "ginger",
                 "lime",
@@ -754,17 +721,16 @@
                 "soy sauce",
                 "sugar",
                 "turmeric powder",
-                "wooden skewer"
+                "wooden skewers"
             ],
             "responses": "With ingredients, you can make Indonesian Satay \n- beef: 250g \n- coconut milk: 50ml \n- coriander seeds: 1 tsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- lime: 1/2 piece \n- oil: 2 tbsp \n- onion: 1/2 piece \n- peanut butter: 2 tbsp \n- red chili: 1 piece \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1 tsp \n- turmeric powder: 1/2 tsp \n- wooden skewers: 6 pieces \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_satay.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_batak_grilled_pork",
             "patterns": [
                 "andaliman pepper",
-                "bay leaf",
+                "bay leaves",
                 "coconut milk",
                 "garlic",
                 "ginger",
@@ -782,8 +748,8 @@
         {
             "tag": "indonesian_fried_duck",
             "patterns": [
-                "bay leaf",
-                "coriander seed",
+                "bay leaves",
+                "coriander seeds",
                 "duck",
                 "garlic",
                 "galangal",
@@ -793,18 +759,17 @@
                 "shallot",
                 "turmeric",
                 "water",
-                "oil"
+                "cooking oil"
             ],
             "responses": "With ingredients, you can make Indonesian Fried Duck \n- bay leaves: 2 pieces \n- coriander seeds: 1 tsp \n- duck: 1 whole \n- garlic: 4 cloves \n- galangal: 2.5cm piece \n- ginger: 2.5cm piece \n- lime: 1 piece \n- salt: 1 tsp \n- shallot: 3 pieces \n- turmeric: 2.5cm piece \n- water: 500ml \n- cooking oil: 300ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_fried_duck.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_fried_chicken",
             "patterns": [
-                "bay leaf",
+                "bay leaves",
                 "chicken",
-                "coriander seed",
+                "coriander seeds",
                 "garlic",
                 "galangal",
                 "ginger",
@@ -813,17 +778,16 @@
                 "shallot",
                 "turmeric",
                 "water",
-                "oil"
+                "cooking oil"
             ],
             "responses": "With ingredients, you can make Indonesian Fried Chicken \n- bay leaves: 2 pieces \n- chicken: 500g \n- coriander seeds: 1 tsp \n- garlic: 4 cloves \n- galangal: 2.5cm piece \n- ginger: 2.5cm piece \n- lime: 1 piece \n- salt: 1 tsp \n- shallot: 3 pieces \n- turmeric: 2.5cm piece \n- water: 500ml \n- cooking oil: 300ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_fried_chicken.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_fried_catfish",
             "patterns": [
                 "catfish",
-                "coriander seed",
+                "coriander seeds",
                 "garlic",
                 "ginger",
                 "lime",
@@ -831,31 +795,30 @@
                 "shallot",
                 "turmeric",
                 "water",
-                "oil"
+                "cooking oil"
             ],
             "responses": "With ingredients, you can make Indonesian Fried Catfish \n- catfish: 2 pieces \n- coriander seeds: 1 tsp \n- garlic: 4 cloves \n- ginger: 2.5cm piece \n- lime: 1 piece \n- salt: 1 tsp \n- shallot: 3 pieces \n- turmeric: 2.5cm piece \n- water: 500ml \n- cooking oil: 300ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_fried_catfish.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_jakarta_soup",
             "patterns": [
                 "beef",
                 "beef broth",
-                "candlenut",
+                "candlenuts",
                 "coconut milk",
-                "coriander seed",
+                "coriander seeds",
                 "garlic",
                 "galangal",
                 "ginger",
-                "lime leaf",
+                "kefir lime leaves",
                 "lemongrass",
                 "salt",
                 "shallot",
                 "tomato",
                 "turmeric",
                 "white pepper",
-                "oil"
+                "cooking oil"
             ],
             "responses": "With ingredients, you can make Indonesian Jakarta Soup \n- beef: 250g \n- beef broth: 1L \n- candlenuts: 3 pieces \n- coconut milk: 250ml \n- coriander seeds: 1 tsp \n- garlic: 4 cloves \n- galangal: 2.5cm piece \n- ginger: 2.5cm piece \n- kefir lime leaves: 3 pieces \n- lemongrass: 1 stalk \n- salt: 1 tsp \n- shallot: 4 pieces \n- tomato: 1 piece \n- turmeric: 2.5cm piece \n- white pepper: 1/2 tsp \n- cooking oil: 2 tbsp \n",
             "context_set": ""
@@ -866,8 +829,8 @@
                 "black pepper",
                 "carrot",
                 "celery",
-                "clove",
-                "oil",
+                "cloves",
+                "cooking oil",
                 "garlic",
                 "ginger",
                 "leek",
@@ -880,8 +843,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Indonesian Oxtail Soup \n- black pepper: 1/2 tsp \n- carrot: 1 piece \n- celery: 1 stalk \n- cloves: 3 pieces \n- cooking oil: 2 tbsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- leek: 1 stalk \n- nutmeg: 1/2 tsp \n- oxtail: 500g \n- potato: 1 piece \n- salt: 1 tsp \n- shallot: 4 pieces \n- tomato: 1 piece \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_oxtail_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_meatball_soup",
@@ -889,45 +851,43 @@
                 "beef",
                 "beef broth",
                 "black pepper",
-                "oil",
+                "cooking oil",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "ice water",
-                "noodle",
+                "noodles",
                 "salt",
                 "shallot",
-                "flour",
+                "tapioca flour",
                 "white pepper"
             ],
             "responses": "With ingredients, you can make Indonesian Meatball Soup \n- beef: 250g \n- beef broth: 1.5L \n- black pepper: 1/2 tsp \n- cooking oil: 2 tbsp \n- fish sauce: 1 tbsp \n- garlic: 4 cloves \n- green onions: 2 sprigs \n- ice water: 100ml \n- noodles: 200g \n- salt: 1 tsp \n- shallot: 4 pieces \n- tapioca flour: 50g \n- white pepper: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_meatball_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_beef_rib_soup",
             "patterns": [
                 "beef ribs",
-                "candlenut",
+                "candlenuts",
                 "cinnamon stick",
-                "clove",
-                "coriander seed",
-                "oil",
+                "cloves",
+                "coriander seeds",
+                "cooking oil",
                 "galangal",
                 "garlic",
                 "ginger",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "nutmeg",
                 "salt",
-                "shallot",
+                "shallots",
                 "sweet soy sauce",
                 "turmeric",
                 "water"
             ],
             "responses": "With ingredients, you can make Indonesian Beef Rib Soup \n- beef ribs: 500g \n- candlenuts: 3 pieces \n- cinnamon stick: 1 piece \n- cloves: 3 pieces \n- coriander seeds: 1 tbsp \n- cooking oil: 2 tbsp \n- galangal: 5cm piece \n- garlic: 5 cloves \n- ginger: 3cm piece \n- kaffir lime leaves: 3 leaves \n- lemongrass: 1 stalk \n- nutmeg: 1/4 tsp \n- salt: 1 tsp \n- shallots: 5 pieces \n- sweet soy sauce: 2 tbsp \n- turmeric: 1/2 tsp \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_beef_rib_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_beef_offal_soup",
@@ -935,16 +895,16 @@
                 "beef broth",
                 "beef tripe",
                 "beef shank",
-                "candlenut",
-                "coriander seed",
-                "oil",
+                "candlenuts",
+                "coriander seeds",
+                "cooking oil",
                 "garlic",
                 "ginger",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
-                "peanut",
+                "peanuts",
                 "salt",
-                "shallot",
+                "shallots",
                 "turmeric",
                 "white pepper"
             ],
@@ -964,18 +924,17 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Indonesian Coconut Rice \n- bay leaf: 2 pieces \n- coconut milk: 400ml \n- galangal: 2.5cm piece \n- jasmine rice: 200g \n- lemongrass: 1 stalk \n- salt: 1/2 tsp \n- shallot: 1 piece \n- water: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_coconut_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_chicken_congee",
             "patterns": [
                 "chicken breast",
-                "broth",
-                "fried shallot",
+                "chicken broth",
+                "fried shallots",
                 "garlic",
                 "ginger",
-                "green onion",
+                "green onions",
                 "kecap manis",
                 "rice",
                 "salt",
@@ -984,24 +943,23 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Indonesian Chicken Congee \n- chicken breast: 200g \n- chicken broth: 1L \n- fried shallots: 2 tbsp \n- garlic: 2 cloves \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- kecap manis: 1 tbsp \n- rice: 150g \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- turmeric powder: 1/2 tsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_chicken_congee.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_balinese_grilled_chicken",
             "patterns": [
                 "black pepper",
-                "candlenut",
+                "candlenuts",
                 "chicken",
                 "coconut oil",
                 "galangal",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "palm sugar",
                 "red chili",
                 "salt",
-                "shallot",
+                "shallots",
                 "sweet soy sauce",
                 "turmeric"
             ],
@@ -1011,19 +969,18 @@
         {
             "tag": "indonesian_corn_fritters",
             "patterns": [
-                "corn kernel",
+                "corn kernels",
                 "egg",
                 "flour",
                 "garlic",
-                "green onion",
+                "green onions",
                 "salt",
-                "shallot",
+                "shallots",
                 "vegetable oil",
                 "water"
             ],
             "responses": "With ingredients, you can make Indonesian Corn Fritters \n- corn kernels: 200g \n- egg: 1 piece \n- flour: 100g \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- vegetable oil: 200ml \n- water: 50ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_corn_fritters.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_grilled_squid",
@@ -1033,13 +990,12 @@
                 "kecap manis",
                 "lime",
                 "salt",
-                "shallot",
+                "shallots",
                 "squid",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Indonesian Grilled Squid \n- brown sugar: 1/2 tbsp \n- garlic: 2 cloves \n- kecap manis: 1 tbsp \n- lime: 1/2 piece \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- squid: 300g \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\indonesian_grilled_squid.jpg"
+            "context_set": ""
         },
         {
             "tag": "indonesian_fried_squid_rings",
@@ -1060,35 +1016,33 @@
             "tag": "lao_sun_dried_pork",
             "patterns": [
                 "black pepper",
-                "coriander seed",
+                "coriander seeds",
                 "fish sauce",
                 "garlic",
                 "palm sugar",
                 "salt",
-                "sesame seed",
+                "sesame seeds",
                 "soy sauce",
                 "sun-dried pork"
             ],
             "responses": "With ingredients, you can make Lao Sun-Dried Pork \n- black pepper: 1/2 tsp \n- coriander seeds: 1/2 tsp \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- palm sugar: 1/2 tbsp \n- salt: 1 tsp \n- sesame seeds: 1 tbsp \n- soy sauce: 1 tbsp \n- sun-dried pork: 300g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_sun_dried_pork.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_sun_dried_beef",
             "patterns": [
                 "black pepper",
-                "coriander seed",
+                "coriander seeds",
                 "fish sauce",
                 "garlic",
                 "palm sugar",
                 "salt",
-                "sesame seed",
+                "sesame seeds",
                 "soy sauce",
                 "sun-dried beef"
             ],
             "responses": "With ingredients, you can make Lao Sun-Dried Beef \n- black pepper: 1/2 tsp \n- coriander seeds: 1/2 tsp \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- palm sugar: 1/2 tbsp \n- salt: 1 tsp \n- sesame seeds: 1 tbsp \n- soy sauce: 1 tbsp \n- sun-dried beef: 300g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_sun_dried_beef.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_herbal_pork_sausage",
@@ -1098,18 +1052,17 @@
                 "fish sauce",
                 "galangal",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "palm sugar",
                 "pork",
                 "salt",
-                "shallot",
+                "shallots",
                 "soy sauce",
                 "turmeric"
             ],
             "responses": "With ingredients, you can make Lao Herbal Pork Sausage \n- black pepper: 1/2 tsp \n- chilies: 2 pieces \n- fish sauce: 1 tbsp \n- galangal: 1 tbsp \n- garlic: 3 cloves \n- kaffir lime leaves: 4 leaves \n- lemongrass: 2 stalks \n- palm sugar: 1/2 tbsp \n- pork: 300g \n- salt: 1 tsp \n- shallots: 2 pieces \n- soy sauce: 1 tbsp \n- turmeric: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_herbal_pork_sausage.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_hot_pepper_dip",
@@ -1119,11 +1072,11 @@
                 "fish sauce",
                 "garlic",
                 "galangal",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "palm sugar",
                 "salt",
-                "shallot",
+                "shallots",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Lao Hot Pepper Dip \n- chilies: 5 pieces \n- dried buffalo skin: 50g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- galangal: 1 tbsp \n- kaffir lime leaves: 3 leaves \n- lemongrass: 1 stalk \n- palm sugar: 1 tbsp \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- vegetable oil: 1 tbsp \n",
@@ -1132,25 +1085,24 @@
         {
             "tag": "lao_green_mango_salad",
             "patterns": [
-                "bird 's eye chili",
+                "bird's eye chili",
                 "dried shrimp",
                 "fish sauce",
                 "garlic",
                 "green mango",
                 "lime",
                 "palm sugar",
-                "roasted peanut",
+                "roasted peanuts",
                 "tomato"
             ],
             "responses": "With ingredients, you can make Lao Green Mango Salad \n- bird's eye chili: 2 pieces \n- dried shrimp: 2 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green mango: 1 piece \n- lime: 1 piece \n- palm sugar: 1 tbsp \n- roasted peanuts: 2 tbsp \n- tomato: 1 piece \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_green_mango_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_crispy_coconut_rice",
             "patterns": [
                 "cooked jasmine rice",
-                "coconut flake",
+                "coconut flakes",
                 "curry paste",
                 "dried chili",
                 "fish sauce",
@@ -1159,13 +1111,12 @@
                 "lime",
                 "palm sugar",
                 "pork sausage",
-                "roasted peanut",
+                "roasted peanuts",
                 "shallot",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Lao Crispy Coconut Rice \n- cooked jasmine rice: 2 cups \n- coconut flakes: 1/4 cup \n- curry paste: 1 tbsp \n- dried chili: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onion: 2 stalks \n- lime: 1 piece \n- palm sugar: 1 tbsp \n- pork sausage: 100g \n- roasted peanuts: 2 tbsp \n- shallot: 2 pieces \n- vegetable oil: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_crispy_coconut_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_minced_duck_salad",
@@ -1176,22 +1127,21 @@
                 "galangal",
                 "garlic",
                 "green onion",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lime",
-                "mint leaf",
+                "mint leaves",
                 "roasted chili powder",
                 "shallot",
                 "sticky rice powder",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Lao Minced Duck Salad \n- cooked jasmine rice: 2 tbsp \n- duck breast: 200g \n- fish sauce: 1 tbsp \n- galangal: 1 tsp \n- garlic: 2 cloves \n- green onion: 2 stalks \n- kaffir lime leaves: 2 pieces \n- lime: 1 piece \n- mint leaves: 10 leaves \n- roasted chili powder: 1 tsp \n- shallot: 2 pieces \n- sticky rice powder: 1 tbsp \n- sugar: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_minced_duck_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_bamboo_and_yanang_leaf_stew",
             "patterns": [
-                "bamboo shoot",
+                "bamboo shoots",
                 "chili pepper",
                 "fish sauce",
                 "garlic",
@@ -1201,7 +1151,7 @@
                 "shallot",
                 "sticky rice powder",
                 "water",
-                "leaf extract"
+                "yanang leaf extract"
             ],
             "responses": "With ingredients, you can make Lao Bamboo and Yanang Leaf Stew \n- bamboo shoots: 200g \n- chili pepper: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- green onion: 2 stalks \n- lemongrass: 1 stalk \n- salt: 1/2 tsp \n- shallot: 2 pieces \n- sticky rice powder: 1 tbsp \n- water: 500ml \n- yanang leaf extract: 200ml \n",
             "context_set": ""
@@ -1209,7 +1159,7 @@
         {
             "tag": "lao_grilled_chicken_hearts",
             "patterns": [
-                "chicken heart",
+                "chicken hearts",
                 "black pepper",
                 "fish sauce",
                 "garlic",
@@ -1222,8 +1172,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Lao Grilled Chicken Hearts \n- chicken hearts: 200g \n- black pepper: 1/2 tsp \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- lemongrass: 1 stalk \n- lime: 1 piece \n- oyster sauce: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_grilled_chicken_hearts.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_rice_fermented_sour_pork",
@@ -1266,7 +1215,7 @@
                 "garlic",
                 "green onion",
                 "ground meat",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lime",
                 "mint",
                 "red onion",
@@ -1274,13 +1223,12 @@
                 "salt"
             ],
             "responses": "With ingredients, you can make Lao Minced Meat Salad \n- black pepper: 1/2 tsp \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onion: 2 stalks \n- ground meat: 200g \n- kaffir lime leaves: 2 leaves \n- lime: 1/2 piece \n- mint: 2 sprigs \n- red onion: 1/2 piece \n- roasted rice powder: 1 tbsp \n- salt: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_minced_meat_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "lao_steamed_fish",
             "patterns": [
-                "banana leaf",
+                "banana leaves",
                 "black pepper",
                 "chili pepper",
                 "cilantro",
@@ -1290,14 +1238,13 @@
                 "galangal",
                 "garlic",
                 "green onion",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "salt",
                 "shallot"
             ],
             "responses": "With ingredients, you can make Lao Steamed Fish \n- banana leaves: 2 pieces \n- black pepper: 1/2 tsp \n- chili pepper: 2 pieces \n- cilantro: 2 sprigs \n- dill: 2 sprigs \n- fish: 300g \n- fish sauce: 1 tbsp \n- galangal: 1 tbsp \n- garlic: 3 cloves \n- green onion: 2 stalks \n- kaffir lime leaves: 2 leaves \n- lemongrass: 1 stalk \n- salt: 1/2 tsp \n- shallot: 1 piece \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\lao_steamed_fish.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_nasi_lemak",
@@ -1305,19 +1252,18 @@
                 "coconut milk",
                 "cooked rice",
                 "cucumber",
-                "dried anchovy",
-                "egg",
+                "dried anchovies",
+                "eggs",
                 "garlic",
                 "oil",
                 "onion",
-                "peanut",
+                "peanuts",
                 "salt",
                 "sambal chili paste",
-                "screwpine leaf"
+                "screwpine leaves"
             ],
             "responses": "With ingredients, you can make Malaysian Nasi Lemak \n- coconut milk: 200ml \n- cooked rice: 400g \n- cucumber: 1/2 piece \n- dried anchovies: 50g \n- eggs: 2 pieces \n- garlic: 2 cloves \n- oil: 2 tbsp \n- onion: 1/2 piece \n- peanuts: 30g \n- salt: 1/2 tsp \n- sambal chili paste: 2 tbsp \n- screwpine leaves: 2 pieces \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_nasi_lemak.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_nasi_kandar",
@@ -1325,9 +1271,9 @@
                 "cooked rice",
                 "chicken",
                 "coconut milk",
-                "curry leaf",
+                "curry leaves",
                 "curry powder",
-                "egg",
+                "eggs",
                 "garlic",
                 "oil",
                 "onion",
@@ -1336,15 +1282,14 @@
                 "turmeric powder"
             ],
             "responses": "With ingredients, you can make Malaysian Nasi Kandar \n- cooked rice: 400g \n- chicken: 200g \n- coconut milk: 100ml \n- curry leaves: 5 pieces \n- curry powder: 1 tbsp \n- eggs: 2 pieces \n- garlic: 3 cloves \n- oil: 2 tbsp \n- onion: 1/2 piece \n- red chili: 1 piece \n- salt: 1/2 tsp \n- turmeric powder: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_nasi_kandar.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_char_kway_teow",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "chili paste",
-                "Chinese chive",
+                "Chinese chives",
                 "dark soy sauce",
                 "egg",
                 "fish sauce",
@@ -1352,12 +1297,11 @@
                 "light soy sauce",
                 "oil",
                 "prawn",
-                "rice noodle",
+                "rice noodles",
                 "sausage"
             ],
             "responses": "With ingredients, you can make Malaysian Char Kway Teow \n- bean sprouts: 50g \n- chili paste: 1 tbsp \n- Chinese chives: 2 sprigs \n- dark soy sauce: 1 tbsp \n- egg: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- light soy sauce: 1 tbsp \n- oil: 2 tbsp \n- prawn: 100g \n- rice noodles: 200g \n- sausage: 50g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_char_kway_teow.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_roti_canai",
@@ -1369,8 +1313,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Malaysian Roti Canai \n- butter: 2 tbsp \n- flour: 250g \n- salt: 1/2 tsp \n- sugar: 1 tbsp \n- water: 125ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_roti_canai.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_murtabak",
@@ -1389,8 +1332,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Malaysian Murtabak \n- all-purpose flour: 300g \n- egg: 2 pieces \n- garlic: 3 cloves \n- ground beef: 200g \n- ground cumin: 1 tsp \n- ground turmeric: 1/2 tsp \n- milk: 120ml \n- onion: 1 piece \n- salt: 1 tsp \n- sugar: 1/2 tsp \n- vegetable oil: 2 tbsp \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_murtabak.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_grilled_fish",
@@ -1408,8 +1350,7 @@
                 "turmeric powder"
             ],
             "responses": "With ingredients, you can make Malaysian Grilled Fish \n- banana leaf: 2 pieces \n- chili paste: 2 tbsp \n- fish: 400g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- ginger: 2.5cm piece \n- lime: 1 piece \n- oil: 2 tbsp \n- salt: 1/2 tsp \n- shallot: 2 pieces \n- turmeric powder: 1/2 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_grilled_fish.jpg"
+            "context_set": ""
         },
         {
             "tag": "malaysian_squid_in_black_ink_sauce",
@@ -1419,7 +1360,7 @@
                 "garlic",
                 "onion",
                 "salt",
-                "shallot",
+                "shallots",
                 "squid",
                 "squid ink",
                 "vegetable oil"
@@ -1445,12 +1386,12 @@
             "tag": "malaysian_spicy_sambal_squid",
             "patterns": [
                 "belacan",
-                "bird 's eye chili",
+                "bird's eye chili",
                 "garlic",
                 "lemongrass",
                 "onion",
                 "salt",
-                "shallot",
+                "shallots",
                 "squid",
                 "sugar",
                 "tamarind paste",
@@ -1464,30 +1405,29 @@
             "tag": "malaysian_peanut_pancake",
             "patterns": [
                 "all-purpose flour",
-                "powder",
-                "soda",
+                "baking powder",
+                "baking soda",
                 "butter",
                 "egg",
                 "milk",
-                "peanut",
+                "peanuts",
                 "salt",
                 "sugar",
                 "sweetened condensed milk",
                 "water"
             ],
             "responses": "With ingredients, you can make Malaysian Peanut Pancake \n- all-purpose flour: 200g \n- baking powder: 1 tsp \n- baking soda: 1/2 tsp \n- butter: 2 tbsp \n- egg: 1 piece \n- milk: 150ml \n- peanuts: 50g \n- salt: 1/4 tsp \n- sugar: 2 tbsp \n- sweetened condensed milk: 2 tbsp \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\malaysian_peanut_pancake.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_hainanese_chicken_rice",
             "patterns": [
                 "chicken",
-                "broth",
+                "chicken broth",
                 "cucumber",
                 "garlic",
                 "ginger",
-                "green onion",
+                "green onions",
                 "rice",
                 "salt",
                 "sesame oil",
@@ -1495,29 +1435,27 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Singaporean Hainanese Chicken Rice \n- chicken: 1 whole (about 1.2kg) \n- chicken broth: 1.5L \n- cucumber: 1/2 piece \n- garlic: 4 cloves \n- ginger: 5cm piece \n- green onions: 2 sprigs \n- rice: 200g \n- salt: 1 tsp \n- sesame oil: 1 tbsp \n- soy sauce: 1 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_hainanese_chicken_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_laksa",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "coconut milk",
                 "curry paste",
                 "egg",
-                "fish ball",
+                "fish balls",
                 "fish sauce",
                 "garlic",
                 "lemongrass",
                 "oil",
                 "prawn",
-                "rice noodle",
-                "tofu puff",
+                "rice noodles",
+                "tofu puffs",
                 "water"
             ],
             "responses": "With ingredients, you can make Singaporean Laksa \n- bean sprouts: 50g \n- coconut milk: 250ml \n- curry paste: 2 tbsp \n- egg: 2 pieces \n- fish balls: 100g \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- lemongrass: 1 stalk \n- oil: 2 tbsp \n- prawn: 100g \n- rice noodles: 200g \n- tofu puffs: 100g \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_laksa.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_chili_crab",
@@ -1527,7 +1465,7 @@
                 "egg",
                 "garlic",
                 "ginger",
-                "green onion",
+                "green onions",
                 "ketchup",
                 "red chili",
                 "rice vinegar",
@@ -1537,8 +1475,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Singaporean Chili Crab \n- blue crab: 2 pieces \n- chili sauce: 3 tbsp \n- egg: 1 piece \n- garlic: 3 cloves \n- ginger: 2cm piece \n- green onions: 2 sprigs \n- ketchup: 3 tbsp \n- red chili: 2 pieces \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- sugar: 1 tbsp \n- vegetable oil: 2 tbsp \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_chili_crab.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_kaya_toast",
@@ -1547,25 +1484,24 @@
                 "butter",
                 "coconut milk",
                 "egg",
-                "pandan leaf",
+                "pandan leaves",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Singaporean Kaya Toast \n- bread: 4 slices \n- butter: 2 tbsp \n- coconut milk: 100ml \n- egg: 2 pieces \n- pandan leaves: 2 pieces \n- sugar: 50g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_kaya_toast.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_fish_head_curry",
             "patterns": [
                 "coconut milk",
-                "curry leaf",
+                "curry leaves",
                 "curry powder",
                 "eggplant",
                 "fish head",
                 "garlic",
                 "ginger",
                 "green chili",
-                "mustard seed",
+                "mustard seeds",
                 "onion",
                 "salt",
                 "tamarind paste",
@@ -1575,8 +1511,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Singaporean Fish Head Curry \n- coconut milk: 200ml \n- curry leaves: 10 leaves \n- curry powder: 2 tbsp \n- eggplant: 1 piece \n- fish head: 1 piece \n- garlic: 3 cloves \n- ginger: 3cm piece \n- green chili: 2 pieces \n- mustard seeds: 1 tsp \n- onion: 1 piece \n- salt: 1 tsp \n- tamarind paste: 1 tbsp \n- tomato: 1 piece \n- turmeric powder: 1/2 tsp \n- vegetable oil: 2 tbsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_fish_head_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_roti_prata",
@@ -1589,13 +1524,12 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Singaporean Roti Prata \n- butter: 2 tbsp \n- flour: 250g \n- salt: 1/2 tsp \n- sugar: 1 tsp \n- vegetable oil: 2 tbsp \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_roti_prata.jpg"
+            "context_set": ""
         },
         {
             "tag": "singaporean_black_pepper_crab",
             "patterns": [
-                "black peppercorn",
+                "black peppercorns",
                 "butter",
                 "chili",
                 "crab",
@@ -1603,26 +1537,25 @@
                 "fish sauce",
                 "garlic",
                 "ginger",
-                "green onion",
+                "green onions",
                 "light soy sauce",
                 "oyster sauce",
                 "salt",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Singaporean Black Pepper Crab \n- black peppercorns: 1 tbsp \n- butter: 2 tbsp \n- chili: 1 piece \n- crab: 2 pieces \n- dark soy sauce: 1 tbsp \n- fish sauce: 1 tbsp \n- garlic: 4 cloves \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- light soy sauce: 1 tbsp \n- oyster sauce: 1 tbsp \n- salt: 1/2 tsp \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\singaporean_black_pepper_crab.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_tom_yum",
             "patterns": [
-                "bird 's eye chili",
+                "bird's eye chili",
                 "fish sauce",
                 "galangal",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "lime",
-                "mushroom",
+                "mushrooms",
                 "salt",
                 "shrimp",
                 "sugar",
@@ -1630,31 +1563,29 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Tom Yum \n- bird's eye chili: 2 pieces \n- fish sauce: 1 tbsp \n- galangal: 3 slices \n- kaffir lime leaves: 3 leaves \n- lemongrass: 1 stalk \n- lime: 1 piece \n- mushrooms: 100g \n- salt: 1/2 tsp \n- shrimp: 200g \n- sugar: 1/2 tsp \n- tomato: 1 piece \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_tom_yum.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_pad_thai",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "brown sugar",
-                "chili flake",
-                "egg",
+                "chili flakes",
+                "eggs",
                 "fish sauce",
                 "garlic",
                 "lime",
-                "peanut",
-                "prawn",
-                "rice noodle",
-                "shallot",
+                "peanuts",
+                "prawns",
+                "rice noodles",
+                "shallots",
                 "soy sauce",
                 "tamarind paste",
                 "tofu",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Thai Pad Thai \n- bean sprouts: 50g \n- brown sugar: 1 tbsp \n- chili flakes: 1/2 tsp \n- eggs: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lime: 1 piece \n- peanuts: 30g \n- prawns: 200g \n- rice noodles: 200g \n- shallots: 2 pieces \n- soy sauce: 1 tbsp \n- tamarind paste: 1 tbsp \n- tofu: 100g \n- vegetable oil: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_pad_thai.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_mango_sticky_rice",
@@ -1665,11 +1596,10 @@
                 "pandan leaf",
                 "salt",
                 "sugar",
-                "toasted sesame seed"
+                "toasted sesame seeds"
             ],
             "responses": "With ingredients, you can make Thai Mango Sticky Rice \n- coconut milk: 200ml \n- glutinous rice: 200g \n- mango: 1 piece \n- pandan leaf: 1 piece \n- salt: 1/2 tsp \n- sugar: 2 tbsp \n- toasted sesame seeds: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_mango_sticky_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_green_curry",
@@ -1679,7 +1609,7 @@
                 "fish sauce",
                 "green curry paste",
                 "green chili",
-                "lime leaf",
+                "kaffir lime leaves",
                 "palm sugar",
                 "salt",
                 "thai eggplant",
@@ -1687,27 +1617,25 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Green Curry \n- basil: 2 sprigs \n- coconut milk: 400ml \n- fish sauce: 1 tbsp \n- green curry paste: 2 tbsp \n- green chili: 1 piece \n- kaffir lime leaves: 2 pieces \n- palm sugar: 1 tsp \n- salt: 1/2 tsp \n- thai eggplant: 4 pieces \n- vegetable oil: 1 tbsp \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_green_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_green_papaya_salad",
             "patterns": [
                 "carrot",
-                "cherry tomato",
+                "cherry tomatoes",
                 "dried shrimp",
                 "fish sauce",
                 "garlic",
-                "green bean",
+                "green beans",
                 "green papaya",
                 "lime",
                 "palm sugar",
-                "peanut",
+                "peanuts",
                 "red chili"
             ],
             "responses": "With ingredients, you can make Thai Green Papaya Salad \n- carrot: 1/2 piece \n- cherry tomatoes: 4 pieces \n- dried shrimp: 1 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green beans: 4 pieces \n- green papaya: 200g \n- lime: 1/2 piece \n- palm sugar: 1 tbsp \n- peanuts: 2 tbsp \n- red chili: 1 piece \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_green_papaya_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_coconut_curry_noodle_soup",
@@ -1726,11 +1654,10 @@
                 "sugar",
                 "turmeric",
                 "vegetable oil",
-                "wheat noodle"
+                "wheat noodles"
             ],
             "responses": "With ingredients, you can make Thai Coconut Curry Noodle Soup \n- chicken thigh: 200g \n- coconut milk: 400ml \n- curry powder: 1 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lime: 1/2 piece \n- onion: 1/2 piece \n- red chili: 1 piece \n- red curry paste: 1 tbsp \n- shallot: 1 piece \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n- turmeric: 1/2 tsp \n- vegetable oil: 1 tbsp \n- wheat noodles: 200g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_coconut_curry_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_fried_rice",
@@ -1740,7 +1667,7 @@
                 "egg",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "jasmine rice",
                 "lime",
                 "soy sauce",
@@ -1749,36 +1676,34 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Thai Fried Rice \n- carrot: 1/2 piece \n- chicken breast: 150g \n- egg: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- jasmine rice: 200g \n- lime: 1/2 piece \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n- tomato: 1/2 piece \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_fried_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_massaman_curry",
             "patterns": [
                 "beef",
                 "coconut milk",
-                "coriander seed",
-                "cumin seed",
+                "coriander seeds",
+                "cumin seeds",
                 "fish sauce",
                 "garlic",
                 "lemongrass",
                 "massaman curry paste",
                 "onion",
-                "peanut",
+                "peanuts",
                 "potato",
                 "sugar",
                 "tamarind paste",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Thai Massaman Curry \n- beef: 250g \n- coconut milk: 400ml \n- coriander seeds: 1 tsp \n- cumin seeds: 1 tsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lemongrass: 1 stalk \n- massaman curry paste: 2 tbsp \n- onion: 1/2 piece \n- peanuts: 30g \n- potato: 1 piece \n- sugar: 1 tbsp \n- tamarind paste: 1 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_massaman_curry.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_grilled_chicken",
             "patterns": [
                 "black pepper",
-                "chicken thigh",
+                "chicken thighs",
                 "cilantro root",
                 "fish sauce",
                 "garlic",
@@ -1788,13 +1713,12 @@
                 "soy sauce"
             ],
             "responses": "With ingredients, you can make Thai Grilled Chicken \n- black pepper: 1/2 tsp \n- chicken thighs: 2 pieces \n- cilantro root: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- lemongrass: 1 stalk \n- oyster sauce: 1 tbsp \n- palm sugar: 1/2 tbsp \n- soy sauce: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_grilled_chicken.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_steamed_fish_with_lime_and_garlic",
             "patterns": [
-                "bird 's eye chili",
+                "bird's eye chili",
                 "cilantro",
                 "fish sauce",
                 "garlic",
@@ -1804,8 +1728,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Steamed Fish with Lime and Garlic \n- bird's eye chili: 2 pieces \n- cilantro: 2 sprigs \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- lime: 1 piece \n- palm sugar: 1/2 tbsp \n- sea bass: 1 whole, about 500g \n- water: 250ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_steamed_fish_with_lime_and_garlic.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_shrimp_and_coconut_soup_with_lemongrass",
@@ -1817,18 +1740,17 @@
                 "fish sauce",
                 "galangal",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "lime",
-                "mushroom",
+                "mushrooms",
                 "salt",
-                "shallot",
+                "shallots",
                 "shrimp",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Thai Shrimp-and-Coconut Soup with Lemongrass \n- chicken broth: 500ml \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- coconut milk: 400ml \n- fish sauce: 1 tbsp \n- galangal: 5cm piece \n- garlic: 2 cloves \n- kaffir lime leaves: 4 leaves \n- lemongrass: 2 stalks \n- lime: 1 piece \n- mushrooms: 100g \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- shrimp: 200g \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_shrimp_and_coconut_soup_with_lemongrass.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_coconut_milk_hotpot",
@@ -1837,17 +1759,16 @@
                 "fish sauce",
                 "galangal",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
-                "mushroom",
+                "mushrooms",
                 "palm sugar",
                 "red chili pepper",
                 "shrimp",
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Coconut Milk Hotpot \n- coconut milk: 400ml \n- fish sauce: 1 tbsp \n- galangal: 5 slices \n- garlic: 3 cloves \n- kaffir lime leaves: 4 leaves \n- lemongrass: 2 stalks \n- mushrooms: 100g \n- palm sugar: 1 tbsp \n- red chili pepper: 1 piece \n- shrimp: 200g \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_coconut_milk_hotpot.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_jim_jum_hotpot",
@@ -1857,16 +1778,15 @@
                 "carrot",
                 "chicken",
                 "egg",
-                "glass noodle",
+                "glass noodles",
                 "lemongrass",
-                "mushroom",
+                "mushrooms",
                 "pork",
                 "shrimp",
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Jim Jum Hotpot \n- basil: 10 leaves \n- cabbage: 100g \n- carrot: 1 piece \n- chicken: 200g \n- egg: 1 piece \n- glass noodles: 100g \n- lemongrass: 2 stalks \n- mushrooms: 100g \n- pork: 200g \n- shrimp: 100g \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_jim_jum_hotpot.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_suki_hotpot",
@@ -1875,17 +1795,16 @@
                 "chicken",
                 "cabbage",
                 "egg",
-                "fish ball",
-                "glass noodle",
+                "fish balls",
+                "glass noodles",
                 "garlic",
-                "mushroom",
+                "mushrooms",
                 "pork",
                 "shrimp",
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Suki Hotpot \n- carrot: 1 piece \n- chicken: 200g \n- cabbage: 100g \n- egg: 1 piece \n- fish balls: 150g \n- glass noodles: 100g \n- garlic: 3 cloves \n- mushrooms: 100g \n- pork: 200g \n- shrimp: 100g \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_suki_hotpot.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_spicy_seafood_hotpot",
@@ -1894,17 +1813,16 @@
                 "chili paste",
                 "fish sauce",
                 "galangal",
-                "lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
-                "mussel",
+                "mussels",
                 "squid",
                 "shrimp",
-                "tomato",
+                "tomatoes",
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Spicy Seafood Hotpot \n- cabbage: 100g \n- chili paste: 1 tbsp \n- fish sauce: 1 tbsp \n- galangal: 5 slices \n- kaffir lime leaves: 4 leaves \n- lemongrass: 2 stalks \n- mussels: 200g \n- squid: 150g \n- shrimp: 200g \n- tomatoes: 2 pieces \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_spicy_seafood_hotpot.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_grilled_fish",
@@ -1913,15 +1831,14 @@
                 "fish",
                 "fish sauce",
                 "garlic",
-                "kaffir lime leaf",
+                "kaffir lime leaves",
                 "lemongrass",
                 "lime",
                 "salt",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Thai Grilled Fish \n- black pepper: 1/2 tsp \n- fish: 1 whole \n- fish sauce: 2 tbsp \n- garlic: 5 cloves \n- kaffir lime leaves: 3 leaves \n- lemongrass: 3 stalks \n- lime: 1 piece \n- salt: 3 tbsp \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_grilled_fish.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_grilled_squid",
@@ -1935,13 +1852,12 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Thai Grilled Squid \n- black pepper: 1/2 tsp \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- lime: 1 piece \n- salt: 1/2 tsp \n- squid: 300g \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_grilled_squid.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_spicy_squid_salad",
             "patterns": [
-                "bird 's eye chili",
+                "bird's eye chili",
                 "celery",
                 "fish sauce",
                 "garlic",
@@ -1952,8 +1868,7 @@
                 "tomato"
             ],
             "responses": "With ingredients, you can make Thai Spicy Squid Salad \n- bird's eye chili: 2 pieces \n- celery: 20g \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lime: 1 piece \n- red onion: 1/2 piece \n- squid: 300g \n- sugar: 1 tsp \n- tomato: 1 piece \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_spicy_squid_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "thai_sour_curry_soup",
@@ -1961,8 +1876,8 @@
                 "chicken",
                 "fish sauce",
                 "garlic",
-                "green bean",
-                "kaffir lime leaf",
+                "green beans",
+                "kaffir lime leaves",
                 "palm sugar",
                 "shallot",
                 "shrimp paste",
@@ -1971,14 +1886,13 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Thai Sour Curry Soup \n- chicken: 200g \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green beans: 100g \n- kaffir lime leaves: 3 pieces \n- palm sugar: 1 tbsp \n- shallot: 2 pieces \n- shrimp paste: 1 tsp \n- tamarind paste: 2 tbsp \n- turmeric: 1 tsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\thai_sour_curry_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_beef_pho",
             "patterns": [
                 "basil",
-                "bean sprout",
+                "bean sprouts",
                 "beef bone broth",
                 "beef brisket",
                 "beef sirloin",
@@ -1986,48 +1900,46 @@
                 "chili pepper",
                 "cinnamon stick",
                 "cilantro",
-                "clove",
-                "coriander seed",
+                "cloves",
+                "coriander seeds",
                 "fish sauce",
                 "ginger",
-                "green onion",
+                "green onions",
                 "hoisin sauce",
                 "lime",
                 "onion",
-                "rice noodle",
+                "rice noodles",
                 "rock sugar",
                 "salt",
                 "sriracha sauce",
                 "star anise"
             ],
             "responses": "With ingredients, you can make Vietnamese Beef Pho \n- basil: 2 sprigs \n- bean sprouts: 50g \n- beef bone broth: 1.25L \n- beef brisket: 250g \n- beef sirloin: 100g \n- cardamom pod: 1 piece \n- chili pepper: 1/2 piece \n- cinnamon stick: 1/2 piece \n- cilantro: 2 sprigs \n- cloves: 2 pieces \n- coriander seeds: 1/2 tbsp \n- fish sauce: 1/2 tbsp \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- hoisin sauce: 1 tbsp \n- lime: 1/2 piece \n- onion: 1/2 piece \n- rice noodles: 200g \n- rock sugar: 1/2 tbsp \n- salt: 1/2 tsp \n- sriracha sauce: 1 tbsp \n- star anise: 2 pieces \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_beef_pho.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_chicken_pho",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "basil",
                 "cardamom pod",
                 "chicken",
                 "cinnamon stick",
-                "clove",
-                "coriander seed",
+                "cloves",
+                "coriander seeds",
                 "fish sauce",
                 "ginger",
-                "green onion",
+                "green onions",
                 "lime",
                 "onion",
-                "pho noodle",
+                "pho noodles",
                 "rock sugar",
                 "salt",
                 "star anise",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Chicken Pho \n- bean sprouts: 50g \n- basil: 2 sprigs \n- cardamom pod: 1 piece \n- chicken: 250g \n- cinnamon stick: 1/2 piece \n- cloves: 2 pieces \n- coriander seeds: 1/2 tbsp \n- fish sauce: 1/2 tbsp \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- onion: 1/2 piece \n- pho noodles: 200g \n- rock sugar: 1/2 tbsp \n- salt: 1/2 tsp \n- star anise: 2 pieces \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_chicken_pho.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_caramelized_pork",
@@ -2035,17 +1947,16 @@
                 "black pepper",
                 "chili pepper",
                 "coconut water",
-                "oil",
+                "cooking oil",
                 "fish sauce",
                 "garlic",
                 "pork belly",
                 "salt",
-                "shallot",
+                "shallots",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Caramelized Pork \n- black pepper: 1/2 tsp \n- chili pepper: 1 piece \n- coconut water: 250ml \n- cooking oil: 1 tbsp \n- fish sauce: 2 tbsp \n- garlic: 2 cloves \n- pork belly: 300g \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_caramelized_pork.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_braised_pork_belly",
@@ -2054,7 +1965,7 @@
                 "coconut water",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "pork belly",
                 "rock sugar",
                 "salt",
@@ -2063,8 +1974,7 @@
                 "white rice"
             ],
             "responses": "With ingredients, you can make Vietnamese Braised Pork Belly \n- black pepper: 1/2 tsp \n- coconut water: 250ml \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- pork belly: 300g \n- rock sugar: 1/2 tbsp \n- salt: 1/2 tsp \n- shallot: 1 piece \n- soy sauce: 1/2 tbsp \n- white rice: 200g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_braised_pork_belly.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_grilled_pork_with_noodles",
@@ -2077,19 +1987,18 @@
                 "green papaya",
                 "ground pork",
                 "lime",
-                "rice noodle",
+                "rice noodles",
                 "salt",
                 "sugar",
                 "vinegar",
                 "pork belly",
                 "black pepper",
-                "oil",
+                "cooking oil",
                 "lettuce",
                 "mint"
             ],
             "responses": "With ingredients, you can make Vietnamese Grilled Pork with Noodles \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cucumber: 1/2 piece \n- fish sauce: 3 tbsp \n- garlic: 3 cloves \n- green papaya: 50g \n- ground pork: 200g \n- lime: 1/2 piece \n- rice noodles: 200g \n- salt: 1/2 tsp \n- sugar: 1 tbsp \n- vinegar: 1 tbsp \n- pork belly: 200g \n- black pepper: 1/2 tsp \n- cooking oil: 1 tbsp \n- lettuce: 50g \n- mint: 10 leaves \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_grilled_pork_with_noodles.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_grilled_pork_vermicelli",
@@ -2098,15 +2007,14 @@
                 "cucumber",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lettuce",
                 "pork shoulder",
                 "rice vermicelli",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Grilled Pork Vermicelli \n- carrot: 1/2 piece \n- cucumber: 1/2 piece \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lettuce: 4 leaves \n- pork shoulder: 250g \n- rice vermicelli: 200g \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_grilled_pork_vermicelli.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_pork_belly",
@@ -2129,8 +2037,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Pork Belly \n- baguette: 2 pieces \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- mayonnaise: 2 tbsp \n- pate: 2 tbsp \n- pork belly: 200g \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_pork_belly.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_pate",
@@ -2152,8 +2059,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Pate \n- baguette: 2 pieces \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- mayonnaise: 2 tbsp \n- pate: 4 tbsp \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_pate.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_egg",
@@ -2165,7 +2071,7 @@
                 "chili pepper",
                 "cilantro",
                 "cucumber",
-                "egg",
+                "eggs",
                 "fish sauce",
                 "garlic",
                 "mayonnaise",
@@ -2175,8 +2081,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Egg \n- baguette: 2 pieces \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- eggs: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- mayonnaise: 2 tbsp \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_egg.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_grilled_beef",
@@ -2201,8 +2106,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Grilled Beef \n- baguette: 2 pieces \n- beef: 200g \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- honey: 1 tbsp \n- lemongrass: 1 stalk \n- mayonnaise: 2 tbsp \n- oyster sauce: 1 tbsp \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_grilled_beef.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_dried_beef",
@@ -2218,7 +2122,7 @@
                 "green papaya",
                 "lime",
                 "mayonnaise",
-                "peanut",
+                "peanuts",
                 "rice vinegar",
                 "salt",
                 "soy sauce",
@@ -2247,8 +2151,7 @@
                 "tomato"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Vegetables \n- baguette: 2 pieces \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- daikon radish: 1/2 piece \n- lettuce: 2 leaves \n- mayonnaise: 2 tbsp \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n- tomato: 1/2 piece \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_vegetables.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_char_siu",
@@ -2270,8 +2173,7 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Banh Mi with Char Siu \n- baguette: 2 pieces \n- black pepper: 1/2 tsp \n- butter: 2 tbsp \n- carrot: 1/2 piece \n- char siu pork: 200g \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- mayonnaise: 2 tbsp \n- rice vinegar: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_banh_mi_with_char_siu.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_banh_mi_with_pan_fried_toppings",
@@ -2307,7 +2209,7 @@
                 "cucumber",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
                 "pork chop",
                 "rice",
@@ -2317,34 +2219,32 @@
                 "vinegar"
             ],
             "responses": "With ingredients, you can make Vietnamese Broken Rice \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- chili pepper: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- pork chop: 200g \n- rice: 200g \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sugar: 1 tbsp \n- vinegar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_broken_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_steamed_rice_rolls",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "black pepper",
                 "carrot",
                 "cilantro",
                 "fish sauce",
                 "garlic",
                 "ground pork",
-                "green onion",
+                "green onions",
                 "lime",
-                "mushroom",
+                "mushrooms",
                 "onion",
                 "rice flour",
                 "salt",
-                "shallot",
+                "shallots",
                 "soy sauce",
                 "sugar",
                 "tapioca starch",
                 "vinegar"
             ],
             "responses": "With ingredients, you can make Vietnamese Steamed Rice Rolls \n- bean sprouts: 50g \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- cilantro: 2 sprigs \n- fish sauce: 2 tbsp \n- garlic: 2 cloves \n- ground pork: 150g \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- mushrooms: 50g \n- onion: 1/2 piece \n- rice flour: 100g \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- soy sauce: 1 tbsp \n- sugar: 1/2 tbsp \n- tapioca starch: 50g \n- vinegar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_steamed_rice_rolls.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fish_noodle_soup",
@@ -2356,24 +2256,23 @@
                 "fish fillet",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
                 "onion",
                 "pineapple",
-                "rice noodle",
+                "rice noodles",
                 "salt",
                 "tomato",
                 "turmeric powder",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Fish Noodle Soup \n- black pepper: 1/2 tsp \n- chilies: 2 pieces \n- cilantro: 2 sprigs \n- dill: 2 sprigs \n- fish fillet: 200g \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- onion: 1/2 piece \n- pineapple: 100g \n- rice noodles: 200g \n- salt: 1/2 tsp \n- tomato: 1 piece \n- turmeric powder: 1/2 tsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fish_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_spicy_beef_noodle_soup",
             "patterns": [
-                "beef bone",
+                "beef bones",
                 "beef brisket",
                 "black pepper",
                 "chili oil",
@@ -2381,19 +2280,18 @@
                 "cilantro",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lemongrass",
                 "lime",
                 "onion",
                 "pork hock",
-                "rice noodle",
+                "rice noodles",
                 "salt",
                 "shrimp paste",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Spicy Beef Noodle Soup \n- beef bones: 500g \n- beef brisket: 200g \n- black pepper: 1/2 tsp \n- chili oil: 2 tbsp \n- chilies: 2 pieces \n- cilantro: 2 sprigs \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lemongrass: 2 stalks \n- lime: 1/2 piece \n- onion: 1/2 piece \n- pork hock: 300g \n- rice noodles: 200g \n- salt: 1/2 tsp \n- shrimp paste: 1 tbsp \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_spicy_beef_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_crab_noodle_soup",
@@ -2402,14 +2300,14 @@
                 "chilies",
                 "cilantro",
                 "crab paste",
-                "egg",
+                "eggs",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
                 "onion",
-                "pork bone",
-                "rice noodle",
+                "pork bones",
+                "rice noodles",
                 "salt",
                 "shrimp paste",
                 "tomato",
@@ -2417,23 +2315,22 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Crab Noodle Soup \n- black pepper: 1/2 tsp \n- chilies: 2 pieces \n- cilantro: 2 sprigs \n- crab paste: 3 tbsp \n- eggs: 2 pieces \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- onion: 1/2 piece \n- pork bones: 500g \n- rice noodles: 200g \n- salt: 1/2 tsp \n- shrimp paste: 1 tbsp \n- tomato: 2 pieces \n- tofu: 150g \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_crab_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_rice_noodles_with_tofu_and_fermented_shrimp_paste",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "cucumber",
                 "fermented shrimp paste",
                 "fresh chili",
-                "green onion",
+                "green onions",
                 "perilla",
                 "mint",
                 "basil",
                 "lime",
                 "pork belly",
-                "rice noodle",
+                "rice noodles",
                 "tofu"
             ],
             "responses": "With ingredients, you can make Vietnamese Rice Noodles with Tofu and Fermented Shrimp Paste \n- bean sprouts: 50g \n- cucumber: 1/2 piece \n- fermented shrimp paste: 2 tbsp \n- fresh chili: 1 piece \n- green onions: 2 sprigs \n- herbs (perilla, mint, basil): 1 handful \n- lime: 1/2 piece \n- pork belly: 150g \n- rice noodles: 200g \n- tofu: 200g \n",
@@ -2442,27 +2339,26 @@
         {
             "tag": "vietnamese_fresh_spring_rolls",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "cucumber",
                 "perilla",
                 "mint",
                 "basil",
                 "lettuce",
-                "rice noodle",
+                "rice noodles",
                 "rice paper",
                 "shrimp",
                 "tofu"
             ],
             "responses": "With ingredients, you can make Vietnamese Fresh Spring Rolls \n- bean sprouts: 50g \n- cucumber: 1/2 piece \n- herbs (perilla, mint, basil): 1 handful \n- lettuce: 2 leaves \n- rice noodles: 100g \n- rice paper: 6 sheets \n- shrimp: 6 pieces \n- tofu: 100g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fresh_spring_rolls.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_sizzling_pancake",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "coconut milk",
-                "green onion",
+                "green onions",
                 "pork belly",
                 "rice flour",
                 "shrimp",
@@ -2470,43 +2366,40 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Sizzling Pancake \n- bean sprouts: 50g \n- coconut milk: 100ml \n- green onions: 2 sprigs \n- pork belly: 150g \n- rice flour: 100g \n- shrimp: 6 pieces \n- turmeric powder: 1/2 tsp \n- water: 150ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_sizzling_pancake.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_tapioca_dumplings",
             "patterns": [
-                "cassava leaf",
+                "cassava leaves",
                 "fish sauce",
-                "green onion",
+                "green onions",
                 "pork belly",
                 "shrimp",
                 "tapioca starch",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Tapioca Dumplings \n- cassava leaves: 4 leaves \n- fish sauce: 1 tbsp \n- green onions: 2 sprigs \n- pork belly: 150g \n- shrimp: 6 pieces \n- tapioca starch: 100g \n- water: 150ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_tapioca_dumplings.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_quang_style_noodles",
             "patterns": [
-                "black sesame rice cracker",
+                "black sesame rice crackers",
                 "chicken",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
-                "peanut",
+                "peanuts",
                 "pork belly",
-                "quang noodle",
+                "quang noodles",
                 "shrimp",
                 "turmeric powder",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Quang-Style Noodles \n- black sesame rice crackers: 2 pieces \n- chicken: 200g \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- peanuts: 2 tbsp \n- pork belly: 150g \n- quang noodles: 200g \n- shrimp: 6 pieces \n- turmeric powder: 1/2 tsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_quang_style_noodles.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_turmeric_fish_with_dill",
@@ -2515,51 +2408,49 @@
                 "fish fillet",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "lime",
-                "peanut",
-                "rice noodle",
+                "peanuts",
+                "rice noodles",
                 "shrimp paste",
                 "turmeric powder",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Turmeric Fish with Dill \n- dill: 10g \n- fish fillet: 250g \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- lime: 1/2 piece \n- peanuts: 20g \n- rice noodles: 200g \n- shrimp paste: 1/2 tbsp \n- turmeric powder: 1/2 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_turmeric_fish_with_dill.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fried_spring_rolls",
             "patterns": [
                 "black pepper",
                 "carrot",
-                "cellophane noodle",
+                "cellophane noodles",
                 "egg",
                 "fish sauce",
                 "garlic",
                 "ground pork",
-                "green onion",
-                "mushroom",
+                "green onions",
+                "mushrooms",
                 "rice paper",
                 "salt",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Fried Spring Rolls \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- cellophane noodles: 50g \n- egg: 1 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- ground pork: 200g \n- green onions: 2 sprigs \n- mushrooms: 50g \n- rice paper: 10 sheets \n- salt: 1/2 tsp \n- vegetable oil: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fried_spring_rolls.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_stewed_herbal_chicken",
             "patterns": [
                 "black pepper",
                 "chicken",
-                "Chinese date",
+                "Chinese dates",
                 "codonopsis root",
                 "fish sauce",
                 "garlic",
-                "goji berry",
-                "green onion",
+                "goji berries",
+                "green onions",
                 "salt",
-                "shiitake mushroom",
+                "shiitake mushrooms",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Stewed Herbal Chicken \n- black pepper: 1/2 tsp \n- chicken: 500g \n- Chinese dates: 4 pieces \n- codonopsis root: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- goji berries: 1 tbsp \n- green onions: 2 sprigs \n- salt: 1/2 tsp \n- shiitake mushrooms: 4 pieces \n- water: 1L \n",
@@ -2568,26 +2459,25 @@
         {
             "tag": "vietnamese_hu_tieu_noodle_soup",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "black pepper",
                 "carrot",
                 "cilantro",
                 "daikon radish",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "ground pork",
                 "hoisin sauce",
-                "pork bone",
+                "pork bones",
                 "pork liver",
-                "rice noodle",
+                "rice noodles",
                 "salt",
                 "shrimp",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Hu Tieu Noodle Soup \n- bean sprouts: 50g \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- cilantro: 2 sprigs \n- daikon radish: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onions: 2 sprigs \n- ground pork: 100g \n- hoisin sauce: 1 tbsp \n- pork bones: 500g \n- pork liver: 100g \n- rice noodles: 200g \n- salt: 1/2 tsp \n- shrimp: 100g \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_hu_tieu_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_rice_noodle_rolls",
@@ -2601,49 +2491,46 @@
                 "lettuce",
                 "lime",
                 "mint",
-                "rice paper sheet",
+                "rice paper sheets",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Rice Noodle Rolls \n- beef sirloin: 200g \n- chili pepper: 1 piece \n- cilantro: 4 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 2 tbsp \n- garlic: 2 cloves \n- lettuce: 4 leaves \n- lime: 1/2 piece \n- mint: 4 sprigs \n- rice paper sheets: 10 pieces \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_rice_noodle_rolls.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_betel_leaf_wrapped_beef",
             "patterns": [
-                "betel leaf",
+                "betel leaves",
                 "black pepper",
-                "oil",
+                "cooking oil",
                 "fish sauce",
                 "garlic",
                 "ground beef",
-                "shallot",
+                "shallots",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Betel Leaf Wrapped Beef \n- betel leaves: 10 pieces \n- black pepper: 1/2 tsp \n- cooking oil: 1 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- ground beef: 250g \n- shallots: 2 pieces \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_betel_leaf_wrapped_beef.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fried_pillow_cake",
             "patterns": [
                 "carrot",
-                "cellophane noodle",
+                "cellophane noodles",
                 "egg",
                 "fish sauce",
                 "flour",
                 "garlic",
                 "ground pork",
                 "green onion",
-                "mushroom",
+                "mushrooms",
                 "salt",
                 "shallot",
                 "sugar",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Fried Pillow Cake \n- carrot: 1/2 piece \n- cellophane noodles: 50g \n- egg: 1 piece \n- fish sauce: 1 tbsp \n- flour: 200g \n- garlic: 2 cloves \n- ground pork: 200g \n- green onion: 1 sprig \n- mushrooms: 50g \n- salt: 1/2 tsp \n- shallot: 1 piece \n- sugar: 1/2 tbsp \n- vegetable oil: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fried_pillow_cake.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fried_banana_cake",
@@ -2657,13 +2544,12 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Fried Banana Cake \n- banana: 2 pieces \n- coconut milk: 100ml \n- flour: 150g \n- salt: 1/4 tsp \n- sugar: 2 tbsp \n- vegetable oil: 200ml \n- water: 100ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fried_banana_cake.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fried_corn_cake",
             "patterns": [
-                "corn kernel",
+                "corn kernels",
                 "egg",
                 "flour",
                 "green onion",
@@ -2672,8 +2558,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Fried Corn Cake \n- corn kernels: 200g \n- egg: 1 piece \n- flour: 100g \n- green onion: 1 sprig \n- salt: 1/2 tsp \n- sugar: 1/2 tbsp \n- vegetable oil: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fried_corn_cake.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_fried_rice_with_egg",
@@ -2684,14 +2569,13 @@
                 "fish sauce",
                 "garlic",
                 "green onion",
-                "pea",
+                "peas",
                 "salt",
                 "soy sauce",
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Fried Rice with Egg \n- carrot: 1/2 piece \n- cooked rice: 400g \n- egg: 2 pieces \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onion: 1 sprig \n- peas: 50g \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- vegetable oil: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_fried_rice_with_egg.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_tofu_in_tomato_sauce",
@@ -2706,8 +2590,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Tofu in Tomato Sauce \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green onion: 1 sprig \n- salt: 1/2 tsp \n- sugar: 1/2 tbsp \n- tofu: 200g \n- tomato: 2 pieces \n- vegetable oil: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_tofu_in_tomato_sauce.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_pork_rib_porridge",
@@ -2723,8 +2606,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Pork Rib Porridge \n- fish sauce: 1 tbsp \n- ginger: 2.5cm piece \n- green onion: 1 sprig \n- pepper: 1/2 tsp \n- pork ribs: 250g \n- rice: 150g \n- salt: 1/2 tsp \n- shallot: 1 piece \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_pork_rib_porridge.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_clam_porridge",
@@ -2741,33 +2623,30 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Clam Porridge \n- clam: 300g \n- fish sauce: 1 tbsp \n- fried shallot: 1 tbsp \n- ginger: 2.5cm piece \n- green onion: 1 sprig \n- pepper: 1/2 tsp \n- rice: 150g \n- salt: 1/2 tsp \n- vegetable oil: 1 tbsp \n- water: 1.25L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_clam_porridge.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_peanut_sticky_rice",
             "patterns": [
-                "cooked peanut",
+                "cooked peanuts",
                 "salt",
                 "sticky rice",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Peanut Sticky Rice \n- cooked peanuts: 50g \n- salt: 1/2 tsp \n- sticky rice: 200g \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_peanut_sticky_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_corn_sticky_rice",
             "patterns": [
-                "cooked corn kernel",
+                "cooked corn kernels",
                 "fried shallot",
                 "salt",
                 "sticky rice",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Corn Sticky Rice \n- cooked corn kernels: 100g \n- fried shallot: 1 tbsp \n- salt: 1/2 tsp \n- sticky rice: 200g \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_corn_sticky_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_chicken_sticky_rice",
@@ -2781,8 +2660,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Chicken Sticky Rice \n- chicken: 200g \n- fried shallot: 1 tbsp \n- salt: 1/2 tsp \n- soy sauce: 1 tbsp \n- sticky rice: 200g \n- vegetable oil: 1 tbsp \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_chicken_sticky_rice.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_roast_duck",
@@ -2797,8 +2675,7 @@
                 "vegetable oil"
             ],
             "responses": "With ingredients, you can make Vietnamese Roast Duck \n- duck: 1kg \n- five-spice powder: 1 tsp \n- garlic: 3 cloves \n- honey: 1 tbsp \n- oyster sauce: 1 tbsp \n- salt: 1 tsp \n- soy sauce: 2 tbsp \n- vegetable oil: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_roast_duck.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_roast_pork",
@@ -2813,8 +2690,7 @@
                 "vinegar"
             ],
             "responses": "With ingredients, you can make Vietnamese Roast Pork \n- five-spice powder: 1 tsp \n- garlic: 3 cloves \n- pork belly: 500g \n- salt: 1 tsp \n- soy sauce: 1 tbsp \n- sugar: 1 tsp \n- vegetable oil: 1 tbsp \n- vinegar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_roast_pork.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_green_papaya_salad",
@@ -2827,12 +2703,11 @@
                 "garlic",
                 "green papaya",
                 "lime",
-                "peanut",
+                "peanuts",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Green Papaya Salad \n- beef jerky: 50g \n- carrot: 1/2 piece \n- chilies: 1 piece \n- cilantro: 2 sprigs \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- green papaya: 1/2 piece \n- lime: 1/2 piece \n- peanuts: 2 tbsp \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_green_papaya_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_spicy_beef_salad",
@@ -2846,42 +2721,40 @@
                 "garlic",
                 "lime",
                 "onion",
-                "peanut",
+                "peanuts",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Spicy Beef Salad \n- beef jerky: 100g \n- carrot: 1/2 piece \n- chilies: 1 piece \n- cilantro: 2 sprigs \n- cucumber: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lime: 1/2 piece \n- onion: 1/2 piece \n- peanuts: 2 tbsp \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_spicy_beef_salad.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_pyramid_dumpling",
             "patterns": [
-                "banana leaf",
+                "banana leaves",
                 "black pepper",
-                "broth",
-                "oil",
+                "chicken broth",
+                "cooking oil",
                 "fish sauce",
                 "garlic",
                 "ground pork",
                 "onion",
                 "rice flour",
                 "salt",
-                "shallot",
+                "shallots",
                 "tapioca starch",
-                "wood ear mushroom"
+                "wood ear mushrooms"
             ],
             "responses": "With ingredients, you can make Vietnamese Pyramid Dumpling \n- banana leaves: 4 pieces \n- black pepper: 1/2 tsp \n- chicken broth: 250ml \n- cooking oil: 1 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- ground pork: 150g \n- onion: 1/2 piece \n- rice flour: 200g \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- tapioca starch: 50g \n- wood ear mushrooms: 10g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_pyramid_dumpling.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_sour_tamarind_soup",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "catfish",
                 "cilantro",
                 "fish sauce",
-                "green onion",
+                "green onions",
                 "okra",
                 "pineapple",
                 "salt",
@@ -2891,8 +2764,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Sour Tamarind Soup \n- bean sprouts: 50g \n- catfish: 300g \n- cilantro: 2 sprigs \n- fish sauce: 1 tbsp \n- green onions: 2 sprigs \n- okra: 4 pieces \n- pineapple: 100g \n- salt: 1/2 tsp \n- sugar: 1 tsp \n- tamarind paste: 2 tbsp \n- tomato: 1 piece \n- water: 1L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_sour_tamarind_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_stir_fried_pork_intestines_with_pickled_mustard_greens",
@@ -2902,8 +2774,8 @@
                 "green chili",
                 "onion",
                 "pepper",
-                "pickled mustard green",
-                "pork intestine",
+                "pickled mustard greens",
+                "pork intestines",
                 "salt",
                 "vegetable oil"
             ],
@@ -2918,7 +2790,7 @@
                 "duck",
                 "fish sauce",
                 "garlic",
-                "green onion",
+                "green onions",
                 "onion",
                 "pepper",
                 "salt",
@@ -2931,7 +2803,7 @@
         {
             "tag": "vietnamese_grilled_snakehead_fish",
             "patterns": [
-                "banana leaf",
+                "banana leaves",
                 "fish sauce",
                 "garlic",
                 "lemongrass",
@@ -2941,13 +2813,12 @@
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Grilled Snakehead Fish \n- banana leaves: 2 pieces \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- lemongrass: 2 stalks \n- lime: 1 piece \n- red chili: 1 piece \n- snakehead fish: 1 piece (about 500g) \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_grilled_snakehead_fish.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_goat_fermented_sausage",
             "patterns": [
-                "banana leaf",
+                "banana leaves",
                 "black pepper",
                 "chili",
                 "fish sauce",
@@ -2971,7 +2842,7 @@
                 "ginger",
                 "lime",
                 "salt",
-                "sesame seed",
+                "sesame seeds",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Goat Meat with Lemon Juice \n- black pepper: 1 tsp \n- chili: 1 piece \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- goat meat: 300g \n- ginger: 2.5cm piece \n- lime: 1 piece \n- salt: 1/2 tsp \n- sesame seeds: 1 tbsp \n- sugar: 1/2 tbsp \n",
@@ -3002,14 +2873,13 @@
                 "garlic",
                 "goat meat",
                 "ginger",
-                "green onion",
+                "green onions",
                 "oyster sauce",
                 "salt",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Stir-Fried Goat Meat \n- black pepper: 1 tsp \n- chili: 1 piece \n- fish sauce: 2 tbsp \n- garlic: 3 cloves \n- goat meat: 300g \n- ginger: 2.5cm piece \n- green onions: 2 sprigs \n- oyster sauce: 1 tbsp \n- salt: 1/2 tsp \n- sugar: 1 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_stir_fried_goat_meat.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_grilled_goat_brisket",
@@ -3034,32 +2904,31 @@
                 "chilies",
                 "eel",
                 "fish sauce",
-                "fried shallot",
+                "fried shallots",
                 "garlic",
-                "glass noodle",
-                "green onion",
-                "pork bone",
+                "glass noodles",
+                "green onions",
+                "pork bones",
                 "salt",
                 "vegetable oil",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Eel Glass Noodle Soup \n- black pepper: 1 tsp \n- chilies: 2 pieces \n- eel: 300g \n- fish sauce: 2 tbsp \n- fried shallots: 2 tbsp \n- garlic: 3 cloves \n- glass noodles: 200g \n- green onions: 2 sprigs \n- pork bones: 500g \n- salt: 1 tsp \n- vegetable oil: 2 tbsp \n- water: 1.5L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_eel_glass_noodle_soup.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_crab_roe_hot_pot",
             "patterns": [
-                "bean sprout",
+                "bean sprouts",
                 "beef",
                 "crab roe",
                 "fish sauce",
                 "fried tofu",
                 "garlic",
-                "green onion",
-                "pork bone",
+                "green onions",
+                "pork bones",
                 "shrimp paste",
-                "tomato",
+                "tomatoes",
                 "vegetable oil",
                 "water"
             ],
@@ -3070,8 +2939,8 @@
             "tag": "vietnamese_oxtail_hot_pot",
             "patterns": [
                 "beef oxtail",
-                "carrot",
-                "chili pepper",
+                "carrots",
+                "chili peppers",
                 "cinnamon stick",
                 "fish sauce",
                 "garlic",
@@ -3079,18 +2948,17 @@
                 "palm sugar",
                 "salt",
                 "star anise",
-                "tomato",
+                "tomatoes",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Oxtail Hot Pot \n- beef oxtail: 500g \n- carrots: 2 pieces \n- chili peppers: 2 pieces \n- cinnamon stick: 1 piece \n- fish sauce: 3 tbsp \n- garlic: 4 cloves \n- onion: 1 piece \n- palm sugar: 1 tbsp \n- salt: 1 tsp \n- star anise: 2 pieces \n- tomatoes: 3 pieces \n- water: 2L \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_oxtail_hot_pot.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_mud_fish_hot_pot",
             "patterns": [
-                "bean sprout",
-                "chili pepper",
+                "bean sprouts",
+                "chili peppers",
                 "cilantro",
                 "fish sauce",
                 "garlic",
@@ -3109,15 +2977,15 @@
             "tag": "vietnamese_chicken_hot_pot_with_hot_mint",
             "patterns": [
                 "chicken",
-                "broth",
-                "hot mint leaf",
+                "chicken broth",
+                "hot mint leaves",
                 "lemongrass",
                 "red chili",
                 "fish sauce",
                 "salt",
                 "rock sugar",
                 "lime",
-                "rice noodle"
+                "rice noodles"
             ],
             "responses": "With ingredients, you can make Vietnamese Chicken Hot Pot with Hot Mint \n- chicken: 500g \n- chicken broth: 1.25L \n- hot mint leaves: 50g \n- lemongrass: 2 stalks \n- red chili: 1 piece \n- fish sauce: 1 tbsp \n- salt: 1/2 tsp \n- rock sugar: 1/2 tbsp \n- lime: 1/2 piece \n- rice noodles: 200g \n",
             "context_set": ""
@@ -3135,13 +3003,12 @@
                 "pineapple",
                 "rice vinegar",
                 "salt",
-                "shallot",
+                "shallots",
                 "sugar",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Vinegar Beef Hot Pot \n- beef: 400g \n- beef broth: 1.25L \n- carrot: 1 piece \n- coconut water: 250ml \n- garlic: 3 cloves \n- lemongrass: 2 stalks \n- onion: 1 piece \n- pineapple: 100g \n- rice vinegar: 100ml \n- salt: 1/2 tsp \n- shallots: 2 pieces \n- sugar: 1 tbsp \n- water: 500ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_vinegar_beef_hot_pot.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_sweet_and_sour_pork_ribs",
@@ -3159,8 +3026,7 @@
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Sweet and Sour Pork Ribs \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- green onion: 2 stalks \n- ketchup: 2 tbsp \n- palm sugar: 1 tbsp \n- pork ribs: 400g \n- red chili pepper: 1 piece \n- rice vinegar: 2 tbsp \n- salt: 1 tsp \n- tomato: 1 piece \n- water: 200ml \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_sweet_and_sour_pork_ribs.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_boiled_pork_intestines",
@@ -3168,7 +3034,7 @@
                 "ginger",
                 "green onion",
                 "lime",
-                "pork intestine",
+                "pork intestines",
                 "salt",
                 "vinegar"
             ],
@@ -3183,15 +3049,14 @@
                 "fish sauce",
                 "garlic",
                 "ground pork",
-                "green onion",
-                "mushroom",
+                "green onions",
+                "mushrooms",
                 "salt",
                 "squid",
                 "sugar"
             ],
             "responses": "With ingredients, you can make Vietnamese Stuffed Squid \n- black pepper: 1/2 tsp \n- carrot: 1/2 piece \n- fish sauce: 1 tbsp \n- garlic: 3 cloves \n- ground pork: 150g \n- green onions: 2 sprigs \n- mushrooms: 50g \n- salt: 1/2 tsp \n- squid: 2 pieces \n- sugar: 1 tsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_stuffed_squid.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_stir_fried_squid_with_lemongrass_and_chili",
@@ -3223,8 +3088,7 @@
                 "sun-dried squid"
             ],
             "responses": "With ingredients, you can make Vietnamese Grilled Dried Squid \n- black pepper: 1/2 tsp \n- chili sauce: 2 tbsp \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- lime: 1/2 piece \n- salt: 1/2 tsp \n- sugar: 1 tsp \n- sun-dried squid: 150g \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_grilled_dried_squid.jpg"
+            "context_set": ""
         },
         {
             "tag": "vietnamese_stir_fried_chicken_with_ginger",
@@ -3233,15 +3097,14 @@
                 "fish sauce",
                 "garlic",
                 "ginger",
-                "green onion",
+                "green onions",
                 "oil",
                 "salt",
                 "sugar",
                 "water"
             ],
             "responses": "With ingredients, you can make Vietnamese Stir-Fried Chicken with Ginger \n- chicken: 300g \n- fish sauce: 1 tbsp \n- garlic: 2 cloves \n- ginger: 20g \n- green onions: 2 stalks \n- oil: 1 tbsp \n- salt: 1/2 tsp \n- sugar: 1/2 tsp \n- water: 2 tbsp \n",
-            "context_set": "",
-            "image": "E:\\Chatbot\\Neural_network_chatbot\\images\\vietnamese_stir_fried_chicken_with_ginger.jpg"
+            "context_set": ""
         }
     ]
 }
